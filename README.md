@@ -203,6 +203,32 @@ The project consists of four main DAGs:
 - `mv_ventes_par_categorie`: Sales by product category
 - `mv_ventes_temporel`: Time-based sales analysis
 
+## Dashboard Previews
+
+### Sales Overview Dashboard
+<p align="center">
+  <img src="./img/dashboard_superset1.png" alt="Sales Overview Dashboard" width="100%">
+</p>
+
+### Product Analysis Dashboard
+<p align="center">
+  <img src="./img/dashboard_superset3.png" alt="Product Analysis Dashboard" width="100%">
+</p>
+
+These dashboards provide comprehensive analytics including:
+
+**Sales Overview Dashboard:**
+- Customer segmentation analysis
+- Temporal sales trends
+- Regional performance metrics
+- Sales channel distribution
+
+**Product Analysis Dashboard:**
+- Product category performance
+- Inventory turnover metrics
+- Price point analysis
+- Cross-selling opportunities
+
 ## Development
 
 ## Troubleshooting
