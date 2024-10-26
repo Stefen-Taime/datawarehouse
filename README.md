@@ -32,8 +32,8 @@ project/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd ecommerce-dw
+git clone https://github.com/Stefen-Taime/datawarehouse/
+cd datawarehouse
 ```
 
 2. Create required directories:
