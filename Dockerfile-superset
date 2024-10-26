@@ -1,0 +1,22 @@
+FROM apache/superset:latest
+
+USER root
+
+# Install system dependencies
+RUN apt-get update && \
+    apt-get install -y \
+    netcat-traditional \
+    curl \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
+
+# Create necessary directories and set permissions
+RUN mkdir -p /app/superset_home /app/docker && \
+    chown -R superset:superset /app/superset_home /app/docker
+
+# Copy initialization script and set permissions
+COPY superset-init/docker-init.sh /app/docker/docker-init.sh
+RUN chmod +x /app/docker/docker-init.sh && \
+    chown superset:superset /app/docker/docker-init.sh
+
+USER superset

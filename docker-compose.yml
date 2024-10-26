@@ -1,0 +1,161 @@
+version: '3.8'
+
+x-common-env: &common-env
+  AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+  AIRFLOW__CORE__EXECUTOR: LocalExecutor
+  AIRFLOW__CORE__FERNET_KEY: ${AIRFLOW_FERNET_KEY}
+  AIRFLOW_HOME: /opt/airflow
+  AIRFLOW__WEBSERVER__SECRET_KEY: your-secret-key-here
+  AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: 'true'
+  AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
+  AIRFLOW__SCHEDULER__DAG_DIR_LIST_INTERVAL: 30
+  AIRFLOW__CORE__DAGS_FOLDER: /opt/airflow/dags
+  AIRFLOW_CONN_WAREHOUSE_CONN: postgresql://admin:adminpassword@warehouse:5432/myapp
+
+x-common-volumes: &common-volumes
+  - ./dags:/opt/airflow/dags
+  - ./logs:/opt/airflow/logs
+  - ./scripts:/opt/airflow/scripts
+  - ./data:/opt/airflow/data
+  - ./requirements.txt:/opt/airflow/requirements.txt
+
+services:
+  airflow-init:
+    image: apache/airflow:2.7.1
+    depends_on:
+      postgres:
+        condition: service_healthy
+      warehouse:
+        condition: service_healthy
+    environment:
+      <<: *common-env
+    volumes: *common-volumes
+    command: >
+      bash -c "
+      mkdir -p /opt/airflow/{logs,dags,scripts,data} &&
+      chmod -R 777 /opt/airflow/{logs,dags,scripts,data} &&
+      airflow db init &&
+      airflow users create --username admin --firstname admin --lastname admin --role Admin --email admin@example.com --password admin &&
+      airflow connections add warehouse_conn --conn-uri postgresql://admin:adminpassword@warehouse:5432/myapp
+      "
+    user: "0:0"
+    networks:
+      - app-network
+
+  airflow-webserver:
+    image: apache/airflow:2.7.1
+    depends_on:
+      postgres:
+        condition: service_healthy
+      warehouse:
+        condition: service_healthy
+      airflow-init:
+        condition: service_completed_successfully
+    environment:
+      <<: *common-env
+    volumes: *common-volumes
+    user: "${AIRFLOW_UID:-50000}:0"
+    ports:
+      - "8080:8080"
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "http://localhost:8080/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    command: >
+      bash -c "
+      pip install --no-cache-dir -r requirements.txt &&
+      airflow webserver
+      "
+    networks:
+      - app-network
+
+  airflow-scheduler:
+    image: apache/airflow:2.7.1
+    depends_on:
+      airflow-init:
+        condition: service_completed_successfully
+      warehouse:
+        condition: service_healthy
+    environment:
+      <<: *common-env
+    volumes: *common-volumes
+    user: "${AIRFLOW_UID:-50000}:0"
+    command: >
+      bash -c "
+      pip install --no-cache-dir -r requirements.txt &&
+      airflow scheduler
+      "
+    networks:
+      - app-network
+
+  postgres:
+    image: postgres:13
+    environment:
+      - POSTGRES_USER=airflow
+      - POSTGRES_PASSWORD=airflow
+      - POSTGRES_DB=airflow
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "airflow"]
+      interval: 5s
+      retries: 5
+    networks:
+      - app-network
+
+  warehouse:
+    image: postgres:15-alpine
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: adminpassword
+      POSTGRES_DB: myapp
+      POSTGRES_INITDB_ARGS: "--encoding=UTF8"
+    ports:
+      - "5433:5432"
+    volumes:
+      - warehouse_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U admin -d myapp"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - app-network
+
+  adminer:
+    image: adminer:latest
+    ports:
+      - "8081:8080"
+    depends_on:
+      - warehouse
+      - postgres
+    environment:
+      ADMINER_DEFAULT_SERVER: warehouse
+      ADMINER_DESIGN: pepa-linha
+    networks:
+      - app-network
+
+  redis:
+    image: redis:7-alpine
+    command: redis-server --appendonly yes
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - app-network
+
+volumes:
+  postgres_data:
+  warehouse_data:
+  redis_data:
+
+networks:
+  app-network:
+    driver: bridge

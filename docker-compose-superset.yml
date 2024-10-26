@@ -1,0 +1,124 @@
+version: '3.8'
+
+services:
+  superset:
+    build:
+      context: .
+      dockerfile: Dockerfile-superset
+    container_name: superset
+    environment:
+      - SUPERSET_SECRET_KEY=kj3h45kj6h345kj6h345k6j34h5k6j3h45kj6h34k5j6h345
+      - SUPERSET_LOAD_EXAMPLES=no
+      - SUPERSET_FEATURE_EMBEDDED_SUPERSET=true
+      - SQLALCHEMY_DATABASE_URI=postgresql://superset:superset@superset-db:5432/superset
+      - PYTHONPATH=/app/pythonpath
+      - REDIS_HOST=superset-redis
+      - REDIS_PORT=6379
+      - SUPERSET_ADMIN_USERNAME=admin
+      - SUPERSET_ADMIN_PASSWORD=admin
+      - SUPERSET_ADMIN_EMAIL=admin@superset.com
+    ports:
+      - "8088:8088"
+    volumes:
+      - superset_home:/app/superset_home
+      - ./superset-init:/app/docker:ro
+    user: "superset"
+    depends_on:
+      superset-db:
+        condition: service_healthy
+      superset-redis:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8088/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - app-network
+
+  superset-init:
+    build:
+      context: .
+      dockerfile: Dockerfile-superset
+    container_name: superset_init
+    command: ["/app/docker/docker-init.sh"]
+    environment:
+      - SUPERSET_SECRET_KEY=kj3h45kj6h345kj6h345k6j34h5k6j3h45kj6h34k5j6h345
+      - SUPERSET_ADMIN_USERNAME=admin
+      - SUPERSET_ADMIN_PASSWORD=admin
+      - SUPERSET_ADMIN_EMAIL=admin@superset.com
+      - SQLALCHEMY_DATABASE_URI=postgresql://superset:superset@superset-db:5432/superset
+      - PYTHONPATH=/app/pythonpath
+      - REDIS_HOST=superset-redis
+      - REDIS_PORT=6379
+    volumes:
+      - superset_home:/app/superset_home
+      - ./superset-init:/app/docker:ro
+    user: "superset"
+    depends_on:
+      superset-db:
+        condition: service_healthy
+      superset-redis:
+        condition: service_healthy
+    networks:
+      - app-network
+
+  superset-worker:
+    build:
+      context: .
+      dockerfile: Dockerfile-superset
+    container_name: superset_worker
+    command: ["celery", "worker", "--app=superset.tasks.celery_app:app"]
+    environment:
+      - SUPERSET_SECRET_KEY=kj3h45kj6h345kj6h345k6j34h5k6j3h45kj6h34k5j6h345
+      - SQLALCHEMY_DATABASE_URI=postgresql://superset:superset@superset-db:5432/superset
+      - REDIS_HOST=superset-redis
+      - REDIS_PORT=6379
+    volumes:
+      - superset_home:/app/superset_home
+    user: "superset"
+    depends_on:
+      - superset
+      - superset-redis
+    networks:
+      - app-network
+
+  superset-db:
+    image: postgres:15-alpine
+    container_name: superset_db
+    environment:
+      - POSTGRES_USER=superset
+      - POSTGRES_PASSWORD=superset
+      - POSTGRES_DB=superset
+    volumes:
+      - superset_db_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "superset"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - app-network
+
+  superset-redis:
+    image: redis:7-alpine
+    container_name: superset_redis
+    volumes:
+      - superset_redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - app-network
+
+volumes:
+  superset_home:
+  superset_db_data:
+  superset_redis_data:
+
+networks:
+  app-network:
+    name: app-network
+    driver: bridge

@@ -1,0 +1,1001 @@
+client_id,nom,prenom,email,telephone,ville,code_postal,adresse,segment,date_inscription,age,genre,newsletter,derniere_connexion
+26225,Traore,Robert,mauricejoly@example.net,+33 (0)2 32 96 00 13,Paris,75000,"990, boulevard Humbert",Standard,2020-10-04,38,M,True,2021-09-11
+617889,Lopes,Suzanne,thierrysusan@example.org,04 83 42 35 11,Lille,59000,"6, boulevard Rémy Bertrand",Basic,2023-08-20,31,F,True,2024-08-10
+130889,Hoareau,Édouard,veronique95@example.net,+33 2 18 03 41 31,Marseille,13000,"67, chemin Monnier",Basic,2024-05-17,67,F,True,2024-06-26
+735911,Normand,Madeleine,raynaudluce@example.org,+33 3 10 76 48 35,Toulouse,31000,rue Gomes,Standard,2022-01-31,62,F,False,2023-10-16
+69403,Lecomte,Hélène,marcel76@example.net,02 76 42 38 84,Paris,75000,"769, rue Guillaume Grégoire",Premium,2022-02-02,25,M,False,2024-03-09
+792495,Rousseau,Frédéric,lorraineleroux@example.net,01 83 66 97 84,Nice,06000,"2, boulevard de Hamel",Premium,2020-08-02,57,M,True,2021-09-20
+116970,Cousin,Bernadette,cecilebernard@example.net,0327814893,Lille,59000,"92, rue de Joseph",Premium,2022-09-15,32,F,False,2023-05-24
+20422,Marie,Agnès,olivier03@example.net,+33 (0)2 31 71 82 27,Nantes,44000,"94, avenue de Lecomte",Basic,2023-12-21,63,F,False,2024-07-17
+747581,Langlois,Andrée,brigitte87@example.org,+33 3 69 15 09 83,Nantes,44000,"20, rue de Rolland",Standard,2021-07-10,22,M,True,2021-10-22
+901393,Rémy,David,rogerlaroche@example.com,+33 2 57 99 73 76,Toulouse,31000,"2, avenue de Monnier",Basic,2020-01-30,60,M,False,2023-09-07
+489710,Chauveau,Bernard,bonnetanne@example.net,0245333872,Lille,59000,"84, rue Pichon",Premium,2023-04-24,29,F,False,2024-06-24
+53045,Gilles,Élodie,morinodette@example.org,+33 5 54 77 36 02,Paris,75000,"7, avenue Sébastien Briand",Basic,2020-08-24,49,M,True,2023-08-11
+694022,Wagner,Claire,laurentcollet@example.org,+33 (0)1 82 50 09 78,Lille,59000,"90, rue Muller",Basic,2024-07-16,46,F,False,2024-07-29
+423389,Mathieu,Hélène,inesvalentin@example.org,+33 (0)5 61 99 85 43,Strasbourg,67000,"53, rue Marguerite Imbert",Standard,2021-10-24,56,F,True,2023-02-02
+331535,Hamel,David,albertlaurence@example.net,+33 (0)2 21 83 84 25,Lyon,69000,chemin Jacquet,Premium,2023-09-14,23,M,False,2024-01-14
+874244,Devaux,Maryse,juliette80@example.net,0243241182,Bordeaux,33000,"49, chemin de Martins",Premium,2023-07-17,72,F,False,2024-02-07
+512262,Deschamps,Camille,morinluce@example.com,0173052427,Nice,06000,"18, rue Blot",Standard,2024-02-11,74,F,False,2024-04-08
+37778,Lemaître,Isabelle,aurorerodriguez@example.org,0495053315,Paris,75000,"39, rue Schmitt",Standard,2024-06-15,65,M,False,2024-09-03
+188073,Gallet,Xavier,vlaroche@example.org,0298160733,Lille,59000,"44, rue Delmas",Standard,2020-01-10,21,M,True,2021-09-01
+344207,Lopes,Daniel,adele86@example.net,0155142940,Lille,59000,avenue de Barre,Standard,2023-03-15,20,F,True,2024-09-30
+457592,Seguin,Danielle,collinhortense@example.org,0173608835,Toulouse,31000,"6, chemin de Dupré",Standard,2022-06-25,60,M,True,2023-01-04
+531756,Ruiz,Margot,zmillet@example.net,0255366299,Nice,06000,"18, chemin Marc Perret",Premium,2022-05-15,58,M,True,2023-09-27
+463246,Pichon,Margot,daniellereynaud@example.net,+33 2 31 48 95 13,Paris,75000,"43, rue Lambert",Standard,2023-10-08,74,M,True,2024-01-11
+640967,Lecoq,David,olegros@example.net,+33 5 31 76 32 01,Marseille,13000,"92, rue Frédérique Menard",Standard,2023-11-09,68,F,True,2024-10-03
+478634,Lucas,Suzanne,hmartineau@example.net,0594986872,Nantes,44000,"57, chemin Gosselin",Standard,2020-11-05,36,M,False,2024-02-26
+508136,Toussaint,Olivier,brigitte14@example.org,0480581223,Montpellier,34000,"23, avenue Vincent Allard",Basic,2024-03-31,66,F,False,2024-09-27
+65290,Leclerc,Victoire,xperrier@example.net,+33 (0)5 19 70 54 66,Nantes,44000,"893, chemin Nguyen",Premium,2023-05-08,20,M,False,2024-05-19
+407746,Marques,Marguerite,kramos@example.com,+33 1 53 69 90 16,Marseille,13000,"12, avenue Victor Lecomte",Standard,2020-01-23,72,F,True,2023-12-05
+353894,Samson,Alex,odette64@example.org,01 46 80 53 10,Bordeaux,33000,rue Lefebvre,Standard,2022-08-05,80,M,False,2023-03-29
+132352,Reynaud,Marguerite,thibaultmartin@example.com,0498299124,Nantes,44000,rue de Langlois,Premium,2021-11-04,27,M,True,2024-04-16
+415922,Auger,Louis,allainmarie@example.net,+33 2 41 49 19 05,Lille,59000,"25, chemin de Richard",Standard,2023-01-03,46,M,True,2024-10-23
+862276,Camus,Franck,oetienne@example.com,+33 5 82 28 49 87,Paris,75000,"59, rue Véronique Fernandez",Premium,2023-05-22,41,M,True,2023-12-24
+255709,Hamel,Célina,bmarques@example.com,0329735454,Lille,59000,"18, rue de Clément",Premium,2023-08-25,39,F,True,2024-02-28
+512311,Berthelot,Patricia,marieollivier@example.net,06 10 14 36 34,Nice,06000,"957, chemin de Lamy",Basic,2023-04-09,61,M,False,2024-06-09
+368900,Boutin,Cécile,thibault43@example.org,+33 4 70 18 23 37,Paris,75000,"589, rue Collet",Basic,2022-08-17,80,F,True,2023-08-05
+188158,Hernandez,Alexandre,robertlambert@example.org,0254710947,Montpellier,34000,"35, chemin Martel",Basic,2022-11-19,24,M,True,2023-02-15
+420172,Marin,David,fernandeshenri@example.net,0231318699,Montpellier,34000,"78, avenue Théophile Pruvost",Standard,2020-05-15,35,F,True,2024-01-07
+596251,Legendre,Charles,ledouxmarc@example.net,+33 4 13 12 32 81,Nice,06000,"7, boulevard Charlotte Klein",Premium,2022-05-30,45,F,True,2022-07-19
+302099,Munoz,Roland,rguerin@example.org,0355618324,Strasbourg,67000,"1, chemin Valentin",Standard,2021-10-13,57,M,False,2024-03-15
+460485,Denis,Chantal,martine64@example.net,05 87 19 06 59,Toulouse,31000,"2, boulevard Coste",Standard,2022-04-08,39,M,False,2022-05-10
+604238,Fournier,Paulette,charlottepaul@example.net,04 30 29 67 17,Nice,06000,"65, rue de Renard",Premium,2022-02-08,67,M,True,2023-07-05
+727369,Costa,Sébastien,jsamson@example.org,02 33 54 51 68,Nice,06000,boulevard de Pinto,Standard,2023-04-25,23,M,True,2024-03-10
+196694,Paul,Agnès,ctoussaint@example.org,+33 4 15 82 47 71,Lille,59000,boulevard de Dupuis,Premium,2020-04-10,34,M,False,2021-08-15
+577596,Garcia,Françoise,omorin@example.org,02 50 27 48 46,Bordeaux,33000,"83, rue de Jacob",Basic,2022-06-16,65,F,False,2023-04-08
+782544,Dufour,Daniel,penelope65@example.net,0134449972,Toulouse,31000,"675, boulevard de Hoareau",Standard,2024-02-20,25,F,False,2024-08-14
+911843,Roche,Marthe,henriettejacob@example.org,01 73 57 66 27,Lille,59000,boulevard Maury,Standard,2022-07-20,56,F,False,2023-12-17
+916655,Besnard,Eugène,ugarcia@example.org,02 96 17 45 96,Nantes,44000,"6, boulevard de Gillet",Standard,2020-08-31,27,M,False,2024-09-21
+657246,Wagner,Patricia,callard@example.net,+33 (0)3 75 43 16 11,Paris,75000,"14, chemin Lefèvre",Standard,2022-07-04,77,M,True,2023-10-02
+393049,Perret,William,eleonorebouchet@example.net,+33 3 23 21 96 93,Bordeaux,33000,"823, chemin de Jacques",Standard,2022-11-11,65,F,True,2023-05-28
+942573,Turpin,Sébastien,davidpichon@example.com,0564474367,Nantes,44000,avenue Masse,Premium,2019-11-23,52,F,True,2022-12-12
+310244,Bonnin,Théodore,delmasanastasie@example.com,+33 (0)1 76 97 43 95,Nantes,44000,"59, rue de Techer",Basic,2024-09-13,80,M,False,2024-09-17
+323939,Besnard,Arthur,nath21@example.com,0558232858,Nice,06000,"52, chemin Océane Maillot",Basic,2020-02-24,26,F,False,2021-02-15
+78957,Blanchard,Olivie,margaretramos@example.net,04 97 16 04 81,Bordeaux,33000,"74, chemin de Nicolas",Basic,2023-10-19,65,M,False,2024-07-07
+494379,Laurent,Laure,juliette31@example.net,04 58 61 20 04,Marseille,13000,"2, boulevard Dufour",Basic,2021-10-20,66,F,True,2023-06-15
+389033,Leconte,Noémi,vcoste@example.net,+33 5 58 17 96 40,Lille,59000,"83, rue Dominique Étienne",Standard,2023-09-03,70,M,False,2023-11-19
+570913,Imbert,Agathe,chauvinrobert@example.org,+33 (0)6 31 13 90 05,Nice,06000,"49, boulevard Guillaume",Basic,2022-12-09,24,M,False,2024-03-08
+852547,Rey,Vincent,simonegodard@example.org,0277284210,Lyon,69000,"6, boulevard Breton",Premium,2021-08-25,77,F,True,2021-09-18
+278258,Roux,Gilbert,hlaine@example.net,+33 (0)6 77 58 91 78,Bordeaux,33000,"508, rue Charles Voisin",Premium,2021-04-18,50,F,True,2023-01-01
+719425,Nicolas,Claudine,flegrand@example.com,+33 1 88 24 99 85,Lille,59000,"884, boulevard de Perret",Premium,2023-06-10,61,M,False,2023-08-26
+894217,Bègue,Manon,auroresauvage@example.org,04 82 76 61 56,Toulouse,31000,"35, avenue de Mercier",Standard,2020-10-14,58,F,False,2021-03-04
+97758,Lesage,Étienne,suzanne28@example.org,0252656049,Bordeaux,33000,"91, rue Descamps",Standard,2020-07-16,28,F,True,2024-08-22
+888432,Nicolas,Adèle,gabriel49@example.org,01 53 94 02 44,Paris,75000,"30, boulevard Descamps",Standard,2021-09-20,32,M,True,2023-06-04
+148766,Traore,Luce,robinoceane@example.net,+33 5 17 67 52 54,Montpellier,34000,"29, rue Barbier",Basic,2020-05-28,65,M,False,2020-10-29
+285320,Pichon,Margaud,mvallee@example.com,04 23 38 15 61,Nantes,44000,"578, rue Delaunay",Standard,2020-07-04,69,M,True,2020-12-21
+214353,Hernandez,Marcel,pauletteadam@example.com,0251076226,Nice,06000,"98, chemin de Guérin",Standard,2019-11-17,29,M,True,2023-04-03
+457409,Moreau,Céline,bouvierhortense@example.com,05 59 41 60 52,Montpellier,34000,"25, rue Patrick Nguyen",Standard,2020-03-04,25,M,True,2023-07-31
+82467,Delaunay,Thierry,matthieu52@example.org,+33 (0)3 53 55 23 12,Nantes,44000,"32, rue de Schmitt",Premium,2024-04-08,54,M,False,2024-10-16
+791093,Thibault,Patricia,kbazin@example.net,0470271774,Paris,75000,"905, chemin Pinto",Basic,2023-10-05,41,F,True,2024-03-28
+59653,Tessier,Véronique,denis19@example.net,06 35 98 07 93,Paris,75000,"378, avenue Henry",Premium,2020-02-18,34,F,True,2023-01-20
+529057,Imbert,Jérôme,hoaraumathilde@example.com,02 98 55 46 65,Marseille,13000,"205, rue Frédérique Potier",Basic,2020-07-13,27,F,True,2023-10-27
+264236,Ramos,Dominique,xavierfaure@example.net,+33 4 88 46 29 14,Nantes,44000,"35, boulevard de Morin",Basic,2022-03-25,80,F,False,2024-01-11
+379404,Moreau,Agnès,jules35@example.com,+33 3 69 22 14 18,Lille,59000,"305, avenue de Brunet",Premium,2024-02-20,56,M,True,2024-04-23
+871728,Jacquot,Pénélope,michellenavarro@example.org,04 95 37 94 73,Bordeaux,33000,"84, chemin Potier",Premium,2021-05-08,20,M,False,2023-10-11
+484106,Lecoq,Roland,hgaudin@example.com,+33 3 56 92 40 75,Marseille,13000,"9, chemin Perez",Basic,2023-07-24,54,M,True,2023-11-25
+471145,Blanchet,William,orobin@example.com,0153606853,Nice,06000,"6, rue Julien",Basic,2022-02-18,44,F,True,2022-07-21
+829822,Rodrigues,Guillaume,renaultveronique@example.com,+33 6 47 90 10 43,Lyon,69000,"798, chemin Gomez",Basic,2022-08-31,63,M,False,2023-12-11
+50068,Dupuis,Astrid,handre@example.com,+33 (0)3 80 24 60 95,Marseille,13000,"262, chemin de Mercier",Basic,2020-11-06,42,F,False,2023-02-01
+531971,Guillou,Françoise,perriercharlotte@example.org,05 16 40 51 53,Paris,75000,"6, rue Benard",Premium,2024-06-10,41,M,True,2024-09-24
+853025,Weiss,Jérôme,egrenier@example.net,+33 2 61 17 04 30,Toulouse,31000,"6, boulevard Anastasie Devaux",Standard,2022-09-10,32,F,False,2023-09-12
+38399,Chrétien,Madeleine,sebastienhamon@example.org,0423156676,Marseille,13000,"87, boulevard René Perez",Premium,2021-12-20,57,F,True,2023-10-10
+451524,Marion,Valentine,emiliecousin@example.com,+33 (0)2 28 54 47 96,Nantes,44000,"85, chemin Bonneau",Basic,2020-06-26,24,F,True,2024-03-08
+670532,Boyer,Denis,gmarchal@example.net,+33 1 56 29 70 21,Nantes,44000,"75, rue de Texier",Standard,2022-02-24,19,F,False,2022-10-20
+994913,Lemaître,Alix,eledoux@example.net,+33 4 97 65 43 10,Lille,59000,"97, boulevard Georges Charles",Standard,2023-08-22,65,M,True,2024-03-11
+224993,Raymond,Sébastien,hbourgeois@example.org,+33 (0)6 30 27 15 51,Toulouse,31000,"344, rue de Étienne",Premium,2023-08-11,37,F,True,2024-09-09
+127257,Bourgeois,Sophie,noelteixeira@example.org,0498782911,Nice,06000,"97, avenue Valentine Bruneau",Standard,2021-09-20,54,M,True,2022-01-12
+332427,Clerc,David,rturpin@example.net,0255892268,Lille,59000,boulevard Brunet,Standard,2020-11-17,71,F,True,2022-03-04
+169834,Breton,Mathilde,adelaidepaul@example.com,+33 (0)3 85 38 42 49,Lyon,69000,"9, rue de Allain",Basic,2021-03-19,18,M,False,2023-09-07
+179516,Delmas,Laurence,zoe90@example.org,+33 (0)1 74 94 39 69,Strasbourg,67000,"8, boulevard de Charpentier",Standard,2021-02-15,35,M,False,2023-11-09
+506404,Moulin,Susan,dleger@example.org,+33 (0)2 97 76 77 35,Marseille,13000,"65, chemin de Alexandre",Basic,2022-05-20,28,M,False,2022-12-09
+539995,Guilbert,Franck,olivier71@example.com,03 83 21 04 69,Lille,59000,"62, chemin de Aubert",Standard,2022-12-19,47,F,True,2024-08-02
+522469,Buisson,Chantal,fle-gall@example.org,+33 (0)5 36 87 33 95,Marseille,13000,chemin Costa,Premium,2021-03-03,59,M,True,2023-09-17
+299628,Regnier,Alain,perretgregoire@example.com,0549506098,Montpellier,34000,"58, avenue Bodin",Basic,2023-10-26,73,M,True,2024-04-17
+293308,Ferrand,Maggie,rodriguezetienne@example.com,0482852398,Toulouse,31000,"100, chemin Reynaud",Basic,2024-06-28,77,F,False,2024-10-06
+156175,Seguin,Denise,victorraymond@example.com,+33 5 36 94 95 88,Nice,06000,"59, rue Alexandrie Rémy",Standard,2023-09-13,32,F,False,2023-12-07
+612056,Le Gall,Stéphanie,godardchristelle@example.com,+33 1 77 97 28 96,Lille,59000,"20, rue Besnard",Basic,2023-05-11,38,M,False,2024-01-09
+158787,Pasquier,Marie,antoinettecharrier@example.net,01 82 28 38 57,Paris,75000,"35, boulevard Zacharie Morvan",Standard,2023-05-18,26,M,True,2024-02-17
+639711,Guillet,Léon,rogerpascal@example.com,+33 4 56 43 75 75,Lyon,69000,"24, boulevard de Gillet",Standard,2022-01-23,32,M,False,2023-09-27
+810616,Rodrigues,Stéphane,hervemichele@example.org,0594473384,Toulouse,31000,"22, boulevard de Dupuis",Standard,2022-10-01,20,F,True,2023-04-07
+702371,Laporte,Maurice,bernardroussel@example.com,0651208267,Marseille,13000,"64, rue Pauline Blanc",Premium,2020-03-30,19,F,False,2022-03-21
+774568,Ramos,Claude,rogerarnaude@example.org,+33 (0)5 45 72 40 04,Marseille,13000,"515, boulevard Édith Teixeira",Premium,2024-05-13,51,M,False,2024-06-08
+490755,Maillard,Léon,remyisaac@example.net,03 88 20 54 93,Nantes,44000,"966, rue Andrée Laroche",Premium,2024-02-07,29,F,False,2024-03-15
+147442,Martel,Tristan,aimebertin@example.com,+33 6 04 54 99 04,Nantes,44000,"13, rue de Turpin",Standard,2021-05-21,70,M,True,2022-09-09
+425110,Torres,Constance,marie14@example.com,+33 3 66 27 27 95,Lille,59000,"478, boulevard Faure",Standard,2021-03-04,66,F,False,2023-05-29
+553829,Fischer,Agnès,thibaultfrederic@example.org,+33 2 79 25 87 13,Marseille,13000,"971, rue Cécile Payet",Standard,2023-08-12,59,F,True,2024-09-13
+478987,Thibault,Bertrand,zmaillet@example.com,+33 (0)5 40 40 39 10,Lyon,69000,"91, rue Georges",Basic,2023-05-07,79,M,True,2023-05-31
+428728,Arnaud,Pauline,paulineclerc@example.net,05 16 67 66 18,Lyon,69000,"31, avenue de Evrard",Standard,2022-04-03,25,M,False,2022-10-17
+875373,Bernard,Olivie,legercelina@example.net,05 19 33 75 24,Paris,75000,"1, avenue de Bonneau",Standard,2021-09-15,30,M,True,2021-10-09
+216092,Mercier,Eugène,cohenjosephine@example.net,+33 (0)3 82 06 73 83,Strasbourg,67000,boulevard Charpentier,Basic,2021-11-10,40,M,True,2022-11-08
+334394,Verdier,Joséphine,noel42@example.net,+33 5 57 44 08 92,Montpellier,34000,"88, chemin Weiss",Standard,2024-09-17,68,F,True,2024-10-19
+823975,Hardy,Timothée,jlejeune@example.com,03 39 87 33 42,Bordeaux,33000,"9, avenue Frédérique Laporte",Premium,2023-01-21,29,M,False,2023-05-05
+254655,Adam,Lucas,madeleine17@example.com,+33 (0)3 51 04 69 90,Marseille,13000,boulevard Ramos,Standard,2023-02-12,23,F,True,2024-07-17
+227558,Voisin,Marc,thibaut03@example.org,+33 (0)6 95 39 36 38,Strasbourg,67000,"86, chemin de Le Gall",Premium,2024-07-26,40,M,True,2024-08-20
+537727,Mahe,Chantal,macecharlotte@example.com,+33 4 99 56 09 32,Paris,75000,boulevard Isabelle Delorme,Basic,2022-11-15,72,M,False,2024-05-27
+309531,Brunet,Louis,michel69@example.org,04 81 47 77 25,Nice,06000,"88, boulevard Clerc",Basic,2023-05-14,41,F,False,2023-06-28
+35466,Sanchez,Thérèse,salmonaime@example.com,+33 3 72 12 03 87,Lille,59000,"8, avenue de Durand",Standard,2024-04-08,23,F,True,2024-04-10
+578440,Bouchet,Alexandre,laportemichelle@example.com,0145862118,Paris,75000,"93, chemin René Chauvin",Basic,2024-05-04,78,F,True,2024-05-19
+425750,Jacques,Geneviève,marthejean@example.com,+33 (0)1 58 16 66 87,Paris,75000,rue de Boutin,Basic,2022-12-27,22,F,True,2023-05-09
+524139,Gay,Madeleine,genevieve18@example.org,+33 3 62 97 40 14,Lyon,69000,"602, rue Coste",Premium,2020-07-07,55,M,False,2021-09-27
+973995,Garnier,Théophile,genevieveguillot@example.net,04 78 62 18 50,Paris,75000,rue Virginie Sanchez,Basic,2023-03-15,55,M,False,2023-12-04
+811131,Millet,Antoine,sabine77@example.org,0517629619,Toulouse,31000,"21, rue Alex Mendès",Standard,2023-03-10,20,M,False,2024-07-14
+775584,Perrier,Timothée,franck10@example.com,04 93 41 21 26,Paris,75000,"788, rue Blanc",Basic,2021-02-15,46,F,True,2022-08-18
+97584,Godard,Joséphine,alice04@example.com,02 31 83 98 26,Lyon,69000,"54, avenue William Andre",Basic,2024-07-11,39,F,True,2024-08-12
+289366,De Oliveira,Théophile,xgarnier@example.com,+33 7 89 93 71 24,Bordeaux,33000,chemin Zoé Legendre,Standard,2023-07-06,53,M,True,2024-04-26
+461607,Daniel,Aurore,theophilelebrun@example.net,+33 6 95 52 65 47,Marseille,13000,"75, avenue Aimée Noël",Premium,2022-08-13,56,M,True,2023-06-19
+188667,Normand,Pauline,petitjeancelina@example.net,+33 5 87 41 67 24,Toulouse,31000,"72, rue Caroline Joseph",Standard,2024-06-15,39,M,True,2024-09-16
+420274,Joubert,Corinne,cdevaux@example.com,+33 (0)2 45 35 29 09,Paris,75000,"75, rue Perrin",Standard,2024-10-06,38,F,True,2024-10-12
+535482,Letellier,Diane,carolinebesson@example.com,02 85 50 71 46,Nice,06000,rue Lévêque,Basic,2021-09-13,42,F,False,2023-01-10
+477450,Leclerc,Dorothée,eleveque@example.org,06 30 51 40 10,Paris,75000,"3, rue de Blondel",Basic,2022-09-24,47,F,False,2023-02-06
+167914,Rémy,Gabrielle,opinto@example.com,+33 3 44 66 09 37,Paris,75000,"16, rue de Leclerc",Premium,2024-07-04,78,M,True,2024-08-27
+605393,Henry,Susanne,aimeegermain@example.org,02 48 47 85 96,Bordeaux,33000,"29, chemin Camille Albert",Standard,2020-05-06,48,F,False,2021-10-24
+963308,Bonneau,Jeanne,mailletgregoire@example.com,+33 (0)3 79 41 25 28,Montpellier,34000,"39, avenue de Briand",Standard,2022-05-06,75,F,False,2023-02-18
+666371,Tanguy,Marine,frederiquebrun@example.com,0269257905,Montpellier,34000,rue Léon Jacob,Standard,2023-12-15,38,M,True,2024-07-20
+684793,Costa,Anouk,tlegros@example.com,03 21 19 03 40,Toulouse,31000,"58, avenue Moreno",Premium,2024-02-11,41,F,False,2024-08-21
+535618,Marie,Henriette,royerphilippine@example.net,0172783613,Nantes,44000,"8, chemin Thérèse Fernandez",Standard,2024-06-27,27,M,False,2024-09-20
+813308,Gomez,Marc,mathilde96@example.org,+33 3 59 30 95 84,Lyon,69000,"525, boulevard René Buisson",Basic,2020-10-23,56,M,False,2024-08-21
+142175,Hamel,Simone,rlopez@example.net,+33 2 57 32 53 67,Paris,75000,"746, rue Luce Lecoq",Standard,2020-08-15,78,M,True,2021-01-06
+540659,Bouvet,Roger,cecile75@example.net,+33 (0)2 35 75 18 63,Lille,59000,"57, chemin Yves Lévy",Standard,2023-03-29,47,M,True,2024-06-19
+593643,Vallée,Simone,maggie00@example.org,01 45 12 77 06,Montpellier,34000,"34, rue Marcelle Alves",Basic,2020-12-03,30,M,True,2021-12-26
+389906,Chartier,Manon,bernarddelaunay@example.net,0373611037,Montpellier,34000,boulevard Jean,Standard,2020-07-07,21,F,True,2024-04-19
+8454,Grenier,Zacharie,briandmarine@example.org,02 19 36 11 15,Bordeaux,33000,"72, rue Muller",Basic,2019-11-22,79,F,False,2024-05-27
+8886,Bourdon,Manon,brigittemarty@example.net,+33 2 85 69 73 11,Strasbourg,67000,"7, avenue Thomas Joly",Basic,2024-08-09,66,F,True,2024-09-02
+675933,Clément,Paul,renee04@example.org,+33 5 35 40 37 61,Lyon,69000,"29, rue de Alves",Standard,2022-03-03,46,F,True,2023-07-07
+405629,Colas,Astrid,emilie27@example.org,+33 (0)2 14 04 30 06,Strasbourg,67000,"78, avenue Émile Riou",Standard,2020-12-08,26,F,False,2023-03-21
+645972,Brunet,Roger,ruizedouard@example.net,+33 2 96 85 69 14,Toulouse,31000,"13, rue Gay",Standard,2024-05-21,46,F,False,2024-06-12
+642039,Raynaud,Bertrand,margot21@example.org,+33 1 42 27 58 84,Montpellier,34000,"52, rue de Pires",Standard,2023-09-02,34,M,False,2023-09-24
+846313,Gilbert,Richard,charlesmichele@example.net,+33 (0)7 97 85 07 92,Nice,06000,"24, rue de Dumas",Premium,2022-08-30,39,F,False,2022-09-02
+900400,Richard,Patrick,georgesaimee@example.com,+33 3 27 08 63 53,Bordeaux,33000,"24, chemin de Mathieu",Standard,2020-03-09,38,M,True,2024-06-15
+188056,Hubert,Suzanne,marechaldaniel@example.com,0468518705,Toulouse,31000,"59, boulevard de Berger",Standard,2020-04-05,42,F,True,2024-03-16
+620432,Teixeira,Pénélope,nathmorvan@example.org,+33 1 40 60 38 50,Toulouse,31000,"7, chemin de Duval",Premium,2022-12-12,41,F,True,2023-05-20
+249736,Humbert,Claudine,blanchardmichele@example.com,+33 (0)1 73 38 65 71,Strasbourg,67000,"9, avenue Sanchez",Standard,2024-04-27,75,M,False,2024-08-19
+65308,Gay,Margaud,noelklein@example.com,0536557431,Nice,06000,"29, rue Gaillard",Basic,2024-08-23,53,M,False,2024-10-05
+329287,Cordier,Georges,penelope37@example.com,04 13 11 24 90,Bordeaux,33000,"22, rue de Hamon",Standard,2023-10-11,54,M,False,2024-03-12
+51328,Labbé,Théophile,therese20@example.com,03 84 17 12 10,Lyon,69000,rue Philippe,Premium,2024-03-07,73,F,False,2024-08-09
+719622,Lombard,Madeleine,guillonjacqueline@example.com,+33 (0)1 48 13 72 15,Montpellier,34000,avenue Girard,Standard,2022-12-24,64,M,True,2023-05-03
+454197,Ramos,Anastasie,ymartinez@example.net,03 24 53 24 47,Lyon,69000,"4, chemin de Didier",Basic,2024-09-10,46,M,True,2024-09-30
+502300,Bonnet,Emmanuel,alice26@example.org,+33 1 46 65 78 75,Toulouse,31000,"556, rue Julien",Standard,2024-06-30,20,M,True,2024-10-23
+30726,Merle,Roger,georgeseleonore@example.com,+33 2 98 13 34 80,Marseille,13000,"365, rue Allain",Standard,2021-09-04,18,F,True,2023-01-11
+958377,Maury,Antoine,helene92@example.net,+33 7 78 42 70 10,Lille,59000,"930, rue Vincent Bonneau",Basic,2022-11-12,39,F,False,2023-04-17
+357311,Wagner,Joseph,charles02@example.net,+33 2 46 85 15 69,Bordeaux,33000,chemin Tristan Dufour,Standard,2020-12-03,25,F,False,2021-08-04
+830307,Riou,Claire,jerome89@example.com,+33 3 25 64 42 20,Strasbourg,67000,"169, boulevard Prévost",Basic,2023-07-13,79,F,False,2023-12-31
+109167,Mahe,Guy,noemi13@example.com,0321157043,Marseille,13000,"6, rue Michelle Martin",Standard,2024-08-16,74,M,True,2024-08-20
+459507,Peron,Astrid,antoinetteteixeira@example.com,0517179327,Paris,75000,chemin Lefebvre,Standard,2023-02-05,72,M,True,2023-10-10
+997890,Duval,David,jean62@example.net,+33 (0)2 35 59 97 06,Strasbourg,67000,"79, rue Roussel",Standard,2022-01-13,25,F,False,2023-06-11
+199212,Lejeune,Marthe,margaud44@example.org,+33 (0)1 76 69 87 20,Strasbourg,67000,"7, chemin Peltier",Standard,2021-07-24,51,F,False,2024-03-21
+209374,Pereira,André,jeandiaz@example.com,+33 (0)6 61 46 77 41,Lille,59000,"662, chemin Julien Cohen",Premium,2023-11-25,48,F,True,2023-12-12
+461101,Turpin,Rémy,virginieroyer@example.net,+33 (0)2 85 11 58 69,Lyon,69000,"906, boulevard Marianne Ollivier",Basic,2022-01-20,80,F,False,2024-06-27
+499397,Ribeiro,Édouard,cdelannoy@example.net,+33 2 51 72 23 32,Nantes,44000,rue Maggie Gay,Standard,2021-10-26,75,M,False,2022-09-04
+874625,Valentin,Raymond,nathalie11@example.com,04 75 48 70 99,Lyon,69000,"71, rue Duhamel",Premium,2021-01-26,79,M,False,2023-07-28
+795216,Roussel,Franck,renaultelise@example.com,04 13 67 99 70,Strasbourg,67000,"36, boulevard de Bazin",Premium,2024-10-08,54,F,True,2024-10-24
+40666,Delaunay,Vincent,benoitvallet@example.com,0508054447,Bordeaux,33000,"4, chemin Bernier",Standard,2023-03-26,55,F,True,2024-03-04
+282507,Chauveau,Arnaude,rochecapucine@example.org,07 38 50 82 14,Paris,75000,"962, rue de Giraud",Standard,2022-07-17,42,F,False,2023-05-12
+877633,Boyer,Paul,pineaubenoit@example.com,+33 4 26 57 86 10,Strasbourg,67000,"87, avenue Coste",Premium,2021-07-09,38,M,False,2023-11-12
+360971,Goncalves,Virginie,oceane14@example.org,01 76 29 33 33,Bordeaux,33000,"18, rue de Reynaud",Standard,2022-10-15,52,M,False,2024-09-21
+678818,Giraud,Joséphine,hubertphilippe@example.net,0426665743,Nantes,44000,"78, rue de Robert",Standard,2020-12-09,37,F,False,2023-02-11
+588730,Jourdan,Jeannine,theophile17@example.org,0427544432,Strasbourg,67000,"70, chemin de Bazin",Standard,2022-12-30,32,M,False,2023-04-17
+687237,Mahe,Théodore,astrid66@example.net,+33 (0)3 51 53 87 58,Bordeaux,33000,"38, rue Charlotte Rodriguez",Premium,2020-01-12,76,M,False,2022-03-25
+799977,Vidal,Maggie,marcelle13@example.com,+33 4 66 65 54 94,Bordeaux,33000,"8, boulevard Blin",Standard,2024-07-26,60,F,True,2024-09-24
+495158,Leclercq,Constance,bazinalex@example.net,0557022356,Paris,75000,"62, rue de Merle",Standard,2020-06-02,44,F,True,2021-02-08
+348787,Lefort,Joseph,luce00@example.com,0361292712,Strasbourg,67000,"76, avenue Alice Thomas",Basic,2023-12-17,38,M,False,2023-12-31
+209100,Foucher,Alix,lebrunolivie@example.net,+33 1 46 03 35 42,Toulouse,31000,boulevard Jacqueline Schneider,Premium,2024-05-09,35,M,False,2024-06-10
+863862,Lambert,Théophile,cecile89@example.net,0582257532,Marseille,13000,"4, rue Lecomte",Standard,2020-05-14,38,F,False,2020-07-21
+177193,Denis,Aimée,malletlucie@example.com,+33 (0)1 75 10 01 67,Marseille,13000,"9, avenue Martine Brunet",Premium,2024-02-08,47,M,True,2024-04-27
+315743,De Oliveira,Margaud,dupredorothee@example.com,+33 5 61 18 91 41,Strasbourg,67000,rue Julie Bourgeois,Basic,2019-11-22,20,M,True,2022-02-16
+211469,Pelletier,Maryse,kcollet@example.org,03 60 75 30 01,Bordeaux,33000,avenue de Gérard,Basic,2024-04-06,64,M,False,2024-05-10
+78693,Ramos,Monique,boucherlucy@example.org,04 50 47 01 20,Bordeaux,33000,"75, rue de Gauthier",Standard,2024-03-01,29,F,False,2024-03-18
+893385,Dos Santos,Margaud,vincentpelletier@example.com,0235552166,Lille,59000,"86, rue Frédéric Payet",Standard,2019-11-24,30,F,False,2020-05-24
+108751,Delattre,Jeanne,rcolas@example.com,+33 5 19 59 02 77,Nice,06000,avenue Benjamin Andre,Basic,2021-03-03,41,M,False,2022-04-13
+12960,Fischer,Margaret,margueritemaillot@example.net,+33 (0)5 81 37 56 28,Lille,59000,"1, rue de Bodin",Standard,2022-06-27,33,M,False,2024-06-25
+911648,Gaillard,Denis,plebrun@example.com,0176838663,Montpellier,34000,avenue Suzanne Baudry,Standard,2024-01-12,38,F,True,2024-07-04
+898198,Didier,Caroline,georges70@example.org,05 57 08 80 19,Marseille,13000,"98, avenue Leblanc",Standard,2020-07-24,70,F,True,2023-08-26
+856255,Hubert,Camille,jremy@example.net,04 95 71 13 05,Toulouse,31000,"98, rue Benjamin Gaillard",Premium,2020-04-10,69,M,False,2024-06-17
+861760,Wagner,Noémi,qgautier@example.net,+33 3 45 16 37 35,Marseille,13000,rue Luce Maillet,Basic,2021-01-03,28,F,False,2023-07-06
+809652,Lebreton,Céline,colettethomas@example.net,+33 (0)5 81 97 82 92,Bordeaux,33000,"71, boulevard de Seguin",Basic,2020-11-10,59,F,True,2024-08-12
+528597,Jacob,Astrid,robertchauvin@example.com,0630226984,Strasbourg,67000,"458, rue Ferrand",Standard,2022-07-20,18,M,True,2023-10-14
+965939,Maillet,Gilles,constanceallard@example.net,0249587996,Nantes,44000,"146, rue de Laurent",Standard,2022-10-01,37,F,False,2023-07-23
+55642,Leconte,Bertrand,renehamel@example.org,0385204380,Lille,59000,"91, boulevard Perrier",Standard,2021-01-18,56,M,False,2022-01-22
+822405,Grenier,Sébastien,weberamelie@example.com,0178043973,Toulouse,31000,"99, boulevard de Pierre",Basic,2024-02-28,52,M,False,2024-05-13
+470616,Schmitt,Maggie,lemoinejerome@example.net,+33 (0)5 18 06 48 42,Nantes,44000,"640, rue Augustin Brunet",Basic,2022-04-25,80,F,False,2023-09-08
+811242,Toussaint,Laetitia,claudine98@example.com,+33 (0)4 71 83 28 18,Toulouse,31000,"98, rue Adèle Louis",Basic,2020-03-31,72,F,True,2022-01-22
+347148,Alves,Théodore,odettemaurice@example.net,01 41 15 73 99,Paris,75000,"6, rue Alice Boucher",Basic,2022-08-21,35,F,True,2023-11-03
+955604,Blondel,Valentine,denise87@example.com,+33 (0)4 50 35 81 12,Bordeaux,33000,"401, rue de Pottier",Standard,2020-01-09,62,M,False,2023-08-18
+215565,Tanguy,Véronique,ejourdan@example.net,+33 1 49 75 01 10,Toulouse,31000,"28, rue de Poirier",Premium,2020-09-11,33,F,True,2022-06-06
+473039,Lombard,Anne,bgomes@example.com,+33 (0)1 40 91 90 15,Toulouse,31000,"5, chemin de Seguin",Premium,2023-02-11,74,M,False,2023-04-19
+802448,Navarro,Alex,bpeltier@example.com,+33 3 66 26 84 24,Lyon,69000,"90, rue de Denis",Basic,2022-03-17,70,F,False,2022-05-20
+600538,Godard,Anaïs,schneidermarc@example.net,0362682223,Bordeaux,33000,"23, boulevard Vincent",Standard,2019-11-09,45,M,True,2024-07-10
+675990,Dias,David,marguerite14@example.org,+33 7 45 52 31 49,Strasbourg,67000,chemin Vallée,Premium,2023-09-27,57,F,True,2024-09-11
+646281,Delmas,Thibault,genevieveduhamel@example.com,0567205336,Nantes,44000,"62, avenue Caroline Pelletier",Premium,2022-08-10,24,M,False,2023-11-27
+578469,Nicolas,Jérôme,guyotvalerie@example.org,+33 4 11 11 08 09,Bordeaux,33000,"49, boulevard Bertin",Standard,2023-12-15,28,M,True,2024-07-13
+495036,Guibert,Philippine,aimeemichaud@example.org,0258788165,Lyon,69000,"4, rue de Boulay",Premium,2024-05-27,37,M,False,2024-09-03
+467896,Leroux,Joseph,nathaliefoucher@example.com,0170373145,Marseille,13000,"4, chemin de Chevallier",Premium,2021-01-03,30,F,True,2023-01-02
+924374,Lambert,Augustin,francois84@example.net,0325665918,Nice,06000,"93, chemin Thérèse Barre",Standard,2023-09-06,61,F,False,2024-09-18
+930267,Texier,Aimé,brigittegaillard@example.org,+33 (0)4 32 32 22 59,Toulouse,31000,"4, chemin Michelle Noël",Standard,2023-11-30,42,M,False,2024-06-04
+502290,Lacroix,Jeanne,madeleinebouchet@example.org,+33 1 73 29 92 28,Paris,75000,rue de Lefèvre,Standard,2023-11-20,61,M,False,2024-01-23
+967255,Arnaud,Diane,kjoseph@example.net,+33 (0)4 37 13 79 77,Lyon,69000,"36, rue de Ferrand",Standard,2022-01-04,36,M,False,2024-10-24
+277370,Brun,Monique,cecile99@example.org,+33 5 18 62 10 38,Nice,06000,"22, avenue Bonneau",Basic,2024-02-28,45,F,False,2024-10-17
+920390,Rossi,Constance,morinchristine@example.net,+33 1 30 68 65 08,Montpellier,34000,"77, boulevard Suzanne Traore",Standard,2020-02-23,61,M,False,2020-12-22
+140386,Adam,Christiane,emilejacquet@example.net,03 88 30 09 81,Nantes,44000,"7, rue de Lagarde",Standard,2023-06-07,52,M,True,2024-02-07
+379867,Gautier,Honoré,lgilles@example.com,0563959463,Lille,59000,"387, boulevard Frédérique Guillet",Basic,2023-04-17,69,M,True,2023-10-31
+605711,Barre,Philippine,iguyon@example.net,+33 (0)3 71 72 13 86,Nice,06000,"390, rue Suzanne Robin",Standard,2022-06-03,40,F,True,2023-01-14
+970836,Brunel,Bernadette,andreremy@example.org,0228906698,Paris,75000,"802, rue Luc Descamps",Basic,2023-10-29,57,F,True,2024-10-24
+299899,Leclercq,Arthur,laetitiaroy@example.net,+33 (0)4 93 30 21 46,Bordeaux,33000,"46, rue de Gallet",Standard,2024-03-21,21,F,True,2024-04-16
+576289,Jacquet,Monique,adelaide43@example.net,+33 6 31 69 04 26,Lille,59000,"9, boulevard Cousin",Standard,2020-07-31,42,M,False,2022-01-10
+841945,Blanchet,Pierre,marine76@example.net,03 81 57 79 07,Toulouse,31000,rue Alex Couturier,Premium,2020-10-22,42,M,False,2024-02-29
+709794,Boutin,Michel,antoinette58@example.net,+33 (0)4 11 34 16 51,Montpellier,34000,"67, rue Henriette Royer",Standard,2021-09-08,80,F,False,2022-06-18
+523238,Gallet,Luc,nathalieguillot@example.com,+33 3 71 33 95 21,Nantes,44000,avenue Bonneau,Standard,2021-06-06,55,M,True,2021-06-16
+44316,Leduc,Alix,clemence94@example.com,+33 4 32 63 92 08,Montpellier,34000,"18, chemin de Carlier",Standard,2024-06-02,70,M,True,2024-10-13
+479404,Mathieu,Marthe,sgomes@example.org,+33 (0)3 61 69 15 59,Montpellier,34000,"58, chemin Georges",Basic,2021-04-20,69,M,True,2023-11-28
+383699,Gonzalez,Colette,alacroix@example.net,0495647292,Nice,06000,"51, boulevard Lesage",Standard,2022-09-24,38,F,True,2024-07-20
+205587,Rodrigues,Susanne,christellepetit@example.org,08 02 88 57 44,Bordeaux,33000,"206, rue de Lopez",Basic,2023-01-20,35,F,False,2023-07-06
+499687,Lombard,Étienne,vvallet@example.com,0493884506,Nice,06000,boulevard Louis Verdier,Standard,2021-12-23,26,M,True,2024-06-04
+183017,Valette,Roland,victor87@example.net,02 28 69 47 22,Toulouse,31000,"76, rue Renard",Basic,2024-05-23,43,F,False,2024-07-28
+328709,Prévost,Marcelle,mathilde49@example.net,04 22 75 98 76,Bordeaux,33000,"30, rue de Peltier",Standard,2021-10-03,39,M,False,2022-10-28
+220800,Brun,Anastasie,gauthierchristophe@example.com,+33 (0)1 53 68 11 49,Montpellier,34000,"7, rue Paul Gallet",Standard,2020-06-29,39,M,True,2022-11-28
+656912,Marchand,Gilles,antoinefontaine@example.net,0475778487,Nice,06000,"829, boulevard de Gay",Standard,2023-08-01,65,F,True,2024-09-10
+324703,Perrot,Christine,susanblanc@example.com,0497642400,Nantes,44000,"55, boulevard Alain Lagarde",Premium,2024-05-09,39,F,False,2024-08-12
+314164,Petit,Pauline,mklein@example.org,+33 (0)5 16 36 86 63,Lille,59000,"46, rue Audrey Toussaint",Basic,2023-11-15,37,M,True,2024-02-16
+801676,Raymond,Susan,roland84@example.com,+33 2 18 22 41 79,Lille,59000,"89, chemin Moreau",Standard,2024-03-17,26,F,False,2024-05-15
+560957,Simon,Julien,carrerene@example.org,01 41 31 20 73,Strasbourg,67000,"84, avenue Marthe David",Premium,2020-03-27,56,M,True,2023-01-17
+884522,Hamel,William,da-costaphilippine@example.com,+33 (0)6 42 34 60 13,Strasbourg,67000,"13, avenue Guyon",Standard,2020-06-30,46,M,True,2021-04-17
+698359,Guillaume,Christelle,tbazin@example.com,+33 1 72 88 14 74,Nice,06000,"40, rue Couturier",Premium,2024-03-31,40,F,True,2024-09-15
+15799,Brun,Stéphanie,isabelle16@example.org,+33 (0)1 72 97 92 51,Paris,75000,"27, boulevard de Maillot",Basic,2022-07-29,37,F,True,2022-10-30
+372787,Imbert,Honoré,marchandclaire@example.org,0486730652,Lyon,69000,"8, avenue de Vaillant",Basic,2020-04-27,58,F,True,2022-10-29
+730897,Camus,Laurent,emilieleveque@example.com,04 26 98 21 82,Marseille,13000,"94, avenue Adrien Diallo",Basic,2024-06-06,72,F,True,2024-10-07
+397455,Peron,Julien,legendreaimee@example.net,+33 4 73 18 63 87,Marseille,13000,"59, avenue Lucy Lebrun",Standard,2024-02-12,18,M,True,2024-03-25
+548615,Delmas,Daniel,dumontjoseph@example.org,+33 2 44 73 10 96,Nice,06000,"58, chemin Louis",Premium,2020-08-19,37,F,False,2023-03-18
+13721,Guillaume,Marcelle,dchevalier@example.net,+33 (0)4 93 86 50 94,Toulouse,31000,"2, rue Martin Paul",Basic,2020-06-01,58,F,False,2021-03-29
+760397,Grondin,Élisabeth,maubert@example.net,+33 3 27 88 61 95,Bordeaux,33000,"26, rue Dias",Standard,2020-09-03,31,F,False,2022-05-19
+353907,Descamps,Hugues,ubenard@example.net,0508665939,Lille,59000,"96, chemin de Alves",Basic,2024-02-09,74,F,False,2024-08-02
+416379,Martin,Monique,jacquetjeannine@example.org,+33 4 58 04 33 50,Nantes,44000,"98, boulevard de Masse",Basic,2023-08-15,31,F,True,2023-12-13
+39569,Jacques,Agathe,guillaumeaubry@example.com,+33 3 73 44 19 69,Lille,59000,"6, rue Claire Blot",Basic,2020-08-12,30,M,True,2023-08-08
+859324,Gauthier,Jeannine,auguste96@example.org,+33 (0)4 80 56 61 39,Bordeaux,33000,avenue de Vincent,Standard,2024-09-18,32,F,False,2024-10-02
+43182,Julien,Élodie,victorgaudin@example.net,+33 2 90 06 79 98,Nantes,44000,avenue Charpentier,Standard,2024-04-10,73,M,False,2024-09-10
+138610,Marques,Émile,vmasse@example.org,04 11 16 86 22,Lille,59000,"737, boulevard de Pierre",Basic,2021-01-26,34,M,False,2023-06-16
+258207,Berger,David,philippine65@example.net,+33 (0)2 47 66 55 35,Nantes,44000,"304, boulevard Valentine Pichon",Standard,2024-04-09,34,F,True,2024-06-04
+47057,Rey,Luc,honore11@example.net,+33 (0)3 81 92 40 51,Paris,75000,"17, rue Nicole Tanguy",Premium,2023-07-24,42,F,True,2024-01-04
+572967,Barbe,Odette,emmanuelle79@example.net,+33 1 46 69 80 42,Lille,59000,rue Sophie Grenier,Standard,2021-07-19,67,F,False,2024-03-04
+55663,Turpin,Marcelle,mercieramelie@example.net,0493104636,Paris,75000,"6, boulevard Élisabeth Blanc",Basic,2022-02-13,37,M,False,2022-11-29
+524970,Albert,Gabrielle,fournierpaul@example.net,0479762055,Montpellier,34000,"93, rue Lorraine Boucher",Standard,2021-07-03,23,M,False,2023-02-24
+989999,Berthelot,Roger,henrileblanc@example.com,+33 2 32 68 93 63,Bordeaux,33000,"56, chemin de Pons",Standard,2020-01-24,75,F,False,2024-09-03
+216800,Guibert,Guillaume,guillaumeruiz@example.net,+33 5 79 29 25 18,Paris,75000,"3, rue Nathalie Martinez",Premium,2020-12-07,42,M,True,2024-03-10
+922885,Pasquier,Antoinette,capucine42@example.org,+33 (0)2 57 20 99 49,Nice,06000,"439, rue Pelletier",Standard,2022-07-11,76,F,True,2022-11-11
+140600,Gaudin,Camille,pmendes@example.com,+33 5 33 77 22 33,Lille,59000,rue Richard Pasquier,Basic,2023-11-13,53,F,True,2024-02-07
+794586,Martins,Christophe,brigittechauvet@example.com,0633366096,Strasbourg,67000,"96, rue de Dijoux",Premium,2021-07-16,67,F,False,2022-01-01
+479094,Dupont,Patrick,cguyon@example.net,01 76 34 76 44,Nice,06000,"56, rue de Blot",Standard,2023-08-28,25,M,False,2024-10-02
+486097,Imbert,Catherine,maceconstance@example.org,+33 2 61 66 57 02,Strasbourg,67000,"237, chemin Marine Delahaye",Basic,2021-01-08,46,M,True,2024-01-18
+753270,Peron,Gérard,noelmaryse@example.com,0231868926,Strasbourg,67000,"30, boulevard Margaux Gérard",Basic,2021-03-17,59,M,False,2021-11-23
+187555,Lecoq,Michèle,humbertthibault@example.com,04 42 21 23 09,Montpellier,34000,"8, avenue Émilie Thomas",Standard,2021-01-16,52,F,False,2023-08-18
+249433,Carpentier,Jacqueline,ade-sousa@example.com,+33 (0)1 40 38 49 83,Strasbourg,67000,rue Lefèvre,Basic,2024-01-05,30,M,True,2024-09-14
+38504,Rodrigues,Dominique,martineauhortense@example.net,0478101622,Nice,06000,"99, avenue Bouvet",Standard,2022-10-13,61,M,False,2024-01-05
+976727,Da Silva,Éric,tristan56@example.org,01 88 47 21 45,Marseille,13000,"48, rue de Raymond",Standard,2022-11-17,68,F,True,2023-01-01
+599121,Chauveau,Louise,guilletmonique@example.net,0565954899,Nantes,44000,"89, avenue de Teixeira",Basic,2020-09-28,37,M,False,2024-03-06
+926588,Bourdon,Nicolas,leon01@example.org,02 50 39 66 05,Bordeaux,33000,"430, chemin de Adam",Basic,2021-05-05,27,M,True,2024-09-13
+322722,Ribeiro,Corinne,pauline01@example.net,0483699023,Marseille,13000,"87, rue Leduc",Basic,2020-05-22,34,F,True,2021-09-16
+935390,Regnier,Xavier,vpasquier@example.org,0470880395,Paris,75000,"3, rue Yves Mallet",Basic,2023-09-25,59,F,True,2024-01-31
+635111,Perrier,Julien,hamelthibault@example.net,0158461735,Bordeaux,33000,"93, rue Frédéric Besson",Standard,2024-09-01,38,F,True,2024-09-04
+957720,Morin,Capucine,guilletconstance@example.org,+33 4 83 78 45 21,Bordeaux,33000,"13, avenue Michèle Barbe",Standard,2021-07-13,52,M,True,2022-01-08
+326087,Bertrand,Marianne,le-rouxchantal@example.org,+33 (0)4 68 09 43 53,Marseille,13000,"94, avenue Marguerite Lemaire",Basic,2019-11-06,77,M,False,2022-03-02
+165146,Paris,Gabriel,loiseaugabrielle@example.net,+33 (0)3 59 85 85 42,Lyon,69000,"49, rue Langlois",Standard,2021-01-30,33,F,True,2023-09-09
+566836,Hebert,Benoît,antoinegeorges@example.net,+33 (0)2 44 60 16 62,Nantes,44000,"697, chemin Thérèse Philippe",Basic,2022-09-11,35,F,True,2024-03-17
+82361,Faivre,Paulette,iduhamel@example.org,02 37 74 77 33,Toulouse,31000,"745, chemin Germain",Basic,2024-05-08,22,M,True,2024-08-04
+31734,François,Christelle,martychristiane@example.com,+33 4 34 59 92 81,Strasbourg,67000,"6, rue de Hernandez",Basic,2023-12-17,52,F,True,2024-07-10
+420286,Maury,Antoinette,laureberger@example.net,+33 6 98 61 53 96,Bordeaux,33000,"458, rue Rousset",Standard,2023-09-26,71,F,True,2024-10-07
+620928,Godard,Célina,frederique17@example.org,0553191965,Lille,59000,"2, rue Blin",Standard,2020-10-14,52,F,True,2024-08-17
+793853,Caron,Margaud,catherinerossi@example.com,06 03 35 49 46,Lyon,69000,"11, boulevard de Antoine",Premium,2019-10-25,26,F,False,2020-11-24
+65442,Lemaître,Emmanuelle,martinmaryse@example.net,0246403696,Nice,06000,"76, avenue Émilie Lecomte",Standard,2022-04-25,33,M,False,2023-01-19
+145824,Roche,Frédérique,aalves@example.org,0254201027,Lyon,69000,"22, avenue Pineau",Premium,2023-11-08,69,F,False,2024-10-20
+653523,Arnaud,Cécile,ccourtois@example.com,0369269097,Nice,06000,"58, boulevard Hortense Poulain",Standard,2023-06-08,45,F,True,2023-07-03
+595748,Guillet,Maryse,frederic97@example.net,+33 (0)2 72 84 78 18,Montpellier,34000,"4, rue Marianne Couturier",Standard,2020-02-19,79,F,False,2024-09-20
+327679,Raymond,Bernard,elisabeth07@example.com,04 78 65 44 20,Paris,75000,"549, avenue Delorme",Standard,2024-09-28,47,F,True,2024-10-06
+54127,Descamps,Stéphane,renaultclaire@example.org,+33 2 23 44 29 44,Paris,75000,"2, rue de Maury",Standard,2024-09-07,20,M,False,2024-10-12
+691174,Cohen,Alexandrie,raymondbonnin@example.org,03 28 80 51 29,Montpellier,34000,"76, avenue Pages",Premium,2021-02-05,48,M,True,2023-10-23
+221099,Verdier,Nath,bernard41@example.org,+33 6 36 67 47 83,Marseille,13000,"57, boulevard Gay",Premium,2021-03-27,55,M,True,2021-04-14
+972263,Pons,Alex,eleonore01@example.net,0581945441,Toulouse,31000,"467, boulevard de Pires",Basic,2022-04-09,55,M,False,2023-02-05
+353796,Labbé,Marie,thomaslevy@example.org,+33 (0)2 14 06 18 17,Bordeaux,33000,"54, rue Laurent",Standard,2024-03-27,46,F,True,2024-05-01
+984094,Valentin,Margaux,josephinediaz@example.org,+33 (0)2 32 92 69 21,Nantes,44000,"54, rue Lucie De Sousa",Premium,2020-04-18,62,F,False,2022-08-24
+725846,Martineau,Pénélope,pierre21@example.com,+33 (0)5 24 65 04 42,Lille,59000,"8, boulevard Carlier",Standard,2023-06-12,75,F,True,2023-10-28
+113697,Meunier,Élodie,ncarpentier@example.net,+33 (0)5 94 41 01 19,Montpellier,34000,"17, rue Marcelle Riou",Basic,2023-12-31,53,F,False,2023-12-31
+696889,Perrier,René,martineboulanger@example.com,+33 (0)7 67 66 18 30,Nantes,44000,"91, chemin Maggie Bailly",Standard,2020-02-19,39,F,True,2023-07-17
+662985,Jourdan,Éric,elisabeth51@example.com,0357280634,Montpellier,34000,"61, rue Louise Navarro",Standard,2020-04-13,41,F,True,2021-11-22
+37432,Olivier,André,claudineperrier@example.org,0808700505,Nantes,44000,"7, rue Guibert",Premium,2021-01-01,35,F,False,2023-11-03
+480636,Potier,Élise,nicoledelorme@example.org,+33 (0)1 64 27 07 90,Montpellier,34000,"30, rue de Le Gall",Premium,2024-04-06,56,M,False,2024-05-13
+640916,Picard,Victoire,gautiergabriel@example.com,+33 1 83 36 56 51,Nantes,44000,"682, rue Allain",Standard,2023-09-11,79,F,True,2024-01-23
+66292,Mathieu,Robert,olivielegros@example.org,0320739021,Lyon,69000,"162, rue Aimé Robert",Standard,2022-09-01,39,M,True,2023-06-06
+741071,Gilles,Jeanne,arnaude72@example.org,+33 4 22 87 63 29,Nice,06000,"3, avenue de Raymond",Standard,2020-07-27,37,F,True,2024-08-11
+657658,Hernandez,Adèle,jthomas@example.org,+33 2 50 81 95 88,Lille,59000,"53, rue Marie",Basic,2020-07-24,33,F,False,2021-10-30
+521682,Schmitt,Hugues,vincentmadeleine@example.com,0361645970,Lille,59000,rue de Tanguy,Basic,2023-11-06,72,M,False,2024-01-13
+823648,Leroy,Claire,guerinnoel@example.net,04 75 63 53 15,Nice,06000,"4, avenue de Bourgeois",Standard,2021-02-27,36,F,True,2022-10-03
+77101,Georges,Isabelle,bvincent@example.org,+33 6 31 26 52 73,Lille,59000,"44, rue Arthur Jacquot",Standard,2021-09-09,54,M,True,2024-02-09
+294234,Dufour,Frédéric,aalbert@example.org,0366492929,Paris,75000,"71, avenue de Fabre",Basic,2020-04-27,41,F,True,2024-05-07
+292731,Garcia,Nathalie,pguyon@example.org,0582939290,Strasbourg,67000,"1, boulevard Arthur Lamy",Standard,2023-10-01,65,M,True,2024-08-02
+849049,Grenier,Valentine,sauvageclemence@example.org,+33 (0)1 43 63 25 43,Lyon,69000,"1, chemin Isaac Fischer",Standard,2023-11-22,43,M,False,2024-05-18
+783586,Guillon,André,xbarthelemy@example.org,03 39 57 01 65,Marseille,13000,"5, chemin Marthe Raymond",Premium,2024-08-31,26,M,False,2024-10-22
+833071,Guillaume,Simone,legendrexavier@example.net,+33 (0)4 95 01 65 79,Lille,59000,chemin Jérôme Jourdan,Premium,2024-09-15,45,F,False,2024-10-12
+587997,Lacombe,Philippine,guillaumedaniel@example.org,+33 (0)6 89 33 55 48,Lyon,69000,"14, chemin Barre",Basic,2020-05-20,20,F,True,2024-03-25
+525808,Laine,Véronique,lelievremathilde@example.net,0630951371,Bordeaux,33000,rue Sébastien Garnier,Basic,2023-12-13,52,M,True,2024-01-24
+289346,Marie,Marthe,colettefernandes@example.org,+33 (0)4 49 68 27 56,Bordeaux,33000,"5, rue Simon",Standard,2021-03-19,68,M,False,2024-08-15
+875505,Dijoux,Madeleine,antoinette95@example.net,0739887749,Bordeaux,33000,"52, avenue Guichard",Standard,2021-10-15,52,F,False,2023-01-05
+155544,Benard,Roland,nbrun@example.org,0329222310,Marseille,13000,"527, rue Lucas Guilbert",Premium,2020-03-20,50,F,False,2020-07-05
+360549,Caron,Alix,kgimenez@example.net,0252067275,Nantes,44000,"9, chemin de Jourdan",Premium,2022-07-05,79,F,True,2023-10-07
+939500,Charpentier,Olivie,susannemoreno@example.net,04 82 17 02 81,Marseille,13000,"7, rue de Cohen",Standard,2023-11-05,39,M,True,2024-03-22
+342220,Lefèvre,Julie,isabellelaine@example.org,0354018718,Bordeaux,33000,"67, boulevard de Gros",Standard,2020-08-07,63,M,True,2024-08-11
+952575,Martineau,Agnès,tcaron@example.com,0532504554,Paris,75000,"813, avenue de Pichon",Basic,2020-04-16,46,M,False,2022-09-29
+844809,Petitjean,Audrey,ljoly@example.net,+33 (0)2 76 34 78 51,Montpellier,34000,"11, chemin Arnaude Roger",Standard,2021-03-16,34,M,False,2023-07-27
+744747,Duhamel,Olivie,luclemoine@example.com,0760494787,Nantes,44000,"1, chemin Ribeiro",Standard,2023-09-29,21,F,False,2024-09-30
+685572,Chartier,Sébastien,fcolin@example.net,+33 1 55 14 71 95,Marseille,13000,"79, avenue Marine Mathieu",Basic,2020-11-13,38,F,True,2022-06-15
+768561,Bruneau,Alfred,isaac90@example.org,0635252045,Bordeaux,33000,"50, boulevard Lucie Garnier",Basic,2024-03-04,58,F,True,2024-09-19
+803673,Techer,Jules,josephodette@example.org,0470445189,Bordeaux,33000,"30, chemin de Guichard",Standard,2021-06-18,75,M,True,2024-10-09
+432007,Leblanc,Isaac,carpentierhonore@example.net,+33 3 45 89 88 81,Strasbourg,67000,"21, rue Voisin",Standard,2023-12-09,38,M,False,2024-04-22
+724619,Étienne,Guillaume,hgodard@example.com,+33 4 63 01 32 23,Lille,59000,"33, avenue Blot",Standard,2022-06-19,48,M,True,2022-12-09
+19719,Becker,Christine,mdupont@example.org,+33 (0)1 81 71 40 14,Montpellier,34000,"2, boulevard Leclerc",Standard,2020-06-22,78,M,False,2022-03-05
+703175,Marty,Antoine,rodriguescamille@example.net,0487528938,Lyon,69000,"2, rue de Evrard",Standard,2021-05-21,49,F,True,2022-04-23
+295548,Picard,Olivie,pageseugene@example.org,04 97 92 71 25,Bordeaux,33000,"93, avenue Marie",Basic,2021-06-11,23,F,False,2024-09-05
+129620,Turpin,Frédéric,clemenceledoux@example.com,0170157164,Paris,75000,"447, avenue de Charpentier",Premium,2022-06-27,58,F,False,2024-04-21
+898392,Muller,Zoé,xpotier@example.org,+33 (0)7 61 67 81 12,Nice,06000,"29, rue de François",Premium,2021-06-02,75,F,False,2022-12-19
+355081,Bourgeois,Jeannine,oriviere@example.com,04 30 99 46 57,Bordeaux,33000,"967, rue Pauline De Sousa",Premium,2021-07-04,23,F,False,2021-12-18
+262867,Camus,Colette,lorrainelucas@example.org,+33 (0)1 78 17 02 69,Nice,06000,"52, boulevard de Pereira",Premium,2020-11-07,56,M,True,2024-01-31
+693193,Hamel,Dorothée,mturpin@example.com,07 68 48 58 80,Marseille,13000,rue Alice Lebreton,Basic,2020-06-18,41,F,True,2023-02-20
+464053,Jacques,Auguste,schmittfrederique@example.net,0320762467,Nantes,44000,avenue de Delmas,Basic,2023-01-06,77,M,False,2024-03-11
+600005,Lelièvre,Christelle,corinnelefevre@example.com,0789695450,Marseille,13000,rue de Rodriguez,Standard,2024-05-26,48,F,True,2024-08-05
+848878,Traore,Isabelle,salmonlorraine@example.com,02 37 65 56 50,Paris,75000,"43, chemin de Allain",Premium,2022-10-12,45,F,True,2022-12-16
+911149,Schneider,Gabriel,jean08@example.com,+33 (0)6 34 69 86 40,Montpellier,34000,"19, avenue Henriette Perrier",Standard,2020-05-15,37,M,False,2023-02-10
+102472,Camus,Eugène,yvesmahe@example.net,0321945637,Bordeaux,33000,"9, chemin Aubry",Standard,2024-09-06,66,M,True,2024-09-10
+601380,Maréchal,Suzanne,laurencebernier@example.org,+33 (0)4 81 41 98 76,Toulouse,31000,"51, chemin de Lesage",Premium,2022-05-05,78,F,True,2024-08-20
+209795,Legros,Andrée,laurence87@example.net,+33 1 46 82 97 37,Lyon,69000,"196, rue de Marchal",Standard,2022-06-24,52,F,True,2024-06-11
+252050,Fernandes,Océane,camille66@example.com,+33 (0)3 58 64 42 49,Bordeaux,33000,"23, rue Leroy",Standard,2021-01-26,46,M,False,2022-02-11
+486706,Vallée,Gabrielle,pbriand@example.org,+33 2 98 42 04 48,Lyon,69000,"8, rue Perez",Standard,2022-06-15,74,M,True,2023-10-15
+909295,Andre,Anouk,marguerite16@example.net,+33 3 75 19 81 89,Montpellier,34000,"27, boulevard Rivière",Standard,2022-05-07,42,F,False,2023-09-05
+872765,Mary,Nathalie,vbouvet@example.org,03 65 21 23 47,Strasbourg,67000,"19, boulevard Alix Bonnin",Premium,2022-08-13,18,F,False,2023-02-04
+572255,Briand,Christelle,rogerrodrigues@example.com,04 98 40 90 03,Strasbourg,67000,"664, rue de Joubert",Standard,2022-07-04,28,M,True,2023-07-06
+407341,Petit,Anaïs,thibaut13@example.com,+33 2 99 75 60 41,Lyon,69000,"66, avenue de Roussel",Standard,2023-07-30,38,M,False,2023-12-01
+530930,François,Adrienne,umarion@example.net,0631002720,Nice,06000,"64, rue de Masson",Standard,2022-01-12,18,M,False,2022-09-14
+541448,Delannoy,Pauline,camillevalentin@example.net,04 72 77 24 29,Lyon,69000,"23, chemin Jules Carlier",Basic,2021-12-08,20,M,False,2023-07-17
+235391,Lefebvre,Alphonse,emmanuelpinto@example.org,0322069694,Bordeaux,33000,"6, boulevard Lemaire",Standard,2024-08-31,32,M,False,2024-09-01
+456297,Leleu,Cécile,olemaire@example.net,+33 3 51 44 76 26,Lyon,69000,"434, rue Anouk Rodrigues",Premium,2024-04-14,62,F,True,2024-04-19
+274516,Huet,Laure,xmenard@example.net,02 31 07 25 63,Toulouse,31000,"56, rue Pascal",Premium,2022-04-13,80,M,True,2022-07-13
+349031,Huet,Charlotte,julie90@example.org,0524465280,Bordeaux,33000,"34, avenue de Maillot",Standard,2020-04-03,30,F,True,2024-03-27
+94002,Prévost,Mathilde,qblanchard@example.org,0173274564,Montpellier,34000,"648, rue Thomas Gallet",Premium,2020-12-07,72,F,False,2023-01-09
+582667,Descamps,Luce,mvincent@example.org,+33 (0)3 71 20 74 27,Marseille,13000,"8, avenue Hamon",Standard,2021-02-05,28,M,True,2024-02-11
+508768,Albert,Clémence,fouquetwilliam@example.org,0235342284,Bordeaux,33000,"139, boulevard de Arnaud",Basic,2024-08-01,55,M,True,2024-09-10
+258114,Lecoq,Colette,boulangerandre@example.com,+33 (0)5 36 59 15 20,Nice,06000,avenue Cécile Techer,Standard,2020-06-19,19,M,False,2022-10-03
+345429,Bertrand,Marcelle,ugermain@example.net,+33 3 62 04 50 18,Montpellier,34000,"71, rue Olivier Pires",Standard,2019-11-12,49,M,False,2023-04-04
+21508,Guillaume,Isaac,zvalette@example.com,+33 2 51 47 64 92,Toulouse,31000,"6, rue de Camus",Standard,2020-07-28,28,M,True,2022-06-19
+499583,Royer,Geneviève,wrobin@example.com,0344661085,Nice,06000,"82, boulevard de Perez",Standard,2023-02-11,40,F,False,2023-09-24
+458600,Chevalier,Suzanne,jribeiro@example.org,0384864908,Toulouse,31000,boulevard Nicolas,Standard,2023-10-18,59,F,True,2024-05-03
+433082,Gauthier,Célina,adrienne49@example.org,+33 (0)2 48 72 26 01,Montpellier,34000,"85, avenue de Ferrand",Basic,2023-06-06,49,M,False,2023-12-28
+962710,Lemoine,Marcel,edouardletellier@example.net,0244680061,Montpellier,34000,avenue Jacques,Standard,2022-09-19,18,F,True,2024-03-09
+910982,Descamps,Noémi,nbailly@example.net,0540412203,Strasbourg,67000,rue Michel,Basic,2023-04-05,31,M,True,2023-09-14
+680130,Rodrigues,Manon,bernadettetoussaint@example.net,+33 2 32 47 27 60,Nantes,44000,rue Rousset,Basic,2023-11-27,76,F,True,2024-08-25
+508608,Georges,Alphonse,pmary@example.org,0535050166,Nantes,44000,"598, avenue Alexandre",Premium,2023-08-08,42,M,False,2024-08-19
+619749,Pages,Juliette,tgrondin@example.org,+33 (0)5 63 95 81 46,Lille,59000,"8, chemin de Pons",Premium,2024-03-06,46,M,True,2024-08-22
+169170,Hervé,Monique,charlottebarre@example.com,+33 3 66 95 97 24,Nantes,44000,"66, rue Laurence Guillaume",Premium,2019-12-28,77,M,False,2022-05-23
+699459,Guillet,Gilles,lucbarbier@example.net,02 40 67 43 38,Lille,59000,chemin Bertin,Premium,2020-07-18,68,F,True,2023-08-01
+183201,Gaudin,Arthur,marquesaurore@example.org,+33 2 51 83 74 55,Montpellier,34000,chemin de Fernandes,Premium,2021-02-28,51,M,False,2024-10-15
+633643,Laroche,François,navarrosusanne@example.com,+33 (0)2 44 99 18 08,Nantes,44000,rue Leclerc,Standard,2024-03-13,50,F,False,2024-07-31
+763729,Klein,Mathilde,gledoux@example.com,+33 (0)2 90 55 21 37,Strasbourg,67000,"4, chemin Sébastien Bodin",Premium,2021-02-23,60,M,False,2021-11-16
+278937,Guichard,Michelle,oalves@example.net,+33 2 85 86 32 66,Nice,06000,"68, avenue Rodrigues",Standard,2020-07-15,41,M,False,2020-08-14
+989481,Muller,Émile,thomas62@example.com,+33 (0)5 36 02 90 84,Paris,75000,"58, chemin de Barre",Basic,2024-03-19,79,F,False,2024-03-22
+943937,Evrard,Juliette,martineantoine@example.com,+33 5 94 56 34 10,Nice,06000,"36, boulevard de Jacquet",Premium,2022-03-12,51,F,False,2023-02-07
+536526,Courtois,Thierry,olivie20@example.org,0380468105,Lille,59000,"151, rue de Pons",Basic,2020-08-08,63,F,True,2021-11-13
+772652,Thomas,Cécile,noel99@example.net,+33 4 88 44 92 68,Strasbourg,67000,"61, boulevard de Olivier",Standard,2024-09-06,23,M,True,2024-10-11
+102747,Caron,Michèle,fbouchet@example.org,+33 (0)5 64 27 37 15,Marseille,13000,"969, avenue de Aubry",Premium,2023-09-05,60,M,True,2024-09-26
+461457,Lagarde,Claudine,jgoncalves@example.net,+33 7 37 28 81 37,Marseille,13000,"3, chemin de Lemaire",Standard,2023-06-01,43,F,False,2024-09-10
+115695,Mathieu,Alexandrie,augustin82@example.org,0465544702,Bordeaux,33000,"560, rue Jules Rousset",Standard,2023-04-16,29,F,False,2024-04-29
+128270,Lévy,Adèle,bertrandarnaude@example.com,0630567922,Lille,59000,"87, chemin Blanc",Basic,2019-10-31,36,M,True,2023-04-25
+244131,Delaunay,Yves,lecontecapucine@example.net,0233209481,Nice,06000,"913, rue de Colas",Basic,2023-02-09,49,M,True,2024-03-20
+787017,Ollivier,Constance,mathieumargaux@example.net,+33 1 46 43 39 71,Bordeaux,33000,"156, rue Zacharie Nguyen",Basic,2021-06-04,31,M,False,2022-03-11
+25225,Evrard,Timothée,fboucher@example.org,+33 (0)3 22 42 24 12,Montpellier,34000,"12, chemin de Arnaud",Standard,2023-05-06,41,M,True,2023-05-27
+312501,Perrier,Eugène,guy65@example.com,02 51 03 39 93,Lyon,69000,"286, rue Timothée Barthelemy",Premium,2020-04-23,27,F,True,2023-10-09
+507690,Leroy,Anouk,alfredroyer@example.net,+33 (0)3 83 82 49 67,Montpellier,34000,boulevard de Martins,Basic,2020-05-15,79,F,False,2021-07-31
+566692,Roy,Sabine,elisebriand@example.net,01 72 07 94 20,Montpellier,34000,chemin Joséphine Deschamps,Basic,2022-12-27,65,F,True,2024-10-09
+368488,Lefort,Marcel,benjamin28@example.net,+33 (0)4 57 16 12 84,Strasbourg,67000,"99, chemin Luce Bertin",Basic,2023-01-18,23,F,True,2024-08-24
+286275,Moulin,Margaud,zacharie37@example.net,0145209700,Lille,59000,"96, avenue de Ledoux",Standard,2023-08-31,40,M,True,2024-07-01
+85090,Delahaye,Manon,tanguyantoine@example.net,02 53 56 95 62,Montpellier,34000,"2, chemin Léon Hebert",Standard,2024-05-22,34,F,False,2024-05-23
+779243,Lefebvre,Patricia,maggie53@example.org,0367375047,Nantes,44000,"430, avenue de Masson",Basic,2021-09-12,69,F,False,2022-11-16
+524629,Teixeira,Jean,margauxrousset@example.net,+33 1 88 92 12 49,Nantes,44000,"143, boulevard de Bonneau",Standard,2024-08-27,80,F,False,2024-09-20
+925999,De Sousa,Adrien,rclerc@example.net,+33 (0)4 74 66 41 87,Strasbourg,67000,"18, rue de Rousseau",Basic,2024-07-30,74,M,False,2024-08-25
+558272,Pons,Thomas,michaudleon@example.com,+33 (0)1 49 36 13 32,Marseille,13000,"21, avenue Lesage",Basic,2023-05-22,19,M,False,2023-06-09
+881336,Deschamps,Paul,reynaudolivier@example.com,+33 (0)4 79 83 19 97,Nantes,44000,avenue de Delorme,Standard,2022-08-28,29,F,True,2023-03-09
+63634,Fontaine,Alexandria,claude12@example.org,01 79 49 61 10,Montpellier,34000,"5, avenue Étienne Maurice",Basic,2020-07-16,18,M,True,2024-01-14
+906580,Joseph,Simone,de-sousaalice@example.com,02 40 50 78 59,Montpellier,34000,"2, boulevard Delannoy",Basic,2021-10-18,39,F,True,2022-01-30
+948300,Baudry,Gilbert,adrienne67@example.net,03 44 32 00 24,Marseille,13000,"68, boulevard Élodie Diallo",Premium,2021-06-17,26,F,True,2022-01-29
+492331,Ruiz,Josette,stephane50@example.net,+33 1 80 38 80 65,Nantes,44000,"23, rue Margot Ollivier",Basic,2021-01-24,28,M,True,2024-01-08
+628896,Jacquot,Vincent,laetitia46@example.com,+33 2 43 70 73 03,Nantes,44000,"47, avenue Guyon",Standard,2023-10-16,57,F,True,2024-08-09
+846485,Rousset,Alexandria,andreegonzalez@example.org,0142150812,Nantes,44000,"63, rue Philippe",Basic,2022-08-19,34,M,False,2023-06-22
+182605,Vasseur,Rémy,yveslenoir@example.org,+33 3 54 02 41 02,Montpellier,34000,"6, chemin Pineau",Standard,2022-03-25,44,F,False,2023-04-02
+848809,Guichard,Margaud,edithferrand@example.com,+33 (0)2 50 22 33 86,Montpellier,34000,"75, rue de Lambert",Basic,2022-12-16,26,F,True,2024-07-30
+198287,Regnier,Théodore,victorhoarau@example.org,0254897317,Montpellier,34000,"912, boulevard Alix Didier",Standard,2024-10-22,31,F,True,2024-10-23
+187693,Lebrun,Michèle,edith77@example.com,0547903337,Montpellier,34000,"53, avenue Henriette Barbier",Premium,2023-10-06,51,F,True,2024-10-03
+266893,Dias,Émile,odetteclement@example.com,04 89 39 07 89,Marseille,13000,"87, avenue Alexandrie Mahe",Basic,2022-12-30,54,M,True,2023-09-02
+400944,Laurent,Joseph,qrey@example.net,+33 (0)4 92 14 88 81,Bordeaux,33000,"21, chemin Morel",Premium,2022-02-19,80,M,True,2024-06-16
+349970,Pierre,Margot,philippe44@example.org,+33 3 90 04 45 66,Nice,06000,"8, boulevard de Samson",Standard,2021-07-08,35,F,True,2022-02-24
+238633,Dumas,Monique,christellerey@example.net,06 35 51 53 66,Lyon,69000,"97, chemin Joly",Basic,2023-03-13,40,F,True,2024-06-03
+320415,Gallet,Alain,wdelmas@example.com,+33 5 61 66 84 59,Montpellier,34000,rue de Joly,Basic,2020-11-26,44,F,True,2021-07-22
+595791,Lombard,Susanne,nweber@example.com,+33 (0)5 32 37 15 97,Nantes,44000,"31, boulevard Schmitt",Standard,2022-08-16,59,M,False,2022-10-04
+28142,Lemoine,Louis,collinroland@example.org,+33 4 44 81 70 58,Nantes,44000,chemin Bouchet,Standard,2023-12-21,36,M,False,2024-05-20
+116123,Dumont,Élise,vmartel@example.org,03 59 23 46 72,Lille,59000,"449, avenue de Baron",Standard,2021-02-23,49,M,True,2022-01-02
+149623,Cohen,Christophe,ztexier@example.org,0767790147,Nantes,44000,"36, rue Joseph Maurice",Standard,2019-11-17,18,M,True,2023-07-21
+403350,Delmas,Jules,carliermarthe@example.org,+33 2 97 48 41 37,Marseille,13000,"215, boulevard Gosselin",Standard,2023-09-16,21,F,False,2024-05-26
+472840,Gaillard,Philippe,corinnebertrand@example.com,+33 (0)2 21 76 56 36,Strasbourg,67000,chemin Noël,Standard,2023-04-21,55,F,False,2024-10-22
+343000,Leconte,Océane,dvallee@example.org,+33 (0)3 81 72 74 22,Bordeaux,33000,rue de Schmitt,Basic,2020-12-22,67,F,False,2022-03-23
+560625,Traore,Anaïs,denisleconte@example.org,0290752308,Montpellier,34000,"90, rue de Perrier",Basic,2020-11-13,31,M,True,2023-10-21
+465553,Roux,Joséphine,rousseaupenelope@example.com,+33 3 84 53 31 06,Strasbourg,67000,chemin Olivier,Basic,2022-06-08,23,M,True,2022-09-14
+925143,Pereira,Susanne,moniquebrun@example.org,02 45 55 83 93,Nantes,44000,"26, rue Gautier",Premium,2021-09-09,29,F,False,2023-03-16
+182055,Garcia,Andrée,alexandre63@example.com,+33 1 88 49 50 13,Montpellier,34000,"89, boulevard Colas",Standard,2022-07-25,31,F,True,2023-04-17
+99346,Brunel,Victor,xpotier@example.net,+33 4 79 25 71 50,Strasbourg,67000,"976, rue de Gaudin",Premium,2021-12-15,18,F,False,2024-06-14
+243904,Lefebvre,Laetitia,ruiznoel@example.net,03 81 91 02 57,Paris,75000,"72, rue Gomez",Standard,2019-12-05,43,F,True,2023-09-13
+140789,Lopes,Timothée,dijouxsophie@example.com,0149355338,Lyon,69000,rue de Torres,Standard,2022-08-11,22,M,True,2023-07-22
+546802,Lebrun,Jules,alombard@example.org,02 18 30 23 21,Nantes,44000,"483, rue de Launay",Basic,2023-01-22,69,M,False,2024-08-07
+326592,Gaillard,Michelle,patricklamy@example.org,+33 4 63 49 73 47,Bordeaux,33000,avenue Alexandria Brun,Standard,2023-10-15,70,F,True,2024-04-14
+443230,Bodin,Juliette,jsamson@example.com,+33 (0)5 24 61 49 82,Nantes,44000,"74, chemin Cécile Jacquet",Premium,2023-07-27,80,F,True,2024-05-13
+635463,Leduc,David,gregoire73@example.org,+33 1 39 08 57 66,Nantes,44000,"86, boulevard David Lejeune",Premium,2024-08-05,27,M,True,2024-08-08
+403519,Moreno,Isaac,paulettenguyen@example.com,0755066337,Marseille,13000,rue Marthe Chartier,Basic,2020-11-14,59,M,False,2023-08-13
+274025,Texier,Cécile,pierrehoarau@example.net,+33 1 43 11 66 91,Marseille,13000,"36, chemin Marine Hernandez",Standard,2021-01-26,45,M,True,2023-03-14
+690472,Weber,Jacqueline,nath61@example.org,0276436402,Nice,06000,"2, avenue Hardy",Premium,2024-05-07,75,F,True,2024-07-26
+768650,Perret,Jean,alixlemoine@example.net,+33 3 55 72 81 79,Strasbourg,67000,"13, rue de Thierry",Premium,2022-04-07,32,F,True,2023-01-30
+946102,Lejeune,Brigitte,bousquetjacques@example.org,0231614150,Marseille,13000,"87, rue de Petit",Basic,2022-01-07,28,F,True,2022-04-11
+788318,Robert,Margot,pereiramarcel@example.net,+33 (0)5 17 98 47 75,Toulouse,31000,"65, chemin de Gomes",Premium,2022-01-28,34,F,True,2023-02-04
+697385,Alexandre,Alexandria,hamonvincent@example.org,+33 (0)6 32 62 09 18,Lyon,69000,"85, avenue de Buisson",Basic,2022-11-20,23,M,True,2023-10-06
+3281,Diaz,Sylvie,alfred50@example.net,0596397691,Marseille,13000,"27, avenue de Cousin",Basic,2021-05-30,19,M,True,2023-12-29
+746525,Meunier,Dorothée,rodriguezcolette@example.org,0638271783,Nantes,44000,"22, avenue Auger",Premium,2021-06-22,33,F,True,2021-08-06
+974130,Millet,Alice,matthieu47@example.net,+33 (0)2 61 87 15 39,Lille,59000,"6, avenue Marcelle Clerc",Premium,2021-03-05,35,M,True,2024-07-06
+897728,Nguyen,Susan,mauricepoirier@example.org,0232115931,Marseille,13000,"62, boulevard Nathalie Martin",Basic,2024-08-04,78,F,False,2024-09-03
+618722,Regnier,Laurent,ubriand@example.com,+33 3 67 16 08 75,Montpellier,34000,"83, avenue de Caron",Standard,2020-05-04,59,M,True,2022-10-01
+783349,Chartier,Claude,josephtimothee@example.com,+33 (0)4 26 97 37 46,Paris,75000,rue Valérie Auger,Standard,2021-01-20,27,F,True,2021-12-13
+734430,Guyon,Bernard,clairepetitjean@example.com,0298086567,Lille,59000,"26, chemin de Carre",Basic,2021-09-23,67,M,False,2024-09-08
+735165,Lévy,Anaïs,payettristan@example.net,+33 (0)4 63 72 92 77,Strasbourg,67000,"43, rue de Guyon",Basic,2021-06-22,30,M,True,2024-03-29
+379821,Pages,Hortense,potiersimone@example.org,05 65 20 15 72,Toulouse,31000,boulevard Delahaye,Basic,2019-11-22,25,F,True,2022-10-08
+155785,Techer,Michelle,cmoulin@example.org,+33 5 45 74 92 61,Paris,75000,"84, rue Georges Ferreira",Basic,2023-07-03,77,M,False,2023-09-05
+512982,Clerc,Marguerite,alphonsecoste@example.net,04 26 19 26 76,Bordeaux,33000,"621, boulevard Gonzalez",Standard,2020-11-07,55,F,True,2022-07-29
+412925,Berthelot,Thérèse,handre@example.net,+33 (0)3 60 12 92 08,Lille,59000,"11, boulevard Leclerc",Premium,2019-12-25,29,M,True,2021-05-08
+589820,Boucher,Claude,clementgerard@example.net,0495826034,Bordeaux,33000,chemin de Delmas,Basic,2020-07-23,68,F,True,2024-05-05
+605103,Marin,Marine,dorothee59@example.net,+33 2 38 03 03 24,Strasbourg,67000,"99, boulevard Pelletier",Standard,2021-01-01,64,F,False,2022-03-07
+764521,Loiseau,Audrey,diaspierre@example.com,03 10 67 14 62,Nice,06000,"51, rue de Delannoy",Standard,2020-11-27,37,M,False,2022-06-28
+689247,Jourdan,Valentine,astridbrunet@example.com,05 19 09 31 41,Nice,06000,"9, rue Vincent Riou",Basic,2024-08-10,39,M,False,2024-08-18
+953412,Le Roux,Renée,william34@example.org,+33 (0)5 18 36 11 28,Lyon,69000,"89, boulevard Lévêque",Premium,2022-11-25,46,M,False,2024-05-22
+907435,Carre,Françoise,julie10@example.org,0534258896,Lille,59000,"124, boulevard de Delannoy",Standard,2024-09-05,22,M,True,2024-09-20
+149600,Hoareau,Hélène,bernard53@example.net,06 33 27 57 84,Paris,75000,"48, rue Thibault Cordier",Premium,2020-11-20,27,F,True,2024-03-01
+886304,Robin,Luce,garniernathalie@example.org,+33 (0)3 20 90 14 87,Nantes,44000,boulevard Nath Dufour,Standard,2022-06-22,27,F,False,2024-07-06
+540028,Pottier,Margaret,lebonalexandre@example.net,+33 1 40 68 53 89,Paris,75000,avenue de Roy,Premium,2024-01-18,39,M,False,2024-10-05
+947701,Jean,Jérôme,poulainvirginie@example.org,0177676251,Lille,59000,"28, chemin Christine Cousin",Premium,2024-04-07,55,M,False,2024-07-18
+2342,Gallet,Louise,tcarpentier@example.net,+33 (0)6 36 97 05 09,Strasbourg,67000,"64, rue Marty",Premium,2021-08-16,77,M,True,2024-09-11
+421598,Monnier,Alain,perretclaudine@example.org,+33 (0)2 90 61 70 24,Lyon,69000,"66, chemin Aurélie Vidal",Standard,2021-05-25,34,F,True,2023-09-05
+113974,Navarro,Margaux,irenard@example.com,01 39 53 13 40,Paris,75000,"66, rue Martineau",Basic,2022-02-08,50,M,False,2022-12-14
+697557,Da Costa,Georges,jcamus@example.com,+33 4 75 68 62 11,Marseille,13000,rue Barre,Standard,2023-11-22,56,F,False,2024-06-03
+804661,Pottier,Noël,potierveronique@example.com,01 41 67 44 71,Toulouse,31000,"39, boulevard de Lemoine",Basic,2019-12-06,67,F,False,2022-01-19
+803972,Noël,Rémy,margotgilbert@example.org,02 41 89 23 92,Strasbourg,67000,"3, rue Robert Olivier",Standard,2022-03-16,45,M,False,2022-10-29
+18519,Chauvet,Luc,rouxalex@example.com,0372356708,Strasbourg,67000,"5, chemin Marchal",Standard,2023-06-10,18,M,False,2024-01-13
+746151,Humbert,Paul,benoit20@example.org,+33 (0)4 73 34 74 91,Bordeaux,33000,"84, chemin Thibaut Marie",Basic,2022-10-19,60,F,False,2023-01-02
+716137,Courtois,Pénélope,vincentalves@example.net,0508343961,Lyon,69000,boulevard Mathieu,Standard,2019-12-06,59,M,False,2020-04-11
+956486,Bègue,Thérèse,leonfischer@example.com,+33 (0)2 22 89 54 73,Lyon,69000,"30, avenue Dias",Basic,2024-10-20,62,M,False,2024-10-24
+934896,Thierry,Dominique,aimee71@example.com,+33 (0)6 99 68 80 29,Nice,06000,"14, rue de Lemonnier",Premium,2021-12-17,78,M,True,2022-10-08
+519072,Pottier,Élisabeth,gaillardbrigitte@example.net,05 34 69 43 20,Lille,59000,"139, avenue de Gaudin",Basic,2023-03-12,49,F,False,2024-09-11
+271407,Bailly,Dominique,theodoreneveu@example.com,+33 (0)3 23 30 83 40,Nantes,44000,"34, rue Lucy Menard",Premium,2024-04-12,36,F,False,2024-07-02
+121828,Martin,Manon,louise95@example.com,+33 (0)4 13 26 94 50,Nice,06000,"6, chemin Schmitt",Basic,2024-05-11,21,M,True,2024-06-29
+563492,Descamps,Renée,macenoemi@example.net,03 88 98 37 35,Toulouse,31000,"79, avenue Grondin",Standard,2019-12-12,40,F,False,2023-08-21
+155539,Voisin,Éric,darnaud@example.org,+33 3 45 97 24 04,Nice,06000,"46, rue Guérin",Basic,2022-12-13,78,M,True,2023-11-09
+477127,Imbert,Anne,ramosedith@example.org,+33 (0)2 40 66 01 00,Nice,06000,"51, boulevard Richard",Premium,2021-11-24,19,M,False,2021-12-08
+568716,Guyon,Thérèse,dominique13@example.org,05 96 24 57 23,Paris,75000,chemin de Techer,Standard,2020-09-19,73,M,False,2023-01-11
+22238,Bertrand,François,francois86@example.org,+33 (0)3 68 03 66 25,Nantes,44000,"73, rue de Marin",Basic,2020-11-10,74,F,False,2021-07-31
+235428,Henry,Roland,denis95@example.org,0231092268,Marseille,13000,"326, chemin de Ferrand",Standard,2020-10-01,80,F,True,2024-03-24
+365308,Duval,Richard,xpeltier@example.com,+33 (0)1 34 22 52 67,Lille,59000,"21, avenue de Petitjean",Standard,2022-04-03,38,F,False,2023-06-09
+94840,Breton,Gilbert,paulinecollin@example.com,0786769523,Strasbourg,67000,"88, boulevard de Teixeira",Standard,2021-01-16,24,M,True,2023-04-23
+861304,Rolland,Alice,blinmichelle@example.com,+33 2 32 35 03 05,Strasbourg,67000,"22, chemin Alves",Standard,2024-05-16,18,F,False,2024-10-14
+309012,Jacques,Guy,nberger@example.org,+33 (0)2 62 12 60 65,Paris,75000,rue de Dupré,Standard,2020-12-30,38,M,False,2023-06-21
+499988,Valentin,Hugues,caronaimee@example.org,+33 (0)3 82 10 96 22,Marseille,13000,"58, avenue Michelle Marques",Standard,2020-06-10,57,F,False,2024-03-20
+300699,Masson,Honoré,clercarthur@example.net,+33 2 99 06 67 84,Toulouse,31000,"743, chemin Morin",Basic,2019-12-05,37,F,True,2024-05-12
+997272,Marchand,Noémi,andreemaurice@example.org,+33 5 35 28 91 77,Toulouse,31000,"36, chemin Jourdan",Premium,2023-01-10,38,M,False,2023-12-05
+283031,Nicolas,François,etiennejosette@example.com,+33 (0)3 79 42 81 13,Toulouse,31000,"5, boulevard Renaud",Standard,2021-06-21,68,F,True,2024-03-08
+252009,Royer,Émile,thibaultsophie@example.com,+33 (0)1 75 51 40 54,Strasbourg,67000,"735, chemin de Dumont",Basic,2020-02-02,52,F,False,2020-11-30
+427070,Traore,Constance,gaudinsusan@example.org,+33 (0)5 24 79 04 22,Lille,59000,"21, rue de Fabre",Basic,2022-08-19,59,M,True,2023-03-25
+525986,Blondel,Nathalie,caroline25@example.com,0579063399,Bordeaux,33000,boulevard Techer,Standard,2021-03-08,38,M,True,2023-04-19
+843816,Garcia,Guy,emmanuelle17@example.org,04 69 24 21 49,Toulouse,31000,"21, avenue Poirier",Standard,2020-08-22,71,M,False,2022-08-27
+800216,Pichon,Manon,gerardcolas@example.com,+33 (0)4 95 46 69 27,Marseille,13000,"695, avenue Guillou",Standard,2021-12-28,31,M,True,2023-11-27
+920029,Normand,Augustin,traoresophie@example.org,+33 (0)2 96 14 62 96,Nantes,44000,avenue Pinto,Premium,2022-01-18,25,M,True,2022-06-12
+488508,Bigot,Lucy,fnicolas@example.org,+33 (0)5 45 63 65 15,Nantes,44000,"873, chemin De Sousa",Standard,2022-10-13,79,M,True,2022-11-11
+163306,Lelièvre,William,timotheeduhamel@example.org,01 82 56 73 03,Lyon,69000,avenue de Dupuy,Standard,2024-06-13,25,F,False,2024-07-31
+87651,Blanchard,Daniel,anne14@example.net,05 61 83 42 01,Paris,75000,"34, chemin Humbert",Standard,2021-04-24,75,M,False,2023-05-12
+561519,Lagarde,Sabine,marthenguyen@example.com,01 42 89 31 99,Nice,06000,"15, avenue Caron",Premium,2023-11-10,53,F,False,2024-05-21
+119125,Parent,Anouk,dorothee07@example.org,02 37 03 36 82,Bordeaux,33000,"63, rue Potier",Basic,2022-07-04,45,F,True,2022-07-26
+853309,Marchal,Alfred,thibault81@example.net,06 32 66 55 86,Lyon,69000,"31, avenue Alix Schmitt",Basic,2022-12-18,56,F,False,2024-02-20
+569128,Nguyen,Alex,camille64@example.net,+33 (0)2 32 11 09 61,Bordeaux,33000,"881, boulevard de David",Standard,2021-03-13,37,M,False,2024-01-14
+893077,De Oliveira,Marcel,philippinede-sousa@example.net,02 48 37 15 76,Lille,59000,"60, boulevard Jacquet",Standard,2022-04-12,42,F,False,2023-06-01
+322328,Legros,Margot,aimelegros@example.org,+33 (0)1 53 25 89 55,Nantes,44000,"963, rue Laetitia Weiss",Standard,2022-01-23,58,M,False,2023-09-25
+840257,Verdier,Aurélie,luceperrier@example.net,+33 5 49 58 26 31,Paris,75000,"28, boulevard de Michaud",Basic,2020-04-02,59,F,False,2022-06-19
+166779,Breton,Lucas,morinandre@example.com,+33 (0)2 90 09 81 96,Strasbourg,67000,rue de De Sousa,Standard,2024-07-07,19,M,True,2024-09-14
+251366,Guibert,Matthieu,leon83@example.net,03 90 04 12 09,Lyon,69000,avenue Godard,Premium,2021-05-26,55,F,False,2021-12-02
+148725,Carre,Rémy,ericgarnier@example.com,0360617061,Lyon,69000,"4, avenue de Mallet",Basic,2020-09-21,78,M,True,2024-07-04
+664327,Lebreton,Susan,julesleger@example.org,+33 1 58 15 57 99,Lille,59000,"3, chemin de Rivière",Basic,2022-06-25,43,F,True,2023-04-20
+561988,Simon,Diane,martinmarchal@example.org,+33 1 56 52 31 24,Lille,59000,"23, boulevard Manon Cousin",Basic,2020-01-24,51,M,False,2024-01-14
+457244,Blanchet,Andrée,philippegiraud@example.org,0536199423,Marseille,13000,"86, boulevard Océane Maillard",Basic,2024-01-12,63,M,True,2024-05-14
+636795,Jacob,Aurélie,helenebenard@example.com,+33 (0)6 22 08 49 64,Strasbourg,67000,"156, rue Breton",Standard,2020-09-23,25,M,False,2022-07-22
+375122,Moulin,David,margauxguichard@example.com,+33 4 69 10 50 53,Bordeaux,33000,"953, avenue Jacquet",Standard,2021-05-24,41,F,True,2023-12-14
+552874,Carpentier,François,michelle91@example.net,05 82 55 33 07,Toulouse,31000,"5, rue Gérard Sauvage",Basic,2021-08-14,74,F,False,2022-05-06
+619887,Jacob,Noël,jacquetalfred@example.net,+33 (0)6 35 42 60 88,Strasbourg,67000,rue Daniel Lelièvre,Basic,2022-08-05,28,M,False,2022-12-30
+758386,Hernandez,Robert,odette56@example.org,0779064771,Nantes,44000,"410, rue Joly",Premium,2023-05-06,32,M,False,2023-07-26
+903231,Lagarde,Monique,kjean@example.org,+33 4 98 80 04 01,Marseille,13000,rue Rémy Boulanger,Premium,2022-07-24,49,F,True,2024-03-04
+732603,Picard,Guillaume,imathieu@example.com,+33 5 57 71 88 39,Toulouse,31000,"64, avenue de Jean",Standard,2022-02-09,65,M,False,2022-07-01
+803421,Collet,Michèle,benardfrederique@example.org,+33 2 23 17 03 03,Nice,06000,"83, chemin Guillaume",Basic,2022-01-21,77,F,True,2024-07-26
+538891,Bouvier,Patricia,mathilde72@example.net,+33 (0)2 56 35 67 98,Bordeaux,33000,"23, avenue Jacques Torres",Basic,2024-04-20,47,F,True,2024-06-18
+679878,Henry,William,vgautier@example.org,+33 1 45 72 40 78,Lille,59000,"24, rue de Monnier",Premium,2024-09-21,42,M,False,2024-10-11
+157936,Chauvin,Constance,vgregoire@example.org,04 23 51 06 63,Marseille,13000,"36, chemin de Laporte",Standard,2021-08-13,47,M,False,2024-03-13
+543810,Lesage,Franck,imbertpaul@example.org,+33 2 48 00 94 31,Nantes,44000,"5, boulevard Bonnin",Standard,2024-01-05,70,M,True,2024-10-08
+410945,Carlier,Eugène,nathjacquot@example.com,03 59 23 54 94,Toulouse,31000,"2, boulevard Bonnin",Basic,2023-04-03,38,M,False,2024-07-29
+774992,Schneider,Dominique,jeangomes@example.net,+33 (0)3 21 25 72 07,Bordeaux,33000,"30, rue Jean Potier",Basic,2023-11-14,45,F,False,2024-09-04
+622859,Benard,Christelle,camuspaul@example.com,+33 (0)1 74 09 43 88,Lyon,69000,"21, chemin Catherine Marin",Basic,2019-11-24,68,M,False,2022-11-17
+269840,Dupré,Claire,aimee70@example.com,0479897148,Nice,06000,"3, rue Margaux Blanchard",Standard,2024-06-15,31,F,False,2024-08-23
+32405,Moulin,Hortense,nalves@example.net,+33 (0)3 53 61 48 78,Lille,59000,"65, boulevard Arnaude Baron",Standard,2024-01-18,32,M,False,2024-05-17
+43096,Delorme,Dorothée,victoire91@example.com,04 86 41 07 27,Marseille,13000,"58, boulevard de Chartier",Standard,2021-06-08,18,F,True,2022-02-15
+510472,Hervé,Christophe,alexandre70@example.org,0253074065,Marseille,13000,"1, rue Adèle Jacquet",Premium,2022-05-25,80,M,False,2024-07-12
+162568,Fernandez,Michèle,guy36@example.net,+33 (0)4 43 30 75 36,Bordeaux,33000,"51, boulevard Thierry Giraud",Basic,2024-08-01,43,F,False,2024-09-24
+711902,Breton,Suzanne,maggielecoq@example.org,0261683441,Paris,75000,"378, avenue Étienne Dos Santos",Basic,2023-07-10,50,M,True,2024-08-22
+727851,Bouvier,Constance,chantal56@example.com,05 56 70 80 61,Nice,06000,"943, rue Laure Devaux",Basic,2023-07-28,65,F,False,2024-10-09
+56136,Faivre,Camille,zmarchand@example.net,+33 (0)6 35 87 01 04,Nice,06000,"6, rue de Charpentier",Basic,2022-04-23,45,F,False,2024-09-17
+724139,Rémy,Charles,traoreisabelle@example.net,+33 (0)3 58 82 87 23,Nantes,44000,"54, rue de Vallée",Standard,2023-11-28,58,F,False,2024-07-27
+120280,Mercier,Adrien,josettemathieu@example.net,+33 (0)3 83 31 70 87,Paris,75000,"2, avenue Christine Gonzalez",Basic,2021-07-09,40,F,False,2022-07-08
+272914,Raymond,Maggie,ndescamps@example.org,02 77 02 23 28,Lyon,69000,"837, chemin Margot Roussel",Basic,2024-06-18,34,F,False,2024-10-10
+385183,Martineau,Robert,scollin@example.org,05 59 62 04 71,Nice,06000,"50, boulevard Hebert",Basic,2024-01-03,36,M,True,2024-01-19
+146070,Bigot,Monique,abaron@example.org,0361586812,Lyon,69000,"65, rue Roger Ledoux",Standard,2022-10-31,56,M,False,2024-03-25
+968335,Carlier,Daniel,emallet@example.net,+33 3 89 25 99 59,Nice,06000,"11, rue Grondin",Standard,2022-05-23,24,M,False,2022-10-19
+523694,Potier,Christelle,patricia33@example.org,+33 5 31 61 09 41,Paris,75000,rue de Pichon,Premium,2020-09-19,65,F,False,2023-12-18
+635996,Lefort,Zoé,rogertristan@example.org,05 18 29 83 34,Nice,06000,"44, rue Gay",Basic,2022-12-30,24,F,False,2024-09-22
+847954,Olivier,Emmanuel,lombardmarguerite@example.org,+33 1 60 20 56 98,Bordeaux,33000,rue Maggie Chauveau,Standard,2024-04-23,22,F,False,2024-10-16
+520277,Aubert,Victoire,henriettereynaud@example.net,0491982176,Lyon,69000,"21, boulevard Léger",Standard,2024-04-21,63,M,True,2024-05-10
+522937,Grondin,Bernard,alphonse34@example.com,04 92 12 41 89,Marseille,13000,"598, boulevard Bertrand Morvan",Standard,2020-10-25,35,F,False,2023-10-13
+611081,Georges,Rémy,davidyves@example.com,0356502385,Paris,75000,"4, rue Susan Thibault",Standard,2020-10-03,43,F,True,2024-08-07
+362645,Guérin,Arnaude,courtoischristiane@example.org,0172107835,Montpellier,34000,"44, rue Michel",Standard,2020-02-11,57,F,True,2021-10-12
+637679,Gillet,Maggie,courtoischristine@example.org,05 18 26 68 21,Nantes,44000,"6, rue Zacharie Nguyen",Premium,2024-05-10,49,F,False,2024-05-21
+243304,Morin,Jacqueline,dumasantoinette@example.net,+33 (0)1 44 30 10 27,Nantes,44000,"60, boulevard Marcelle Moulin",Standard,2021-11-02,56,M,True,2023-01-30
+635566,Chauvin,Christiane,descampsdenis@example.org,0359753745,Nantes,44000,"93, chemin Marthe Allard",Standard,2020-12-01,64,M,False,2023-01-22
+56620,Perrot,Antoinette,fguyot@example.org,+33 3 72 48 31 52,Lille,59000,avenue Delahaye,Basic,2020-09-13,33,F,False,2023-12-14
+999340,Noël,Alphonse,rfontaine@example.com,04 57 10 49 67,Toulouse,31000,avenue Capucine Bertrand,Standard,2023-09-03,36,M,True,2024-02-24
+397753,Gonzalez,Margaux,drossi@example.net,0158850954,Lyon,69000,"60, boulevard de Gay",Basic,2021-07-25,55,M,True,2023-05-20
+846616,Nicolas,Françoise,rmace@example.com,05 64 99 84 26,Lyon,69000,"12, chemin Émile Menard",Standard,2020-04-19,80,F,True,2022-10-25
+598823,Delaunay,Auguste,agnes44@example.net,+33 (0)2 53 49 54 27,Bordeaux,33000,"8, avenue Da Silva",Standard,2022-09-07,26,F,True,2024-03-17
+668722,Berthelot,Martin,lboyer@example.org,0469172444,Marseille,13000,"33, boulevard Bègue",Basic,2023-11-24,42,M,False,2023-12-13
+120005,Bègue,Auguste,marianneguillou@example.com,0172830440,Nice,06000,"18, rue de Marty",Standard,2021-10-16,50,F,True,2022-04-03
+531562,Hebert,Frédéric,gomezlucas@example.com,0558164205,Montpellier,34000,"75, chemin de Lelièvre",Premium,2020-06-21,66,F,True,2022-12-21
+168100,Tessier,Benjamin,henri90@example.org,+33 4 69 88 95 36,Paris,75000,"3, rue Denis Hubert",Premium,2020-01-29,68,M,True,2024-05-11
+660943,Lévy,Nath,utanguy@example.org,+33 (0)6 58 87 54 39,Lyon,69000,"45, rue Cécile Gomes",Basic,2024-09-12,25,F,True,2024-10-18
+726739,Guillot,Capucine,fetienne@example.com,+33 (0)4 94 79 37 63,Lyon,69000,"48, boulevard Margot Dos Santos",Standard,2020-10-17,32,M,False,2023-05-15
+834515,Renault,Zacharie,georges16@example.com,+33 7 83 27 02 16,Lille,59000,"371, avenue Laurent",Basic,2022-01-10,26,F,False,2022-09-26
+138808,Buisson,Éléonore,wbriand@example.org,03 80 41 55 99,Montpellier,34000,"1, chemin Pons",Standard,2020-06-07,67,M,False,2023-11-29
+776677,Nguyen,Stéphane,ibonnin@example.net,+33 2 30 20 99 57,Nantes,44000,"37, boulevard de Guyot",Premium,2023-08-22,59,F,True,2023-11-05
+311792,Teixeira,Zacharie,thibaultdiane@example.net,04 38 56 52 20,Marseille,13000,"96, boulevard Laetitia Bouvier",Premium,2021-10-15,35,M,True,2022-03-18
+298624,Gaillard,Georges,robert77@example.org,+33 4 42 49 13 42,Lyon,69000,boulevard Grégoire,Standard,2022-10-08,75,M,True,2024-05-16
+28678,Joseph,Augustin,aimecamus@example.org,0358496782,Paris,75000,"21, avenue Clémence Charles",Standard,2021-04-01,56,F,False,2021-08-13
+291979,Foucher,Marguerite,monniersuzanne@example.org,+33 2 22 52 85 47,Strasbourg,67000,"115, rue Maryse Dijoux",Standard,2020-12-23,43,M,False,2022-04-30
+882304,Pascal,Margaud,couturierlorraine@example.org,+33 2 62 96 33 47,Nice,06000,"82, rue Louis Bousquet",Standard,2021-06-07,37,M,True,2021-10-22
+898794,Ramos,Océane,adriengay@example.org,03 60 20 64 96,Strasbourg,67000,"835, rue de Ribeiro",Basic,2024-03-16,35,M,False,2024-06-14
+700423,Vallée,Claudine,wjoseph@example.net,04 50 13 14 67,Strasbourg,67000,"26, avenue Julien",Standard,2022-04-19,25,F,True,2022-10-12
+730824,Chauvin,Maryse,philippineguillet@example.com,03 75 04 48 36,Strasbourg,67000,chemin de Bertin,Standard,2022-10-08,18,M,False,2024-03-15
+431204,Michaud,Suzanne,zlamy@example.com,+33 (0)4 20 73 50 47,Nice,06000,"39, rue de Valette",Basic,2022-07-07,37,F,False,2022-12-25
+135492,Texier,Élodie,macealphonse@example.com,+33 (0)4 79 58 10 83,Toulouse,31000,"932, rue Stéphane Renard",Standard,2022-08-14,31,M,False,2024-03-16
+433476,Fabre,Françoise,alexandreda-silva@example.org,+33 (0)5 45 70 24 40,Toulouse,31000,"50, rue de Hoareau",Standard,2022-08-19,35,F,True,2024-05-02
+858045,Traore,Richard,garnierdavid@example.net,01 47 08 92 19,Bordeaux,33000,"59, avenue Denise Bernier",Basic,2020-12-05,75,M,True,2021-01-10
+287361,Albert,Luc,aubrymarcelle@example.net,05 17 46 13 68,Strasbourg,67000,"94, rue de Weber",Basic,2022-05-20,37,F,False,2022-06-15
+762899,Carlier,Alix,sauvagemaurice@example.net,+33 (0)5 45 37 57 91,Nantes,44000,"35, rue de Gauthier",Premium,2024-01-16,72,F,True,2024-08-20
+217770,Camus,Jeanne,emileblanchard@example.com,03 73 07 46 45,Strasbourg,67000,"6, boulevard de Joseph",Basic,2021-04-02,58,F,False,2022-12-24
+281170,Blot,Marc,fmorvan@example.com,+33 4 73 77 88 11,Nantes,44000,"7, rue Renard",Standard,2019-11-11,31,M,True,2024-04-13
+174270,Philippe,Brigitte,morelaudrey@example.com,+33 7 42 86 60 41,Marseille,13000,"94, boulevard Alix Thibault",Standard,2020-11-05,18,F,False,2023-08-12
+148391,Charpentier,Dorothée,suzannebonneau@example.net,0385773522,Marseille,13000,"60, rue Henri Lelièvre",Standard,2021-03-23,63,M,False,2021-07-05
+326988,Boutin,Laurent,marinegauthier@example.net,04 78 10 97 92,Lyon,69000,boulevard Maurice Barre,Basic,2019-11-11,40,M,False,2019-12-24
+287918,Jacquet,Valentine,umary@example.com,0549488319,Montpellier,34000,"4, rue Rémy Thibault",Standard,2021-06-14,27,F,True,2021-11-19
+835593,Barbe,Jacqueline,kremy@example.net,0663203319,Lyon,69000,"82, chemin Garnier",Standard,2020-11-21,70,M,True,2024-09-12
+143628,Gros,Susan,qlamy@example.com,0458813866,Nice,06000,"55, chemin de Laporte",Standard,2020-04-04,60,F,False,2020-12-02
+174185,Couturier,Victoire,michele26@example.net,07 54 18 65 20,Marseille,13000,"75, boulevard Vaillant",Standard,2021-08-19,51,F,False,2022-06-11
+392383,Colin,Océane,pierrecapucine@example.com,+33 1 39 94 51 54,Lyon,69000,"5, chemin Clerc",Premium,2023-01-25,80,M,False,2024-01-31
+46050,Grenier,Maryse,robert09@example.org,06 31 72 78 10,Nantes,44000,"3, rue de Payet",Premium,2023-03-15,40,M,True,2023-05-18
+874579,Mathieu,Bertrand,tdiaz@example.org,0237843905,Nice,06000,"62, rue de Chartier",Premium,2023-05-20,66,F,False,2024-03-28
+878409,Martineau,Marguerite,francoisleon@example.net,+33 4 15 12 70 49,Paris,75000,"162, chemin Gabrielle Marty",Premium,2023-05-10,73,F,False,2023-08-09
+488900,Duhamel,Virginie,morenocelina@example.org,+33 (0)2 34 21 25 90,Nice,06000,"4, chemin de Jacques",Premium,2022-09-19,68,M,True,2022-11-21
+322733,Bazin,Lucy,oceanefaivre@example.net,+33 4 67 06 42 42,Strasbourg,67000,"46, chemin Bourgeois",Standard,2021-11-29,33,M,False,2022-08-31
+271952,Rocher,Brigitte,eric75@example.net,0487872096,Strasbourg,67000,"793, chemin Marc Le Goff",Premium,2022-04-28,33,M,False,2024-06-18
+870168,Bernier,Stéphanie,eric83@example.com,+33 6 38 40 18 27,Nice,06000,"69, boulevard Alexandria Delmas",Standard,2024-07-03,56,M,True,2024-07-09
+735354,Duval,Louise,alain26@example.com,0481125427,Paris,75000,"80, avenue de Allain",Basic,2022-07-22,23,F,True,2024-05-27
+496576,Berger,Philippe,josephine57@example.net,04 57 03 81 66,Strasbourg,67000,"169, boulevard Brun",Standard,2023-03-18,20,F,False,2023-11-06
+208102,Duhamel,Odette,gillesdupre@example.com,+33 (0)2 34 42 57 62,Paris,75000,"3, rue Hernandez",Standard,2024-04-09,36,M,True,2024-08-06
+193560,Huet,Lucas,urobin@example.org,+33 5 16 07 25 17,Bordeaux,33000,"83, avenue de Barthelemy",Premium,2020-06-30,55,F,True,2022-07-24
+406400,Rodriguez,Timothée,andreeleleu@example.com,0564968157,Nantes,44000,"303, chemin Étienne",Premium,2020-08-17,47,F,False,2022-01-26
+863227,Martin,Juliette,pgarnier@example.org,+33 8 03 03 46 15,Montpellier,34000,"36, chemin Amélie Parent",Premium,2024-01-29,78,F,True,2024-08-02
+273698,De Oliveira,Joseph,anastasienormand@example.net,+33 (0)6 37 15 16 02,Strasbourg,67000,"99, avenue Alain Vallée",Premium,2020-02-10,60,M,False,2023-07-12
+808829,Vincent,Thibaut,vpoirier@example.net,+33 (0)6 28 57 58 51,Montpellier,34000,"78, rue de Gérard",Standard,2023-05-29,80,M,True,2023-06-03
+994261,Neveu,Jeanne,louis89@example.net,05 82 07 40 17,Strasbourg,67000,"60, avenue Yves Parent",Premium,2022-09-06,74,M,False,2023-12-10
+569113,Da Costa,Joseph,agathe60@example.com,0456091508,Paris,75000,"33, boulevard Gauthier",Premium,2020-01-06,68,M,False,2021-01-31
+663664,Teixeira,Aurore,adelaide79@example.org,01 70 15 50 29,Nantes,44000,"7, rue de Marques",Premium,2021-01-16,57,F,False,2023-10-02
+443054,Maréchal,Alphonse,oceaneboucher@example.net,+33 (0)5 81 13 94 49,Montpellier,34000,"630, avenue de Fabre",Standard,2022-05-20,41,F,False,2024-03-28
+783149,Lagarde,Renée,robertcharrier@example.net,+33 (0)5 46 24 40 63,Nantes,44000,rue Robert Da Costa,Standard,2022-02-24,22,F,True,2024-02-12
+101866,Louis,Maurice,lacombevictor@example.org,+33 (0)4 42 97 96 95,Lyon,69000,"97, chemin Leblanc",Standard,2022-07-09,33,M,True,2023-11-17
+862588,Hebert,Henri,fbernier@example.org,+33 5 34 46 09 17,Lyon,69000,"41, boulevard de Lemaître",Standard,2022-10-05,33,F,True,2023-05-29
+787331,Gomes,Catherine,jmartinez@example.net,+33 4 89 96 60 48,Nantes,44000,"73, rue de Hoareau",Standard,2022-04-18,53,M,True,2022-10-26
+414973,Carpentier,Marcel,massestephane@example.org,+33 5 47 86 53 69,Bordeaux,33000,"25, chemin de Gaudin",Premium,2020-08-21,49,M,False,2022-12-01
+411223,Jean,Anne,dboulay@example.com,02 97 26 40 85,Montpellier,34000,"71, avenue de Humbert",Basic,2024-05-05,51,F,True,2024-07-23
+667331,Leroy,Laure,guillaumebourdon@example.net,+33 (0)5 55 05 93 29,Toulouse,31000,"61, boulevard Guibert",Standard,2021-06-02,73,M,True,2023-01-27
+536174,Olivier,Claude,celinetessier@example.net,+33 3 25 73 52 41,Strasbourg,67000,boulevard Pinto,Premium,2024-07-05,30,M,False,2024-10-02
+716881,Marion,Capucine,stephanieschmitt@example.com,+33 (0)4 78 23 71 00,Marseille,13000,"88, rue Sabine Delattre",Basic,2021-11-24,47,M,False,2023-01-01
+126858,Auger,Philippine,navarrochristine@example.net,+33 (0)4 44 60 56 87,Marseille,13000,"2, chemin Thierry",Basic,2024-05-20,39,M,True,2024-09-09
+757065,Roy,Aimée,vdescamps@example.org,+33 6 99 34 15 17,Strasbourg,67000,"53, chemin Marie Hebert",Premium,2020-10-06,25,F,True,2022-03-03
+733543,Poirier,Hélène,jeannine02@example.org,0153359544,Paris,75000,"59, avenue Margot Cousin",Standard,2023-08-24,36,F,True,2023-12-21
+153643,Raynaud,Stéphane,oboucher@example.org,+33 (0)3 62 94 29 04,Marseille,13000,"886, rue de Barre",Basic,2020-11-27,27,M,False,2023-08-24
+615656,Charrier,Thomas,alexandria72@example.net,03 25 76 01 53,Marseille,13000,"33, boulevard Renée Chauveau",Basic,2021-02-20,74,F,False,2024-06-30
+681570,Pierre,Agathe,kjacques@example.net,+33 (0)3 70 35 06 15,Strasbourg,67000,"5, boulevard de Traore",Premium,2020-10-30,50,M,False,2023-02-12
+836677,Lefèvre,Caroline,patrickboucher@example.net,+33 3 82 37 20 94,Lille,59000,"41, rue de Payet",Standard,2020-06-27,31,M,True,2023-01-23
+217822,Dumas,Patrick,gbarthelemy@example.net,+33 (0)4 72 13 71 71,Lille,59000,"91, rue de Joseph",Standard,2020-05-01,59,M,True,2024-06-22
+596985,Petit,Inès,umarie@example.com,+33 6 32 04 69 47,Lille,59000,"95, boulevard Roland Imbert",Standard,2022-05-13,46,M,True,2023-08-21
+909389,Rossi,Paul,robert88@example.com,02 47 27 05 87,Lyon,69000,"22, chemin Étienne Pichon",Standard,2022-01-22,30,F,False,2023-07-07
+862514,Vidal,Léon,ledouxnicolas@example.org,0465587149,Bordeaux,33000,"325, avenue Picard",Standard,2024-05-24,65,M,True,2024-06-23
+341501,Blondel,Christelle,uvalette@example.com,+33 4 11 74 52 45,Bordeaux,33000,"85, avenue Geneviève Carlier",Standard,2021-02-24,43,F,False,2024-05-23
+5948,Ledoux,Anne,lejeuneadrienne@example.net,+33 6 32 40 33 44,Lille,59000,"6, avenue Victor Pascal",Basic,2023-05-12,56,M,False,2024-07-19
+836212,Fabre,Laure,gparis@example.org,+33 2 99 57 97 06,Toulouse,31000,"53, boulevard de Mallet",Premium,2021-07-05,60,M,True,2021-10-05
+58840,Riou,Zacharie,elise57@example.com,+33 (0)6 52 15 62 29,Lyon,69000,"238, rue Victor Baudry",Standard,2020-09-04,65,M,False,2023-01-01
+583715,Laporte,Thérèse,marie02@example.org,0493732573,Lyon,69000,"45, chemin de Adam",Basic,2022-01-12,43,M,True,2024-08-06
+147083,Mathieu,Lucy,zlaunay@example.com,+33 (0)1 81 85 09 60,Lyon,69000,"88, boulevard Xavier Couturier",Basic,2020-01-04,34,M,False,2020-07-30
+592767,Morin,Frédérique,rossihugues@example.net,+33 (0)6 38 93 16 47,Marseille,13000,"25, boulevard Maillot",Standard,2020-06-15,68,M,False,2024-04-25
+819056,Jacquot,Nicole,zlefebvre@example.net,0140960035,Bordeaux,33000,"44, chemin de Rossi",Standard,2024-04-20,74,F,False,2024-07-17
+807327,Bruneau,Adrienne,laurentleleu@example.org,+33 4 66 21 08 90,Toulouse,31000,"651, rue Margaux Guillaume",Premium,2021-07-08,42,M,True,2022-05-17
+171220,Lamy,Richard,martinleleu@example.com,+33 (0)2 62 71 60 73,Marseille,13000,"8, avenue Louis Leclerc",Standard,2022-05-23,73,M,True,2024-01-04
+97362,Roger,Corinne,goncalvesolivie@example.org,+33 (0)7 59 55 63 31,Marseille,13000,"57, rue de Pineau",Standard,2020-11-15,63,F,False,2020-12-10
+398489,De Oliveira,Andrée,monnieragnes@example.com,+33 (0)5 82 43 16 70,Marseille,13000,"30, rue Moreno",Standard,2019-11-16,50,M,True,2019-12-14
+543814,Meyer,Guillaume,cledoux@example.org,+33 4 49 59 62 62,Bordeaux,33000,"622, rue Martinez",Standard,2020-11-25,69,M,False,2023-01-06
+320932,Antoine,Lorraine,zoe49@example.com,+33 (0)1 53 50 70 26,Nantes,44000,avenue de Ledoux,Standard,2021-07-20,66,M,False,2024-02-04
+177985,Barbier,Eugène,levequemaurice@example.org,01 88 17 76 87,Toulouse,31000,"804, chemin Gilbert Breton",Premium,2024-04-12,27,F,False,2024-08-31
+500998,Teixeira,Océane,gilbertvasseur@example.net,+33 2 76 31 16 49,Bordeaux,33000,rue Deschamps,Standard,2020-08-19,23,F,False,2021-06-01
+344589,Lacombe,Célina,patricia25@example.com,0277906032,Toulouse,31000,rue Gomez,Standard,2022-05-17,22,F,False,2023-01-23
+338199,Dubois,Henriette,wguillet@example.org,06 30 37 94 87,Lille,59000,chemin de Bègue,Standard,2023-03-10,51,M,False,2024-04-12
+353637,Lemoine,Pierre,susan78@example.com,+33 (0)4 84 84 15 60,Toulouse,31000,"41, rue Georges Dias",Premium,2022-09-07,48,M,False,2023-12-10
+915728,Perrot,Thibault,jnguyen@example.org,+33 5 45 83 23 03,Nantes,44000,"38, boulevard de Hardy",Basic,2020-11-20,48,M,True,2021-02-01
+380272,Gimenez,Michel,alixleroux@example.org,+33 3 69 28 96 34,Toulouse,31000,chemin Amélie Barbe,Standard,2024-05-07,80,M,True,2024-07-27
+490737,Lebrun,Grégoire,adrien14@example.net,0360991062,Marseille,13000,"42, rue Madeleine Humbert",Standard,2023-11-13,30,M,True,2024-04-12
+260647,Marty,David,robertjoly@example.com,+33 (0)2 85 37 24 50,Marseille,13000,"9, boulevard François Leleu",Basic,2021-06-16,51,M,False,2024-02-17
+243459,Peltier,Brigitte,valentine18@example.net,02 90 15 40 64,Lyon,69000,avenue de Launay,Standard,2023-10-27,34,F,True,2024-06-10
+918806,Lacombe,Marine,sthierry@example.org,+33 (0)2 33 99 53 76,Lille,59000,"2, chemin Philippe Riou",Premium,2021-03-31,58,F,False,2023-05-28
+440030,Martineau,Virginie,agathe10@example.org,03 81 97 39 64,Lille,59000,avenue de Guilbert,Standard,2022-08-11,56,F,False,2024-03-16
+912673,Martineau,Alex,marionfranck@example.net,+33 (0)2 36 13 59 96,Nantes,44000,"6, avenue de Jacques",Standard,2024-03-24,28,F,True,2024-10-13
+985868,Alexandre,Sylvie,blaroche@example.org,+33 1 49 51 46 07,Strasbourg,67000,"65, chemin Cohen",Basic,2020-02-17,77,F,False,2020-07-14
+480462,Rocher,Luce,pauline23@example.net,0547527155,Marseille,13000,"535, rue Riou",Standard,2022-07-29,31,F,False,2024-04-19
+652004,Mahe,Lucie,olivieweber@example.org,0735575225,Bordeaux,33000,rue Blin,Premium,2022-06-23,75,F,False,2023-10-18
+734242,Clerc,Gabrielle,olivie88@example.org,02 22 31 19 64,Nice,06000,"68, rue Alice Duval",Standard,2024-02-13,64,M,False,2024-06-06
+86205,Breton,Maurice,pfournier@example.net,+33 4 26 07 33 33,Montpellier,34000,"12, rue Alphonse Raymond",Standard,2024-08-30,44,F,False,2024-10-15
+434661,Berthelot,Françoise,antoinettelemoine@example.net,05 33 45 46 55,Nice,06000,"68, rue Lebrun",Standard,2023-07-19,36,F,True,2024-01-26
+607081,Rodriguez,Étienne,uregnier@example.org,+33 4 87 83 74 90,Nice,06000,"777, rue Simon",Standard,2024-05-23,45,F,False,2024-09-08
+586149,Delahaye,Bertrand,christiane21@example.net,0188494097,Montpellier,34000,"46, avenue de Ruiz",Standard,2023-08-18,68,F,True,2024-10-09
+346589,Rey,Hélène,xmeunier@example.net,0140905911,Lyon,69000,"9, rue Nath Leclercq",Basic,2022-05-28,24,M,False,2023-06-18
+876336,Arnaud,Antoine,hchauveau@example.com,+33 (0)2 36 69 66 67,Bordeaux,33000,"22, chemin Joseph Neveu",Standard,2021-05-04,45,F,False,2023-03-03
+523954,Robin,Julien,andree33@example.com,+33 (0)4 82 71 84 09,Strasbourg,67000,rue de Normand,Standard,2021-12-15,43,M,False,2023-07-17
+176698,Martin,Éléonore,thomasvictor@example.com,0155995123,Lille,59000,"972, chemin Pereira",Premium,2020-08-16,64,F,True,2024-05-01
+628850,Besson,Henriette,brigittemunoz@example.org,+33 5 96 09 08 14,Bordeaux,33000,"6, rue de Maury",Premium,2021-02-16,78,M,False,2023-05-02
+943960,Roussel,Colette,josettemeyer@example.net,0631867181,Toulouse,31000,"35, avenue Roche",Standard,2021-03-28,50,F,True,2024-08-12
+43610,Pelletier,Charles,tdelmas@example.net,+33 (0)2 34 58 99 88,Lyon,69000,"634, avenue Ledoux",Premium,2023-04-03,44,M,True,2023-09-03
+990115,Toussaint,Aurélie,ygay@example.org,01 49 71 58 79,Paris,75000,"57, rue de Evrard",Premium,2022-04-22,27,F,True,2022-06-25
+992770,Blanc,Thibault,lucybouvier@example.net,+33 (0)1 55 04 63 58,Nice,06000,avenue de Rousset,Standard,2021-05-31,67,M,True,2023-07-29
+890472,Colin,Danielle,maggie03@example.org,03 44 35 13 73,Nantes,44000,"700, rue Charpentier",Premium,2024-04-08,25,M,True,2024-04-09
+691634,Rémy,Joseph,xdumas@example.com,+33 (0)2 96 29 39 46,Bordeaux,33000,"543, rue Arnaude Pasquier",Basic,2021-11-09,31,F,False,2023-06-17
+883566,Aubert,Thérèse,mfleury@example.org,01 72 72 31 11,Montpellier,34000,"31, chemin de Brun",Premium,2022-03-06,20,M,False,2023-04-08
+298641,Regnier,Sébastien,helene41@example.org,03 57 18 73 28,Lille,59000,avenue Franck Marie,Standard,2023-03-15,20,F,False,2023-09-08
+873563,Chevallier,Julien,ledouxmarine@example.org,+33 5 86 95 72 79,Nantes,44000,boulevard de Gosselin,Standard,2020-02-20,76,M,False,2021-09-29
+760123,Prévost,Benjamin,brunetzacharie@example.com,+33 4 88 73 06 62,Lille,59000,"313, rue de Daniel",Basic,2021-08-08,47,F,False,2024-05-26
+26539,Besnard,Daniel,josetteevrard@example.com,+33 2 76 85 01 16,Nice,06000,"309, chemin de Lemaître",Premium,2023-07-19,27,F,True,2023-08-17
+945311,Duval,Marianne,aimeweber@example.org,+33 (0)5 33 91 30 98,Montpellier,34000,avenue Masse,Standard,2021-01-12,23,M,True,2023-10-10
+296189,Torres,Laetitia,vlebreton@example.org,03 85 57 72 78,Toulouse,31000,"52, rue de Chevallier",Basic,2023-02-05,65,M,False,2023-08-23
+385957,Rousset,Alphonse,jribeiro@example.org,05 56 83 62 53,Nice,06000,"86, avenue de Hebert",Basic,2021-03-06,36,F,False,2022-10-30
+381220,Marques,Victor,ulucas@example.net,+33 3 82 33 93 95,Marseille,13000,"565, avenue Blanchard",Basic,2023-10-04,71,M,False,2024-04-03
+569197,Gilles,Catherine,victoire96@example.org,+33 3 65 58 26 86,Nice,06000,"40, boulevard Margot Giraud",Standard,2020-09-26,75,F,True,2021-11-24
+806606,Meyer,Lucy,ybruneau@example.org,+33 5 56 57 32 75,Bordeaux,33000,"280, rue Lefebvre",Premium,2024-08-09,32,F,True,2024-08-09
+347611,Robin,Thomas,luc23@example.com,+33 (0)4 94 95 97 75,Nantes,44000,"54, boulevard Leroux",Standard,2020-04-05,35,F,False,2021-07-21
+435353,Lemaire,Élisabeth,jleroux@example.net,04 32 31 27 10,Marseille,13000,"77, rue Pauline Lefebvre",Basic,2021-03-15,45,F,True,2023-09-11
+976163,Besnard,Isabelle,carolinelefebvre@example.com,0482151229,Marseille,13000,"22, rue de Couturier",Standard,2022-11-23,53,M,False,2023-07-30
+745965,Perez,Adrienne,ndurand@example.net,03 22 54 38 48,Montpellier,34000,chemin Jacques Roux,Standard,2022-04-20,74,F,True,2023-04-25
+275894,Pons,Aurore,augustin47@example.net,+33 (0)4 79 80 29 09,Nice,06000,avenue Luc Lelièvre,Standard,2022-06-03,31,M,False,2024-01-14
+37731,Lemonnier,Margot,marthe65@example.com,05 54 52 54 83,Lyon,69000,"24, rue Susan Martineau",Basic,2023-02-12,71,F,True,2023-10-17
+939334,Noël,Alphonse,susanledoux@example.org,+33 2 22 25 12 93,Lille,59000,rue Ramos,Premium,2024-02-21,64,M,True,2024-02-26
+912428,Maurice,David,isabelletoussaint@example.com,0244910231,Paris,75000,"2, avenue Torres",Standard,2022-09-18,24,F,False,2023-03-18
+52427,Wagner,Édouard,olebrun@example.net,+33 6 73 79 27 49,Toulouse,31000,rue Corinne Robert,Standard,2021-08-08,77,M,True,2021-12-09
+207324,Charles,Guy,martinedenis@example.net,+33 (0)3 45 25 32 69,Lyon,69000,"568, avenue Deschamps",Standard,2021-04-23,63,F,False,2024-10-24
+771168,Guillot,Éléonore,beguemaggie@example.com,0299101750,Lyon,69000,"81, rue Julien",Standard,2022-09-30,62,F,True,2023-12-30
+731985,Bazin,Julie,colasremy@example.net,0625757475,Paris,75000,"33, chemin Lejeune",Premium,2022-11-21,59,M,False,2023-11-17
+340124,Antoine,Célina,jsauvage@example.org,05 61 02 56 26,Toulouse,31000,"7, rue de Fernandes",Standard,2023-09-28,73,F,False,2024-02-17
+99453,Durand,Anaïs,rgerard@example.com,+33 1 48 76 24 84,Marseille,13000,"87, avenue Dominique Leroux",Standard,2021-08-29,19,M,False,2023-09-25
+370534,Gautier,Daniel,maryse79@example.com,+33 3 75 87 36 70,Paris,75000,"55, boulevard de Gilbert",Standard,2020-04-27,23,M,False,2021-05-10
+555364,Carre,Zacharie,susan25@example.net,01 83 07 56 33,Montpellier,34000,"85, boulevard Zacharie Verdier",Premium,2020-11-30,80,F,True,2024-04-16
+732251,Leclercq,Gilbert,sabine93@example.net,+33 3 84 79 70 58,Toulouse,31000,rue Laurence Lebrun,Standard,2022-08-18,34,M,False,2022-12-22
+514788,Pinto,Josette,daniel76@example.org,0276507330,Lyon,69000,"89, rue de Maillard",Standard,2024-04-25,79,F,True,2024-06-26
+329429,Texier,Élise,valentineimbert@example.org,+33 (0)4 50 03 88 43,Lyon,69000,"50, rue Guy Collet",Premium,2023-12-08,54,M,False,2023-12-17
+683288,Weiss,Paulette,xchevalier@example.com,+33 6 06 82 97 51,Marseille,13000,"44, boulevard de De Sousa",Standard,2020-01-22,40,F,False,2022-06-24
+614969,Rodriguez,Tristan,denisbernard@example.com,04 98 25 68 06,Lyon,69000,"36, boulevard Virginie Samson",Premium,2021-03-14,70,M,False,2021-05-06
+339753,Moreno,Olivie,grosbertrand@example.net,+33 7 91 12 21 82,Montpellier,34000,"61, chemin Édouard Pasquier",Premium,2022-03-21,65,M,True,2023-09-05
+516377,Maréchal,Émilie,hardyarnaude@example.net,02 96 81 37 21,Montpellier,34000,"13, boulevard de Laurent",Basic,2020-05-28,38,F,True,2020-11-07
+501946,Dupont,Augustin,patriciarey@example.org,+33 4 72 56 60 84,Lyon,69000,"7, rue de Fournier",Standard,2021-09-24,38,M,True,2022-07-31
+218981,Rolland,Isabelle,wrobert@example.net,+33 (0)4 98 82 63 28,Strasbourg,67000,boulevard de Carre,Basic,2020-02-13,41,F,True,2022-05-18
+392482,Gros,Amélie,victoirerenaud@example.net,0480354614,Lyon,69000,"8, boulevard de Pires",Standard,2024-07-18,27,M,True,2024-10-04
+193810,Marie,Augustin,vgautier@example.org,+33 4 56 39 45 70,Toulouse,31000,"59, boulevard Laurent",Standard,2021-07-21,43,M,False,2022-11-14
+226936,Arnaud,Xavier,colettefouquet@example.com,0633692778,Paris,75000,"23, rue de Martin",Basic,2019-12-02,77,F,False,2020-03-07
+898803,Dubois,Robert,baillycapucine@example.com,+33 2 37 05 33 65,Lille,59000,avenue Marcelle Simon,Standard,2020-03-28,22,F,True,2022-10-08
+942168,Mathieu,Thibaut,remypineau@example.org,+33 (0)1 56 72 01 13,Nantes,44000,"584, boulevard Voisin",Standard,2020-02-10,50,M,True,2020-08-24
+225942,François,Anastasie,cmartinez@example.com,06 37 62 09 01,Paris,75000,"47, rue Marguerite Maillard",Standard,2021-02-12,52,F,False,2021-12-01
+723176,Pons,Suzanne,delahayebenjamin@example.net,07 53 04 51 95,Lyon,69000,"38, chemin Monique Courtois",Standard,2021-10-23,52,M,True,2024-02-10
+336290,Guyon,Lucie,anouk29@example.com,0638542786,Toulouse,31000,"51, chemin Pelletier",Basic,2021-01-19,66,M,False,2023-10-18
+472665,Chrétien,Élodie,augustinle-goff@example.net,+33 4 83 82 92 36,Toulouse,31000,rue Constance Devaux,Basic,2023-10-13,54,M,True,2023-10-29
+108858,Bruneau,Aimé,emmanuelle23@example.net,0751558686,Bordeaux,33000,"256, avenue Meyer",Basic,2024-03-26,58,M,True,2024-06-07
+936570,Bodin,Susanne,costaguy@example.org,0380643813,Lille,59000,rue Collet,Premium,2019-10-26,53,M,False,2020-11-05
+194735,Diallo,Maggie,mercierphilippe@example.com,+33 (0)5 63 56 09 45,Strasbourg,67000,"53, boulevard Jacqueline Martel",Basic,2021-07-29,31,F,False,2024-04-10
+712106,Marin,Arthur,wjulien@example.org,0666816995,Lyon,69000,"70, avenue Thierry",Basic,2020-03-03,74,F,True,2020-11-27
+264405,Devaux,Éric,moulinmonique@example.net,+33 (0)6 31 65 39 70,Lille,59000,"88, boulevard Bouchet",Premium,2023-11-08,74,F,False,2023-12-14
+717041,Rodriguez,Jeanne,guilloucapucine@example.org,+33 6 36 49 68 04,Montpellier,34000,"9, rue Catherine Cousin",Premium,2019-11-25,68,F,True,2021-04-13
+304387,Brunel,Vincent,rmasson@example.org,+33 (0)3 55 77 30 62,Marseille,13000,"5, rue Leblanc",Basic,2020-02-25,30,F,False,2024-05-06
+748502,Hebert,Susan,rousseljacques@example.org,+33 1 49 77 56 08,Lyon,69000,"28, avenue Arthur Lopes",Standard,2021-10-04,71,M,True,2023-08-12
+736150,Briand,Daniel,fernandezremy@example.net,0676832102,Paris,75000,rue de Chartier,Basic,2024-07-21,80,M,True,2024-08-09
+691915,Morvan,Alix,christiane12@example.net,02 49 80 33 24,Nantes,44000,"60, boulevard Richard",Premium,2023-08-10,45,F,False,2023-11-05
+698258,Da Costa,Isabelle,baillysuzanne@example.org,0381733777,Nantes,44000,"3, boulevard Luce Techer",Basic,2024-04-10,18,F,False,2024-05-07
+699486,Rodriguez,Danielle,patriciamercier@example.com,+33 (0)3 20 36 53 46,Lyon,69000,rue Tristan Valette,Standard,2021-01-20,24,F,False,2022-09-25
+201961,Leconte,Monique,anais79@example.org,+33 6 95 98 62 39,Montpellier,34000,"27, boulevard Antoine Delattre",Premium,2020-01-18,75,M,True,2020-08-11
+88963,Fischer,Philippine,penelopeclerc@example.org,0430647548,Lille,59000,"84, avenue de Collin",Premium,2024-08-04,58,F,True,2024-10-16
+968311,Normand,Josette,charlottemarques@example.org,04 84 88 91 44,Lyon,69000,"99, chemin Breton",Basic,2024-07-30,31,M,True,2024-08-22
+200557,Lévêque,Thibault,valeriedaniel@example.net,04 30 49 63 92,Toulouse,31000,"63, boulevard de Lenoir",Standard,2024-08-17,48,F,False,2024-09-17
+836795,Pinto,Inès,georgesramos@example.net,0383395275,Lyon,69000,"57, avenue de Tanguy",Standard,2021-07-21,29,F,False,2023-01-02
+267099,Seguin,David,gerard68@example.com,+33 (0)2 14 34 77 89,Marseille,13000,"496, rue Aurélie Techer",Standard,2021-01-21,34,M,False,2023-02-20
+499508,Nguyen,Amélie,georges22@example.org,0178014188,Montpellier,34000,"71, rue Peltier",Basic,2020-09-24,63,M,True,2023-02-21
+10334,Marie,Yves,roland63@example.org,+33 4 15 85 32 08,Toulouse,31000,"33, rue Élodie Chauvet",Standard,2020-04-28,33,F,False,2020-06-21
+95606,Masse,Nicole,suzanne71@example.org,+33 5 54 33 79 22,Lyon,69000,"11, chemin Gay",Basic,2021-03-06,32,F,False,2023-08-23
+467838,Benoit,Nicolas,faureanouk@example.net,05 94 26 96 08,Montpellier,34000,"77, chemin de Lebrun",Standard,2023-02-07,53,F,True,2023-02-23
+532214,Chauvet,Amélie,nseguin@example.com,+33 2 23 96 26 33,Nantes,44000,"56, chemin Grondin",Standard,2024-01-22,71,M,False,2024-06-17
+25455,Torres,Geneviève,madeleinerocher@example.org,01 48 69 55 60,Montpellier,34000,"77, avenue Adam",Standard,2023-10-23,75,M,True,2024-03-06
+282194,Poulain,Raymond,kbarbier@example.org,+33 1 64 65 03 12,Lyon,69000,boulevard de Girard,Standard,2021-10-04,33,F,False,2022-10-27
+550768,Adam,Catherine,theodoreblanchard@example.com,0344364281,Marseille,13000,"1, rue de Hervé",Basic,2020-06-27,76,F,False,2024-06-27
+938393,Brun,Noël,pierrejosette@example.net,+33 (0)2 14 14 28 17,Montpellier,34000,"32, rue de Moulin",Standard,2023-06-01,46,M,False,2023-06-07
+896959,Picard,Pauline,denise08@example.net,+33 (0)5 36 22 07 22,Nice,06000,"559, rue Cécile Roger",Standard,2022-08-01,32,F,True,2023-01-18
+169960,Riou,Julie,mercieralexandria@example.org,+33 (0)4 42 78 76 88,Bordeaux,33000,"88, boulevard de Monnier",Basic,2021-12-04,64,F,True,2024-07-01
+753250,Bouvet,Anne,edith62@example.net,02 54 03 19 54,Nantes,44000,avenue de Weber,Standard,2024-09-22,50,M,False,2024-10-10
+391772,Laurent,Thomas,wphilippe@example.org,+33 5 82 27 92 46,Paris,75000,"40, chemin Claire Alexandre",Standard,2022-05-12,60,F,False,2024-05-05
+389616,Martins,Célina,arnauderoux@example.org,+33 2 40 45 05 76,Toulouse,31000,"51, boulevard Françoise Martel",Basic,2023-10-09,62,F,False,2023-10-24
+71046,Benard,Vincent,thierryguillou@example.org,+33 (0)2 40 28 40 08,Bordeaux,33000,"850, chemin Susanne Raymond",Standard,2023-11-22,54,M,False,2024-05-18
+651975,Millet,Roland,bernard89@example.org,07 46 80 89 81,Strasbourg,67000,"85, chemin de Meunier",Premium,2022-10-06,39,M,False,2023-01-24
+97716,Chauvet,Alice,anais30@example.org,0143236936,Toulouse,31000,"58, rue François",Basic,2021-06-25,21,F,True,2022-03-05
+278404,Petitjean,Christine,vasseurchantal@example.org,02 48 17 59 57,Bordeaux,33000,"688, chemin de Laine",Standard,2020-02-18,39,F,False,2021-06-15
+715759,Lopes,Susan,mauricesimon@example.com,04 23 58 47 60,Nice,06000,"24, boulevard Hubert",Standard,2024-03-27,28,F,True,2024-06-20
+486903,Brunet,Eugène,antoinette66@example.net,0457132971,Bordeaux,33000,"7, avenue Honoré Legros",Premium,2021-12-05,38,M,True,2023-12-10
+349999,Lemaître,Georges,noel77@example.com,+33 5 53 63 43 92,Lyon,69000,"69, avenue de Perez",Basic,2020-01-28,44,F,True,2020-12-05
+86308,Gallet,Alain,elodiegilbert@example.com,+33 (0)2 85 00 72 02,Strasbourg,67000,"25, rue Ruiz",Standard,2020-07-06,25,F,False,2023-04-27
+40833,Guillon,Émile,bonneauadrien@example.org,+33 5 35 71 49 49,Lyon,69000,"5, rue Pinto",Standard,2020-08-30,60,M,True,2023-03-29
+165039,Weiss,Philippine,mahejulie@example.org,0158652775,Nantes,44000,"74, rue Stéphanie Ruiz",Basic,2022-01-09,48,M,True,2023-05-31
+252372,Pinto,Henri,augustechevalier@example.org,+33 (0)2 78 17 22 14,Lyon,69000,"49, avenue de Gay",Basic,2021-08-09,38,M,True,2023-05-07
+975042,Weiss,Marguerite,mathilde37@example.net,+33 (0)4 95 26 35 10,Strasbourg,67000,avenue Julien Mahe,Premium,2020-11-08,75,M,True,2022-10-29
+821794,Lacombe,Tristan,ulucas@example.net,04 70 92 02 46,Bordeaux,33000,chemin William Dupont,Standard,2023-03-12,21,M,False,2023-06-29
+537693,Texier,Clémence,luc26@example.org,+33 (0)4 93 59 55 01,Bordeaux,33000,"333, boulevard Robert Laporte",Standard,2021-11-08,80,F,True,2023-07-07
+619171,Raymond,Juliette,bernadettepires@example.net,+33 (0)6 31 98 48 70,Toulouse,31000,"70, rue de Reynaud",Basic,2024-04-23,34,F,True,2024-10-01
+974177,Barthelemy,Julie,thomasmaury@example.org,04 13 40 39 46,Lyon,69000,"9, rue Louis",Premium,2023-05-13,38,F,False,2024-04-25
+416263,Bernard,Aurore,sanchezsuzanne@example.com,01 45 84 90 79,Lyon,69000,"284, avenue Guilbert",Standard,2021-11-05,37,M,True,2023-03-30
+571540,Bègue,Luc,pottieraurelie@example.org,0382701242,Marseille,13000,"74, avenue Martins",Basic,2021-04-27,48,M,True,2024-06-02
+378986,Pereira,Paulette,thierry88@example.net,+33 (0)2 23 21 03 14,Lille,59000,"8, rue Constance Gosselin",Basic,2021-03-17,29,M,False,2024-10-04
+487899,Gros,Gérard,nlaroche@example.com,+33 (0)4 91 15 26 38,Lille,59000,"2, rue Rodrigues",Standard,2024-05-11,20,M,True,2024-07-16
+547447,Blot,Élisabeth,christianeboulay@example.net,0156566186,Paris,75000,"83, rue de Vallet",Basic,2021-03-06,72,M,False,2022-02-21
+584536,Pires,Céline,plebrun@example.com,+33 1 72 07 30 95,Paris,75000,chemin de Delahaye,Premium,2024-01-07,20,M,True,2024-05-17
+786151,Robert,Thomas,iclement@example.org,+33 (0)2 61 77 88 51,Nice,06000,"6, chemin Regnier",Basic,2023-05-08,26,M,True,2024-04-02
+40830,Gautier,Bertrand,margot24@example.com,+33 4 32 56 18 51,Nantes,44000,"74, rue Jacquet",Premium,2022-04-23,32,M,False,2023-09-14
+746376,Morin,Guillaume,etiennegabriel@example.org,0479512939,Marseille,13000,rue Baron,Standard,2021-05-21,55,F,True,2022-09-16
+791507,Allard,Édouard,francoise41@example.com,+33 (0)4 68 61 54 02,Bordeaux,33000,boulevard Thomas,Basic,2024-06-29,80,M,False,2024-07-19
+44590,Lelièvre,Suzanne,anne81@example.com,+33 3 83 15 22 91,Marseille,13000,"8, rue Roy",Premium,2023-11-14,41,M,False,2024-08-26
+250176,Cordier,Aimé,hortense37@example.net,+33 1 81 63 96 38,Nice,06000,"72, avenue de Delorme",Standard,2024-02-24,62,M,False,2024-06-14
+261127,Chauvet,Gérard,padam@example.net,01 30 16 93 42,Toulouse,31000,"29, rue de Payet",Basic,2022-02-07,31,M,True,2022-04-10
+262139,Vallet,Benjamin,pottieranastasie@example.org,+33 4 27 19 03 10,Paris,75000,"6, avenue Meunier",Basic,2021-10-11,41,M,True,2022-05-27
+911004,Tessier,Victor,qhoareau@example.net,0596323653,Toulouse,31000,"87, avenue Benoît Fleury",Standard,2020-11-10,64,M,True,2020-11-14
+486101,Leroux,Charles,bouvetceline@example.net,0358614244,Nantes,44000,"80, rue de Coste",Standard,2023-07-02,61,M,False,2024-06-18
+317923,Weiss,Maurice,sbourgeois@example.com,05 34 42 73 72,Paris,75000,avenue Jacob,Standard,2022-10-09,50,M,False,2023-03-28
+534456,Clerc,William,royermichelle@example.com,0238484601,Toulouse,31000,"4, chemin Suzanne Moulin",Standard,2024-07-04,37,M,True,2024-10-19
+837806,Laporte,Jules,aevrard@example.org,+33 (0)4 76 86 95 07,Nantes,44000,"51, avenue de Deschamps",Standard,2024-09-12,31,M,True,2024-10-15
+614667,Bourgeois,Lorraine,mlaroche@example.net,0237679335,Lille,59000,chemin Charlotte Thierry,Premium,2022-02-15,41,M,True,2023-02-24
+349625,Teixeira,Michel,bguilbert@example.net,+33 (0)2 41 92 36 03,Montpellier,34000,"28, boulevard Besnard",Basic,2024-05-05,52,F,False,2024-09-21
+231454,Gallet,Marcel,alexandriepereira@example.org,0142961497,Lille,59000,"6, boulevard Lemaire",Standard,2020-12-19,38,F,True,2021-05-13
+829527,Joseph,Élise,benjaminollivier@example.net,0321073651,Bordeaux,33000,boulevard de Rolland,Standard,2021-12-10,33,M,False,2024-05-22
+97,Launay,Marthe,agathe78@example.net,+33 1 53 19 04 32,Montpellier,34000,"30, rue Philippe",Standard,2022-03-05,47,F,True,2022-09-27
+483241,Bonnet,Margaud,njean@example.org,+33 (0)2 50 35 46 21,Nice,06000,"16, chemin Fontaine",Basic,2022-04-28,44,M,True,2024-08-03
+717686,De Oliveira,Franck,salmonhugues@example.org,+33 (0)2 90 61 63 24,Nantes,44000,"688, rue Véronique Valentin",Premium,2021-04-21,66,M,False,2023-07-27
+226059,Pons,Audrey,juliettehebert@example.com,0390930364,Paris,75000,"271, rue de Vincent",Standard,2024-08-21,28,F,False,2024-09-12
+995688,Marie,Gabrielle,pdelaunay@example.net,+33 1 78 82 83 23,Bordeaux,33000,boulevard de Devaux,Standard,2024-05-08,58,M,False,2024-05-22
+565185,Courtois,Émile,edith81@example.com,0479822067,Marseille,13000,"23, rue de Ferrand",Standard,2021-11-13,66,F,True,2023-10-01
+442627,Mace,Luce,galletpatricia@example.com,03 20 45 00 00,Lyon,69000,"1, chemin Gaillard",Premium,2020-06-02,56,M,False,2021-02-08
+721374,Aubert,Christine,navarrosabine@example.net,0180902556,Paris,75000,"9, chemin de Chrétien",Basic,2020-07-07,68,F,True,2022-12-31
+167011,Clément,Émilie,josephinelaroche@example.net,04 42 78 12 24,Lille,59000,"705, rue Corinne Gay",Basic,2022-01-12,68,F,False,2024-01-07
+46290,Joseph,Benoît,peltierraymond@example.org,04 85 51 58 48,Nice,06000,"26, avenue Gérard",Standard,2020-01-14,74,F,True,2022-04-30
+238912,Lebrun,Alexandrie,poulainthierry@example.org,01 72 80 70 63,Lyon,69000,"99, boulevard Adrienne Durand",Standard,2024-03-01,19,M,False,2024-09-21
+131875,François,Charles,suzanne01@example.com,0253880442,Marseille,13000,"47, rue de Hoareau",Basic,2021-05-21,25,M,True,2024-06-09
+553985,Jourdan,Christophe,proyer@example.org,+33 (0)2 72 69 42 89,Nantes,44000,"56, rue Berger",Basic,2021-05-30,60,M,True,2023-03-13
+386144,Mace,Monique,gbenoit@example.com,0230706462,Nantes,44000,"14, avenue Rolland",Premium,2020-12-03,37,F,True,2023-12-28
+356443,Devaux,Maggie,theodoreolivier@example.net,+33 (0)2 31 76 46 44,Nice,06000,"188, rue Tessier",Standard,2022-12-14,31,F,True,2023-06-19
+731283,Charrier,Diane,veroniquebaron@example.com,+33 6 37 90 50 40,Lyon,69000,"43, chemin Leclercq",Standard,2024-07-17,70,M,False,2024-09-05
+330378,Neveu,Gérard,opetitjean@example.org,+33 (0)2 34 19 78 71,Marseille,13000,"4, boulevard Robin",Standard,2024-10-22,67,M,False,2024-10-23
+516508,Fabre,Grégoire,uweiss@example.org,+33 (0)5 54 01 19 87,Montpellier,34000,"81, avenue de Merle",Basic,2021-07-01,55,M,True,2023-11-06
+935145,Petit,Alain,marcmichel@example.org,+33 (0)4 80 61 82 98,Lille,59000,avenue Le Roux,Basic,2024-04-10,39,F,True,2024-10-10
+276705,Chauveau,Roland,pagesarnaude@example.org,+33 5 35 59 52 01,Paris,75000,"911, boulevard de Renault",Basic,2024-01-17,57,M,True,2024-02-28
+306439,Jean,Nicolas,elaporte@example.com,+33 (0)2 69 63 22 39,Bordeaux,33000,"421, chemin Xavier Marques",Standard,2024-05-26,62,M,True,2024-08-15
+96704,Adam,Auguste,gilles88@example.com,+33 (0)4 97 05 37 66,Nice,06000,"9, rue de Ferreira",Premium,2020-06-19,31,F,False,2021-07-24
+818210,Moreau,Augustin,bertranddijoux@example.org,0534691062,Marseille,13000,"61, rue de Roussel",Basic,2023-06-11,18,F,True,2023-10-25
+266366,Leblanc,Agathe,perretdanielle@example.net,+33 5 86 91 77 68,Toulouse,31000,"49, chemin de Charpentier",Basic,2021-09-03,20,F,False,2021-11-04
+253860,Bailly,Françoise,evrardcaroline@example.org,0456378826,Nice,06000,rue Imbert,Premium,2020-10-18,41,M,True,2022-05-22
+55994,Henry,Margot,catherine09@example.org,0188449207,Bordeaux,33000,"726, boulevard de Mallet",Basic,2020-11-13,67,F,False,2024-07-25
+870613,Courtois,Lucy,hblanc@example.com,+33 4 97 96 93 25,Nantes,44000,"5, boulevard Ruiz",Basic,2022-05-02,55,M,False,2024-10-02
+999595,Roger,Laurent,gonzalezvirginie@example.org,0272669806,Lille,59000,"9, rue Anastasie Riou",Standard,2021-06-20,70,M,True,2021-12-19
+800893,Delattre,Antoine,vroger@example.org,0370893595,Lille,59000,"38, boulevard de Boulay",Standard,2023-09-14,53,F,False,2023-09-27
+868235,Bernard,Adélaïde,hdupre@example.org,04 83 08 26 95,Bordeaux,33000,"56, boulevard Weber",Standard,2022-03-27,80,M,True,2024-09-01
+361462,Cordier,Louise,fabrealexandre@example.net,05 65 12 38 59,Bordeaux,33000,"5, chemin Alexandre",Premium,2023-01-12,55,F,True,2024-03-07
+252288,Coste,Stéphanie,claude84@example.net,+33 (0)1 56 27 30 08,Bordeaux,33000,"266, rue Ledoux",Standard,2021-01-29,76,M,True,2022-09-22
+211873,Sanchez,Édouard,sylvieraymond@example.com,+33 (0)1 75 16 80 94,Paris,75000,boulevard David Gallet,Basic,2024-02-06,71,F,True,2024-06-09
+475148,Cordier,Philippine,louisebarbe@example.org,05 56 20 53 44,Lille,59000,avenue Capucine Joseph,Premium,2020-04-10,80,F,True,2022-09-01
+170196,Boyer,Michèle,ujoly@example.com,02 56 92 50 81,Montpellier,34000,"77, rue Moreno",Standard,2023-02-19,34,M,False,2024-08-15
+806473,Merle,Rémy,chauvinedith@example.net,0214333731,Paris,75000,"35, chemin Maréchal",Standard,2020-05-19,44,F,True,2021-04-21
+571144,Chevalier,Célina,martinsclaude@example.org,+33 (0)2 28 92 06 13,Strasbourg,67000,"68, avenue Costa",Standard,2023-10-15,35,F,False,2024-05-14
+361722,Mallet,Gérard,martinpons@example.org,0466490295,Marseille,13000,avenue Cousin,Basic,2024-09-09,32,M,True,2024-10-03
+857170,Gauthier,Aurore,roland03@example.com,+33 3 85 16 78 12,Nice,06000,"38, rue Garcia",Standard,2020-03-06,38,M,False,2021-07-20
+920840,Marin,Valentine,francoistecher@example.org,0561298579,Montpellier,34000,"46, rue de Noël",Standard,2020-08-06,44,M,False,2024-03-15
+185825,Devaux,Maggie,anouk05@example.org,01 48 79 86 61,Nice,06000,"70, rue Anne Paul",Basic,2024-03-12,42,F,False,2024-05-07
+382820,Salmon,Adrien,jgimenez@example.org,+33 3 28 35 52 16,Nantes,44000,"60, avenue de Duval",Standard,2019-12-12,41,M,False,2022-03-14
+597092,Gérard,Nath,barbemanon@example.org,+33 (0)2 69 59 67 90,Nantes,44000,"484, boulevard Julie Allard",Standard,2023-04-05,46,F,True,2023-11-15
+910245,Durand,Hugues,augusteremy@example.org,+33 5 81 94 84 24,Toulouse,31000,"99, rue de Jourdan",Standard,2024-06-18,53,F,True,2024-07-04
+363624,Sauvage,Lorraine,chamel@example.net,02 34 52 38 67,Montpellier,34000,"93, rue de Michel",Premium,2022-03-24,28,M,False,2024-02-24
+398928,Valette,Denis,fouquetlorraine@example.net,07 89 87 68 29,Toulouse,31000,"88, rue de Dumont",Premium,2022-02-25,75,M,True,2023-07-07
+604823,Pierre,Clémence,weisselisabeth@example.com,+33 (0)5 46 23 50 40,Lille,59000,"76, boulevard de Rémy",Standard,2024-03-15,59,F,True,2024-09-08
+40177,Martinez,Margot,brunroger@example.net,+33 4 84 54 42 86,Montpellier,34000,"363, boulevard Théodore Lemoine",Standard,2024-08-27,30,F,True,2024-09-19
+716728,Rossi,Nicole,sophie63@example.org,+33 (0)4 83 62 41 52,Montpellier,34000,"37, avenue Jacques Bruneau",Basic,2020-12-11,19,F,False,2021-09-03
+992020,Pruvost,Matthieu,zacharielaporte@example.net,0241381865,Lille,59000,"8, chemin de Collin",Standard,2023-04-01,30,M,True,2024-06-07
+16391,Bourdon,Tristan,rleleu@example.com,0368034918,Lille,59000,"2, boulevard Christine Gaillard",Standard,2022-07-28,75,F,False,2022-10-08
+546877,Fischer,Xavier,renemorel@example.org,0361641547,Strasbourg,67000,chemin Luc Gautier,Standard,2021-07-04,58,F,True,2022-06-05
+383894,Legendre,Marcel,uollivier@example.net,+33 (0)3 76 67 50 09,Bordeaux,33000,"51, rue Diallo",Premium,2021-04-16,76,F,False,2022-10-17
+478814,Jacob,Laetitia,grenierjeanne@example.net,01 81 92 70 45,Strasbourg,67000,"98, chemin de Maréchal",Standard,2021-04-27,68,M,True,2022-01-04
+980600,Rémy,Frédérique,ddelattre@example.com,06 28 74 42 27,Nice,06000,"68, chemin de Allard",Premium,2020-12-23,39,F,True,2023-09-01
+768488,Pruvost,Audrey,stephanie59@example.com,+33 2 55 49 11 65,Lille,59000,rue Fournier,Basic,2022-09-13,60,F,False,2022-10-16
+840561,Le Gall,Alix,jacquelinejourdan@example.org,+33 (0)3 76 21 55 13,Nantes,44000,chemin Christine Fontaine,Premium,2021-02-20,32,F,True,2023-05-11
+664186,Couturier,Audrey,maggieroussel@example.com,0437889669,Toulouse,31000,"82, rue de Briand",Standard,2021-07-20,32,M,True,2023-06-17
+754304,Klein,Lucy,vgerard@example.org,+33 4 97 82 54 31,Lille,59000,"92, rue Aubert",Premium,2023-07-26,25,F,False,2023-09-12
+209905,Seguin,Guy,toussaintthibault@example.net,+33 (0)1 81 60 18 36,Paris,75000,"42, boulevard de Barthelemy",Basic,2020-11-20,36,F,False,2022-05-09
+558380,Gaillard,Pauline,hantoine@example.net,+33 (0)6 32 22 57 75,Nice,06000,"58, rue Alex Meyer",Standard,2020-01-08,75,M,True,2020-04-18
+149365,Maurice,Éric,qweber@example.net,+33 2 41 60 82 71,Lille,59000,"22, rue Louis Pichon",Standard,2022-08-01,54,M,False,2023-07-04
+687232,Guillon,Julien,germainjules@example.org,+33 3 63 62 16 59,Paris,75000,chemin de Huet,Premium,2024-08-12,43,M,False,2024-10-04
+150861,Gomez,Jacques,marcelle53@example.net,+33 4 72 84 46 17,Strasbourg,67000,"47, avenue Charpentier",Basic,2024-06-30,72,F,False,2024-08-16
+598782,Le Roux,Raymond,hortense79@example.net,+33 (0)3 28 79 97 02,Nantes,44000,"27, rue Rémy",Standard,2019-12-24,25,M,True,2022-01-27
+796651,Laine,Colette,benoitclaudine@example.net,0262988322,Lyon,69000,rue de Lucas,Basic,2023-10-19,63,F,False,2024-08-22
+416422,Chauveau,Sophie,levylaurent@example.org,+33 (0)1 73 48 79 78,Paris,75000,"697, rue de Jacquot",Standard,2022-11-29,60,M,False,2024-06-25
+699764,Buisson,Agathe,noeldiaz@example.net,01 82 03 04 43,Lyon,69000,"6, avenue Mercier",Premium,2022-12-24,21,M,True,2023-09-19
+220254,Petitjean,Henriette,simonrenee@example.org,+33 4 87 01 43 74,Lille,59000,"430, boulevard Legros",Premium,2021-03-14,32,M,False,2023-03-14
+220638,Torres,Jeanne,mmorin@example.org,+33 5 45 02 21 32,Lyon,69000,avenue de Lejeune,Standard,2020-07-07,48,F,True,2024-06-25
+56102,Noël,Julie,ferreirafrederic@example.com,02 43 22 01 90,Bordeaux,33000,"95, rue Louis Loiseau",Standard,2020-12-31,57,F,True,2024-03-05
+38821,Cousin,Henriette,auroregillet@example.com,+33 1 43 27 48 12,Bordeaux,33000,"21, rue Sophie Pascal",Premium,2021-08-20,35,F,True,2024-07-16
+655725,Hardy,Guillaume,alain95@example.org,+33 4 38 62 09 35,Marseille,13000,"11, boulevard Godard",Basic,2023-03-04,68,M,True,2023-11-27
+817070,Lemonnier,Isabelle,xdurand@example.org,+33 6 31 12 43 65,Montpellier,34000,"68, chemin Paulette Dumont",Standard,2020-11-26,79,M,False,2021-10-21
+271955,Sanchez,Noémi,andreblanchard@example.com,+33 (0)5 63 15 92 73,Paris,75000,"14, boulevard Legendre",Standard,2020-01-17,23,F,True,2020-07-26
+753759,Mace,Émile,llaunay@example.org,03 70 22 48 15,Paris,75000,"12, chemin David",Standard,2023-08-01,38,F,False,2024-02-10
+130751,Durand,Laetitia,anne79@example.net,04 98 64 91 57,Lyon,69000,"55, rue Paul Deschamps",Standard,2020-04-24,39,F,True,2024-05-22
+143507,Deschamps,Célina,hbernard@example.org,+33 (0)2 50 81 03 06,Strasbourg,67000,"81, chemin Paulette Robin",Standard,2020-09-19,66,F,True,2022-10-18
+444392,Blondel,Augustin,blondeletienne@example.net,0611290150,Marseille,13000,"4, rue de Lejeune",Premium,2021-03-10,65,M,True,2023-02-11
+258477,Vincent,Célina,xavierchevalier@example.org,0493847436,Marseille,13000,"4, rue Moreno",Premium,2020-09-04,75,M,False,2022-07-11
+365883,Rossi,Éléonore,caroline66@example.net,0790318053,Nantes,44000,"79, avenue Adam",Basic,2021-05-11,35,F,False,2023-03-21
+458027,Gérard,Édouard,isabelle18@example.org,+33 6 70 00 46 66,Lyon,69000,chemin Lorraine Pruvost,Basic,2023-02-28,64,M,True,2023-03-19
+833726,Ferreira,Benoît,fpruvost@example.net,02 53 40 04 93,Paris,75000,"519, rue de Gomes",Standard,2020-05-22,47,F,True,2022-07-05
+332048,Giraud,Augustin,juliette98@example.org,0796987313,Bordeaux,33000,"771, boulevard Frédérique Bouvet",Standard,2020-05-16,79,M,True,2022-11-11
+430846,Weber,Eugène,martinvallee@example.com,+33 (0)7 37 94 33 25,Lille,59000,"93, boulevard de Valentin",Standard,2020-09-06,53,M,False,2021-11-29
+596076,Noël,Juliette,egarcia@example.net,0320620370,Montpellier,34000,"38, rue Bouchet",Standard,2024-10-08,22,M,False,2024-10-09
+692852,Chartier,Margaux,lombardsuzanne@example.net,0236813599,Marseille,13000,"889, rue Perez",Premium,2021-02-28,61,M,True,2023-01-19
+766463,Tanguy,Constance,margaud80@example.org,03 90 48 22 17,Montpellier,34000,"883, chemin de Navarro",Premium,2020-01-02,45,F,True,2020-02-06
+180958,Bonnet,Suzanne,poirierelodie@example.org,06 65 71 23 69,Lille,59000,boulevard Anne Robin,Basic,2024-05-25,50,M,True,2024-10-20
+979525,Barbier,Danielle,lparent@example.com,+33 5 63 88 27 69,Lyon,69000,"50, boulevard Monnier",Standard,2020-07-12,60,F,False,2022-06-24
+271215,Blanc,Sophie,wmarie@example.com,+33 (0)7 88 32 74 88,Paris,75000,"66, avenue Blin",Premium,2020-10-25,31,M,False,2024-03-17
+190552,Klein,Lucie,texierastrid@example.net,0517683496,Lille,59000,avenue Danielle Langlois,Standard,2023-03-15,39,F,False,2023-07-10
+465511,Dubois,Honoré,francois62@example.org,0381648820,Toulouse,31000,"934, boulevard Marthe Charrier",Standard,2020-05-13,74,F,True,2022-04-21
+923097,Nguyen,Guillaume,anastasie72@example.net,02 14 60 91 14,Toulouse,31000,rue Coste,Standard,2020-02-29,73,F,False,2022-04-10
+693298,Faivre,Joséphine,valentinemartins@example.net,02 45 33 76 05,Nice,06000,"50, boulevard Danielle Gauthier",Premium,2022-11-09,38,M,True,2023-09-16
+817636,Bonnin,Alphonse,agneslopes@example.com,02 77 41 91 65,Nice,06000,"4, chemin de Paris",Premium,2022-08-22,53,M,False,2022-10-04
+436617,Maréchal,Camille,lelievreolivie@example.net,01 88 82 49 89,Lille,59000,"9, rue de Maréchal",Basic,2024-08-21,76,F,False,2024-10-04
+152526,Pereira,Richard,pichonrichard@example.com,+33 (0)3 69 59 26 64,Bordeaux,33000,"99, rue de Rocher",Premium,2024-07-02,25,F,False,2024-10-22
+730311,Maurice,Emmanuelle,glanglois@example.com,0234559450,Paris,75000,boulevard Dufour,Standard,2023-03-07,42,F,False,2024-09-18
+61434,Torres,Renée,palves@example.net,01 73 51 17 16,Strasbourg,67000,"4, boulevard de Chrétien",Standard,2021-05-08,32,M,True,2024-08-18
+846729,Delaunay,Marc,pbouvier@example.com,+33 2 40 89 45 59,Lyon,69000,avenue Aimé Girard,Premium,2024-07-15,69,F,False,2024-07-19
+315760,Dufour,Théophile,joseph04@example.com,04 26 89 66 76,Marseille,13000,avenue Rémy Renard,Standard,2024-09-06,58,F,False,2024-09-07
+330036,Briand,Aimée,cboulay@example.com,+33 (0)6 24 53 38 90,Bordeaux,33000,"63, avenue Alex Dumont",Basic,2022-06-16,55,M,False,2023-03-29
+352853,Bonnin,Stéphane,nicolasanastasie@example.net,0486300622,Marseille,13000,rue Cousin,Basic,2023-05-17,73,F,False,2023-10-04
+448981,Martel,Marine,zlanglois@example.org,0214601124,Marseille,13000,"2, boulevard Sylvie Deschamps",Basic,2023-08-29,36,M,True,2024-10-16
+670478,Chevallier,Charles,samsonelise@example.org,+33 (0)6 69 86 77 82,Marseille,13000,"3, boulevard de Pelletier",Standard,2024-03-18,19,F,False,2024-09-06
+976208,Maillard,Caroline,michellelejeune@example.com,+33 5 64 12 12 03,Paris,75000,"83, rue Aurore Perrot",Standard,2019-12-06,73,F,False,2023-03-18
+50429,Pinto,Françoise,therese25@example.com,+33 4 67 21 83 85,Montpellier,34000,"14, avenue Adam",Standard,2024-05-04,49,M,True,2024-07-02
+299061,Gilles,Chantal,nicole23@example.org,+33 (0)2 69 32 74 89,Paris,75000,"29, avenue Philippine Chauvin",Standard,2022-12-09,31,M,True,2024-07-24
+254695,Chartier,Théodore,claudineroy@example.org,+33 5 19 21 75 08,Bordeaux,33000,boulevard Chevallier,Basic,2021-07-26,60,F,False,2022-08-13
+267313,Boulanger,Michèle,arthurcollin@example.net,+33 4 75 88 24 93,Lyon,69000,"14, rue Buisson",Premium,2020-03-02,42,F,False,2020-10-02
+461941,Reynaud,Corinne,denise16@example.com,+33 4 30 44 54 46,Marseille,13000,rue de Joubert,Premium,2023-03-09,69,M,False,2023-12-14
+498190,Marion,Laure,catherinefischer@example.net,+33 (0)1 44 53 91 28,Lyon,69000,"984, avenue de Loiseau",Standard,2020-05-16,31,M,False,2023-12-29
+553327,Buisson,Philippine,pauletteblot@example.net,+33 (0)4 65 57 92 71,Bordeaux,33000,"52, rue Auguste Blanc",Premium,2024-10-19,35,F,False,2024-10-24
+784019,Weber,Mathilde,jerome42@example.org,+33 6 22 83 39 12,Toulouse,31000,boulevard de Didier,Premium,2024-05-30,30,M,True,2024-06-04
+964638,Barbier,Hélène,jeromeblondel@example.net,+33 (0)3 62 22 10 10,Toulouse,31000,"12, rue Jacquot",Standard,2023-02-23,49,M,False,2024-04-03
+483717,Gay,Alex,lambertantoine@example.net,05 32 10 81 43,Strasbourg,67000,"51, rue Lenoir",Standard,2023-02-05,58,F,False,2023-09-17
+681444,Berger,Lucy,pruvostdanielle@example.org,04 27 68 23 54,Paris,75000,"151, rue Peron",Basic,2022-07-13,63,F,True,2022-08-08
+875876,Hamel,Anne,adrienlemaitre@example.com,0519715006,Lyon,69000,"56, rue Richard",Basic,2023-09-13,41,F,True,2024-07-14
+313619,Fernandez,Mathilde,fischerzoe@example.org,0130785169,Paris,75000,"89, boulevard Bonneau",Standard,2022-12-20,79,M,True,2022-12-31
+810555,Guilbert,Patricia,aurorehumbert@example.net,+33 4 49 82 68 99,Montpellier,34000,"72, avenue de Garcia",Standard,2022-12-09,19,F,False,2024-01-23
+566163,Lesage,Frédérique,georgeseleonore@example.net,02 21 50 59 62,Montpellier,34000,"81, rue Marine Valentin",Standard,2021-10-21,62,F,True,2022-10-23
+23359,Fernandez,Gilles,wboutin@example.com,03 44 60 41 80,Nantes,44000,"22, chemin Xavier Gros",Standard,2020-11-21,21,M,True,2022-03-24
+482943,Coulon,Cécile,maryse12@example.com,0532921188,Bordeaux,33000,"71, avenue Da Costa",Standard,2020-10-24,45,M,False,2021-07-26
+147758,Marion,Christiane,denise91@example.com,+33 (0)4 13 54 21 85,Nice,06000,"85, chemin Gay",Standard,2021-03-13,55,F,True,2024-07-05
+132559,Bernard,Camille,gilbertpoulain@example.com,+33 (0)1 46 01 63 56,Nantes,44000,"8, rue Dufour",Standard,2024-02-12,50,F,True,2024-05-30
+186253,Gaudin,Isaac,michelle40@example.org,+33 (0)7 38 82 24 73,Paris,75000,avenue Legrand,Standard,2023-10-24,67,F,True,2024-03-23
+969089,Leleu,Alix,leducchristophe@example.org,0181119509,Nantes,44000,"21, rue Aurélie Faure",Standard,2024-06-04,49,M,False,2024-06-12
+238459,Besnard,Bernard,lucbertrand@example.org,02 19 69 50 07,Toulouse,31000,"9, chemin de Guilbert",Standard,2022-11-24,46,M,True,2024-05-29
+733087,Cousin,Michel,susanneduhamel@example.net,05 57 98 93 65,Nantes,44000,"844, avenue Peron",Basic,2022-08-06,71,F,True,2022-12-20
+970662,Blanchard,Christelle,susanlanglois@example.net,+33 (0)3 63 10 45 02,Nantes,44000,"496, rue de Muller",Basic,2024-03-11,60,M,True,2024-09-08
+223698,Petitjean,Agnès,hboucher@example.org,0285680648,Toulouse,31000,"7, rue Jacqueline Lévy",Premium,2022-05-04,32,M,False,2023-04-09
+934276,Ribeiro,Élodie,emmanuellebailly@example.org,0370646280,Marseille,13000,"80, chemin Maryse Girard",Basic,2021-12-13,26,F,False,2023-08-16
+470795,Legendre,Xavier,edouard56@example.org,+33 3 29 09 08 55,Lille,59000,avenue Lombard,Standard,2022-11-16,25,M,False,2024-05-12
+766110,Leroy,Margot,reyeugene@example.org,+33 (0)6 35 86 19 02,Strasbourg,67000,"77, rue Roy",Basic,2022-06-12,56,F,True,2022-07-18
+751919,Legendre,Alexandrie,thomasroyer@example.net,+33 (0)3 26 01 22 75,Strasbourg,67000,"10, avenue Thierry",Basic,2023-04-08,60,F,False,2024-10-02
+82774,Julien,Frédéric,marcel25@example.net,0590950740,Nantes,44000,"8, rue de Dumont",Standard,2020-03-30,80,M,True,2024-03-09
+51922,Monnier,Mathilde,lucy03@example.net,+33 (0)1 75 06 49 34,Lille,59000,"4, boulevard de Lemaire",Premium,2024-07-01,52,F,True,2024-07-01
+365124,Marchand,Arthur,aurelielambert@example.net,0183184913,Nantes,44000,"39, chemin de Perrot",Standard,2022-03-04,79,M,False,2023-03-17
+719349,Duhamel,Zacharie,benjaminetienne@example.com,+33 (0)1 60 06 79 90,Montpellier,34000,"7, avenue de Lévy",Standard,2022-12-29,56,M,True,2023-02-12
+573293,Chevallier,Michelle,qmartel@example.org,+33 6 95 84 23 39,Lille,59000,"69, rue Bernard",Standard,2020-06-09,36,F,False,2023-10-11
+480747,Hoareau,Patricia,xaviermillet@example.org,+33 2 99 50 17 36,Strasbourg,67000,"72, chemin Gautier",Standard,2023-12-27,57,M,False,2024-06-22
+267146,Gonzalez,Isabelle,techerjulien@example.net,+33 3 66 34 51 10,Strasbourg,67000,"1, avenue de Labbé",Premium,2024-05-20,79,F,True,2024-05-29
+256151,Thomas,Lucie,qgros@example.org,+33 (0)2 85 11 66 73,Nantes,44000,"604, chemin Olivie Thibault",Basic,2022-11-04,58,F,True,2024-01-10
+473062,Breton,Geneviève,emmanuelpicard@example.net,04 68 26 03 36,Strasbourg,67000,"30, chemin Adrienne Dijoux",Basic,2024-06-07,34,F,True,2024-07-13
+268261,Pinto,Célina,lemonnierjeannine@example.org,+33 (0)5 96 11 52 38,Lille,59000,rue Perret,Standard,2020-06-22,25,M,False,2021-11-26
+678465,Raynaud,Monique,danielbenard@example.net,+33 (0)7 50 59 16 11,Strasbourg,67000,"93, chemin Emmanuelle Dias",Premium,2020-08-27,53,M,False,2020-12-31
+596613,Bouvet,Célina,tbrun@example.net,+33 (0)5 24 88 00 53,Nice,06000,"293, avenue de Raynaud",Standard,2022-06-23,80,F,False,2023-02-18
+952751,Blin,Christiane,suzannegregoire@example.com,0468018227,Bordeaux,33000,"1, boulevard Benoit",Premium,2024-02-20,41,M,True,2024-10-15
+562723,Rodriguez,Lorraine,gregoiredupre@example.org,+33 (0)3 86 14 47 43,Montpellier,34000,"28, avenue Alves",Basic,2022-04-27,24,F,True,2024-10-09
+735157,Dubois,Margot,nathalietecher@example.net,+33 (0)2 55 03 04 23,Toulouse,31000,"87, rue Marthe Henry",Premium,2021-06-25,73,F,True,2022-07-08
+752722,Leclercq,Augustin,constancemorin@example.com,0175646300,Nice,06000,"837, chemin Anastasie Mary",Standard,2022-12-26,37,M,False,2023-03-10
+235137,Payet,Pauline,pottieralphonse@example.net,+33 2 33 61 74 69,Nantes,44000,boulevard Bouvet,Standard,2024-05-20,57,M,True,2024-08-31
+125128,Leroy,Rémy,zoetraore@example.net,0214966229,Paris,75000,rue Humbert,Standard,2021-09-01,77,M,False,2023-09-27
+525428,Lefèvre,Aimée,xpascal@example.com,06 34 06 36 21,Strasbourg,67000,"665, chemin Blin",Standard,2019-12-07,50,M,True,2022-05-16
+315100,Bègue,Auguste,zperret@example.org,0345396504,Paris,75000,"862, rue Roy",Basic,2021-12-24,38,F,True,2023-08-14
+454914,Lemaire,Emmanuel,william43@example.com,+33 4 84 85 42 18,Bordeaux,33000,"9, avenue de Valentin",Standard,2020-12-16,19,M,True,2023-11-18
+775846,Loiseau,Anouk,luciedupuis@example.net,0231996433,Nantes,44000,"33, chemin de Jacques",Premium,2020-08-24,36,M,False,2024-10-15
+932145,Poulain,Margot,marchalelisabeth@example.org,+33 3 82 43 03 11,Marseille,13000,"88, rue Alix Fouquet",Premium,2021-05-26,61,F,True,2022-07-14
+905515,Bigot,Renée,kblot@example.net,0805769453,Paris,75000,"66, avenue de Dupuy",Basic,2022-12-16,50,F,True,2023-10-17
+976426,Petitjean,Jeannine,bandre@example.org,0254125450,Paris,75000,"6, chemin de Grégoire",Basic,2023-02-07,19,M,True,2023-04-15
+194369,Samson,Andrée,tristanguichard@example.net,05 45 47 21 30,Lille,59000,"42, boulevard Georges Da Costa",Standard,2022-09-20,48,M,False,2023-02-08
+128492,Renault,Bernard,manon89@example.org,+33 2 97 61 45 43,Toulouse,31000,"8, avenue de Vasseur",Standard,2023-02-01,74,F,True,2024-06-25
+236983,Duval,Maggie,martinezelisabeth@example.net,+33 (0)7 88 52 21 15,Lille,59000,"971, chemin Hugues Lacroix",Standard,2023-09-16,48,M,True,2024-06-23
+775028,Schmitt,Aurore,rpoirier@example.net,01 75 17 32 08,Toulouse,31000,"42, avenue Catherine Payet",Premium,2022-03-10,48,F,False,2024-08-22
+419750,Normand,Tristan,mroche@example.com,+33 (0)2 47 40 05 27,Bordeaux,33000,"1, chemin Manon Paul",Basic,2023-06-21,69,F,True,2023-07-26
+26547,Fernandes,Christine,nathalierodriguez@example.org,0344573160,Nice,06000,"23, avenue Evrard",Standard,2020-02-14,61,F,False,2020-11-09
+172468,Fontaine,Louis,philippealexandria@example.net,0488286209,Paris,75000,"89, chemin Rodriguez",Standard,2024-01-07,78,M,False,2024-10-12
+645262,Benard,Valérie,noelcaron@example.org,+33 5 94 39 38 99,Bordeaux,33000,"5, avenue Marie Lemonnier",Standard,2022-12-28,27,F,True,2024-10-01
+819838,Monnier,Maurice,michelbriand@example.com,+33 (0)4 88 07 61 08,Paris,75000,"9, avenue Seguin",Premium,2021-09-13,46,M,True,2023-10-26
+801627,Bodin,Susan,veroniquebourgeois@example.com,+33 (0)2 38 07 12 61,Lille,59000,"938, rue de Munoz",Premium,2020-11-03,44,F,True,2021-03-22
+698582,Lombard,Bernadette,elisabeth46@example.com,+33 4 75 74 22 33,Toulouse,31000,"32, boulevard de Durand",Basic,2024-01-03,38,F,True,2024-09-05
+791026,Raynaud,Stéphane,honore58@example.net,+33 3 39 25 60 62,Nantes,44000,"63, rue de Perrier",Premium,2020-09-18,56,F,False,2021-09-29
+906486,Moulin,Daniel,rossibertrand@example.com,07 64 13 07 53,Paris,75000,"91, rue Alexandre Delmas",Standard,2023-11-20,37,F,True,2023-12-17
+812403,Collin,Jérôme,dpeltier@example.net,0546397561,Nantes,44000,"17, chemin Philippe Colas",Standard,2021-09-06,27,M,True,2021-12-27
+982288,Toussaint,Margaux,tessieremmanuel@example.com,0219195564,Marseille,13000,rue de Verdier,Standard,2021-04-18,63,M,False,2024-05-11
+621202,Lecomte,Jeanne,catherine87@example.com,+33 1 81 70 20 42,Lyon,69000,"20, avenue de Pereira",Standard,2023-01-05,25,F,False,2023-04-20
+156941,Le Gall,David,henrietteberger@example.net,05 49 78 97 60,Lille,59000,"273, avenue Marin",Standard,2020-07-30,54,F,False,2024-05-17
+242561,Chevalier,Susanne,gillesnavarro@example.net,01 55 75 98 89,Lille,59000,"465, rue de Lefort",Basic,2023-12-06,73,F,True,2024-08-28
+943832,Rocher,Marine,luc19@example.org,04 77 43 08 95,Nice,06000,"31, rue Mathieu",Standard,2024-09-04,77,M,True,2024-09-10
+883073,Laurent,Philippine,claire64@example.com,04 37 70 00 26,Montpellier,34000,"56, boulevard Margot Ledoux",Standard,2022-10-22,19,F,False,2023-09-25
+420388,Léger,Henriette,callain@example.com,+33 (0)5 61 36 56 04,Nantes,44000,"1, rue Adrienne Gomes",Standard,2024-01-14,31,M,False,2024-10-11
+493103,Philippe,Auguste,kmaillard@example.com,+33 6 36 71 19 52,Montpellier,34000,"63, rue Lemonnier",Standard,2021-09-09,35,M,True,2023-04-08
+753942,Petit,Joseph,adele12@example.net,+33 6 35 63 64 31,Paris,75000,"948, chemin de Raymond",Basic,2023-10-11,79,F,False,2024-03-11
+967419,Carre,Antoinette,thoarau@example.com,0444344149,Toulouse,31000,boulevard Josette Pruvost,Basic,2022-10-12,76,F,True,2023-04-19
+874285,Munoz,Raymond,ines74@example.org,0555408822,Montpellier,34000,"6, avenue de Rodriguez",Standard,2021-11-16,38,M,False,2024-06-13
+758693,Carpentier,Hortense,eugene32@example.org,+33 (0)6 02 02 17 07,Paris,75000,"68, chemin Lombard",Premium,2023-11-15,74,F,True,2024-08-16
+388543,Marques,Charlotte,reneemarchand@example.org,+33 1 42 04 49 64,Lyon,69000,"3, boulevard de Hubert",Standard,2023-04-29,74,M,False,2024-07-12
+862936,Leroy,Guy,franck21@example.org,04 79 65 89 63,Marseille,13000,"157, avenue de Chevalier",Standard,2020-04-11,67,F,True,2022-02-18
+273774,Munoz,Agnès,laurent45@example.com,03 67 11 38 85,Toulouse,31000,chemin Vidal,Premium,2020-05-25,75,F,False,2022-01-06
+165225,Leconte,Nicole,arthurmenard@example.org,0633424631,Bordeaux,33000,rue Margaud Lebreton,Standard,2023-04-12,57,M,False,2024-10-17
+435877,Bodin,Nicole,bgimenez@example.org,0272946902,Lille,59000,"8, chemin Christophe Turpin",Standard,2024-09-28,76,F,True,2024-10-10
+39363,Hernandez,Marc,bertrand23@example.net,0175228946,Strasbourg,67000,"82, rue Louis Bourgeois",Standard,2021-06-01,21,M,False,2021-12-25
+160765,Ferrand,Stéphanie,alaindufour@example.org,+33 4 78 69 13 30,Lyon,69000,"4, chemin Lejeune",Basic,2024-03-28,39,F,True,2024-09-25
+71010,Peron,Marine,leconteaurelie@example.com,0142762799,Strasbourg,67000,"13, chemin Clerc",Premium,2023-07-26,19,M,False,2024-05-08
+58772,Chevalier,Jérôme,nathalieblin@example.net,0742303420,Strasbourg,67000,"247, rue de Robin",Premium,2021-08-09,55,F,False,2023-07-15
+171344,Peltier,Susanne,stephaneroux@example.com,+33 (0)5 87 64 87 17,Paris,75000,"55, rue Laurence Brunel",Basic,2021-03-14,56,M,False,2021-12-23
+52477,Collin,Agnès,elisebesnard@example.org,02 78 58 12 25,Paris,75000,"6, avenue Patricia Joubert",Standard,2022-01-21,39,M,True,2023-04-03
+959298,Guillou,Monique,paulvallee@example.org,+33 6 30 91 21 21,Nice,06000,rue Laporte,Standard,2021-12-24,48,F,False,2023-12-05
+44002,Huet,Marthe,marie86@example.net,+33 (0)2 21 70 74 03,Lille,59000,"25, boulevard de Maurice",Standard,2024-03-07,40,M,False,2024-06-12
+186859,Joseph,Timothée,teixeirafrancois@example.org,+33 2 72 76 43 38,Lille,59000,"12, chemin Henri Meunier",Standard,2022-10-31,27,M,True,2023-01-26
+184704,Mallet,Margaret,marianne49@example.net,03 52 30 83 34,Bordeaux,33000,"17, boulevard Zoé Paul",Basic,2023-01-04,64,M,True,2024-01-26
+628328,Blin,Vincent,dupuycelina@example.org,+33 1 42 59 68 51,Paris,75000,"83, chemin Laurence Boutin",Basic,2024-02-21,21,F,False,2024-05-01
+447887,Couturier,Margaux,huguesjoseph@example.net,0558342777,Marseille,13000,"62, rue de Durand",Standard,2023-03-12,19,F,True,2024-01-30
+928851,Alexandre,Adèle,blanchardsuzanne@example.net,+33 1 55 59 22 94,Marseille,13000,chemin Lecoq,Standard,2020-07-01,50,M,False,2023-12-28
+44083,Fernandes,Jeanne,thomas96@example.org,03 82 72 62 94,Toulouse,31000,"70, rue Xavier Dupré",Standard,2021-09-02,46,M,False,2022-10-09
+28382,Imbert,Marguerite,etienne33@example.net,+33 (0)3 68 80 04 98,Marseille,13000,"21, rue Gauthier",Standard,2024-03-10,63,M,True,2024-05-16
+390188,Bouvet,Théodore,mendesalix@example.net,+33 5 82 86 87 64,Nantes,44000,boulevard Masson,Premium,2020-06-17,28,F,False,2023-03-29
+583293,Tanguy,Bertrand,truiz@example.org,+33 (0)1 72 62 98 77,Bordeaux,33000,"673, chemin de Diallo",Basic,2022-01-16,19,M,False,2023-09-10
+295456,Alexandre,Océane,philippine19@example.com,+33 3 65 42 19 26,Marseille,13000,"41, rue Schneider",Premium,2023-03-26,50,F,True,2024-09-12
+47680,Jacquet,Isaac,elisabeth31@example.com,02 47 17 97 26,Montpellier,34000,"599, boulevard de Pereira",Basic,2020-05-10,20,M,False,2021-09-21
+732230,Philippe,Frédéric,boyermatthieu@example.com,05 55 02 00 05,Toulouse,31000,"68, boulevard Delaunay",Standard,2024-03-07,19,F,False,2024-05-19
