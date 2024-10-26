@@ -41,7 +41,14 @@ cd ecommerce-dw
 mkdir -p ./dags ./logs ./scripts ./data
 ```
 
-3. Start the services:
+3. Create .env:
+```bash
+AIRFLOW_UID=50000
+AIRFLOW_GID=50000
+AIRFLOW_FERNET_KEY=46BKJoQYlPPOexq0OhDZnIlNepKFf87WFwLbfzqDDho=
+```
+
+4. Start the services:
 ```bash
 docker-compose up -d
 ```
@@ -109,32 +116,6 @@ The project consists of four main DAGs:
 - `mv_ventes_temporel`: Time-based sales analysis
 
 ## Development
-
-### Adding New Data Sources
-
-1. Create data generator in `scripts/`
-2. Add extraction logic in `dw_etl_dag.py`
-3. Update schema in `dw_create_schema.py`
-4. Add transformations in `dw_etl_dag.py`
-
-### Creating New Reports
-
-1. Add materialized view in `dw_reporting_dag.py`
-2. Create corresponding Superset dashboard
-
-## Monitoring
-
-### Airflow UI
-
-- DAG status
-- Task execution
-- Logs and history
-
-### Database Monitoring
-
-- Connection status
-- Query performance
-- Storage usage
 
 ## Troubleshooting
 
