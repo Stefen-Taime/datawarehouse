@@ -203,6 +203,20 @@ The project consists of four main DAGs:
 - `mv_ventes_par_categorie`: Sales by product category
 - `mv_ventes_temporel`: Time-based sales analysis
 
+## Apache Superset Setup
+
+### 1. Start Superset with Docker Compose
+
+```
+docker-compose -f docker-compose-superset.yml up -d
+Access Superset UI
+
+Navigate to http://localhost:8088
+Login with credentials:
+
+- Username: admin
+- Password: admin
+```
 ## Dashboard Previews
 
 ### Sales Overview Dashboard
