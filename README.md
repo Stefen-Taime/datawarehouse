@@ -5,6 +5,94 @@
 This project implements a complete data warehouse solution for e-commerce analytics using Apache Airflow, PostgreSQL, and Apache Superset. It includes automated data generation, ETL processes, and analytics dashboards.
 
 ## Architecture
+### System Architecture Diagram
+```mermaid
+flowchart TB
+    subgraph Sources["Data Sources"]
+        direction TB
+        S1[("CSV File\nCustomers")] 
+        S2[("JSON File\nProducts")]
+        S3[("XML File\nTransactions")]
+    end
+
+    subgraph DataGen["Data Generation"]
+        direction TB
+        DG[/"Apache Airflow DAG\nGenerate Data"/]
+        PG["Python Script\nGenerator"]
+    end
+
+    subgraph Storage["Data Storage"]
+        direction TB
+        VS[("Volume\n/opt/airflow/data")]
+        LOG[("Volume\n/opt/airflow/logs")]
+    end
+
+    subgraph ETLLayer["ETL Layer"]
+        direction TB
+        subgraph Airflow["Apache Airflow"]
+            direction TB
+            DAG1["DAG\nSchema Creation"]
+            DAG2["DAG\nETL Process"]
+            DAG3["DAG\nReporting"]
+        end
+        
+        subgraph Process["ETL Process"]
+            direction TB
+            E["Extraction\nPython Operators"]
+            T["Transformation\nPython/SQL"]
+            L["Loading\nPostgres Operators"]
+        end
+    end
+
+    subgraph Warehouse["Data Warehouse"]
+        direction TB
+        subgraph Dimensions["Dimension Tables"]
+            D1["DIM_TIME"]
+            D2["DIM_CUSTOMER"]
+            D3["DIM_PRODUCT"]
+        end
+        
+        subgraph Facts["Fact Tables"]
+            F1["FACT_SALES"]
+        end
+        
+        subgraph Views["Views Layer"]
+            V1["Superset\nViews"]
+            V2["Materialized\nViews"]
+        end
+    end
+
+    subgraph Analytics["Analytics Layer"]
+        direction TB
+        SUP["Apache Superset\nVisualization"]
+        BI["BI Tools\nDashboards"]
+    end
+
+    %% Connections
+    DataGen --> Storage
+    S1 & S2 & S3 --> ETLLayer
+    ETLLayer --> Warehouse
+    Warehouse --> Analytics
+    
+    %% Detailed Flow
+    DG --> PG --> VS
+    VS --> E --> T --> L
+    DAG1 & DAG2 & DAG3 --> Process
+    D1 & D2 & D3 --> F1
+    F1 --> V1 & V2
+    V1 & V2 --> SUP --> BI
+
+    classDef sourceSystem fill:#e6f3ff,stroke:#333,stroke-width:2px
+    classDef storageSystem fill:#f9f3ff,stroke:#333,stroke-width:2px
+    classDef processSystem fill:#fff3e6,stroke:#333,stroke-width:2px
+    classDef warehouseSystem fill:#e6ffe6,stroke:#333,stroke-width:2px
+    classDef analyticsSystem fill:#ffe6e6,stroke:#333,stroke-width:2px
+
+    class S1,S2,S3 sourceSystem
+    class VS,LOG storageSystem
+    class ETLLayer,Process processSystem
+    class Warehouse,Dimensions,Facts,Views warehouseSystem
+    class Analytics,SUP,BI analyticsSystem
 
 ```plaintext
 project/
