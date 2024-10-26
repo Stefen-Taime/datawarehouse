@@ -94,7 +94,7 @@ flowchart TB
     class Warehouse,Dimensions,Facts,Views warehouseSystem
     class Analytics,SUP,BI analyticsSystem```plaintext
 ```
-
+```
 project/
 ├── dags/                    # Airflow DAG definitions
 │   ├── generate_sample_data.py
