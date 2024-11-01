@@ -5,7 +5,6 @@
 This project implements a complete data warehouse solution for e-commerce analytics using Apache Airflow, PostgreSQL, and Apache Superset. It includes automated data generation, ETL processes, and analytics dashboards.
 
 ## Architecture
-### System Architecture Diagram
 ```mermaid
 flowchart TB
     subgraph Sources["Data Sources"]
@@ -92,7 +91,7 @@ flowchart TB
     class VS,LOG storageSystem
     class ETLLayer,Process processSystem
     class Warehouse,Dimensions,Facts,Views warehouseSystem
-    class Analytics,SUP,BI analyticsSystem```plaintext
+    class Analytics,SUP,BI analyticsSystem
 ```
 ```
 project/
